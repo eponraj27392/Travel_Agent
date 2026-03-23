@@ -94,7 +94,7 @@ with st.sidebar:
         "Tell me about Day 3",
         "What happens at Pangong Lake?",
         "What should I pack for high altitude?",
-        "I want to book a trip",
+        "I want to book a trip to Manali - leh",
     ]
     for q in quick_questions:
         if st.button(q, use_container_width=True):
