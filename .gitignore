@@ -1,0 +1,19 @@
+# Environment & secrets
+.env
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Databases (runtime data)
+*.db
+
+# Generated outputs
+output/
+graph.mmd
+graph.png
+
+# Editor
+.excalidraw

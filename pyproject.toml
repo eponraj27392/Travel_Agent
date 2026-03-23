@@ -1,0 +1,29 @@
+[project]
+name = "hr-agents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langgraph",
+    "langchain",
+    "langchain-openai",
+    "streamlit",
+    "python-dotenv",
+    "numpy",
+    "pandas",
+    "jupyter==1.0.0",
+    "jupyter-client==8.2.0",
+    "jupyter-console==6.6.3",
+    "jupyter-core==5.3.0",
+    "jupyter-events==0.6.3",
+    "jupyter-server==2.5.0",
+    "jupyter-server-terminals==0.4.4",
+    "jupyterlab-pygments==0.2.2",
+    "jupyterlab-widgets==3.0.7",
+    "notebook==6.5.4",
+    "traitlets==5.9.0",
+    "langchain-ollama>=1.0.1",
+    "langfuse>=4.0.1",
+    "langgraph-checkpoint-sqlite>=3.0.3",
+]
