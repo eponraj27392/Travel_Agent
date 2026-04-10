@@ -1,0 +1,706 @@
+{
+  "itinerary": {
+    "id": "5D_nubra_pangong_triangle",
+    "title": "Nubra to Pangong: The Complete Ladakh Triangle",
+    "state": [
+      "Ladakh"
+    ],
+    "packageDuration": "5D/4N",
+    "noOfPlaces": 14,
+    "totalDistance": "530 km",
+    "season": "June to September",
+    "description": "Experience the complete Ladakh adventure across three iconic regions. Start in the mystical Sham Valley exploring ancient monasteries and geological wonders. Ascend the world's highest motorable road Khardung La (5,602m) to the pristine Nubra Valley - the 'valley of flowers' with Diskit Monastery and Bactrian camel safaris at Hunder sand dunes. Finally, drive to the world's highest saltwater lake, Pangong Tso. This premium 5-day package combines high-altitude adventure, cultural immersion, unique desert experiences, and breathtaking natural wonders. Ideal for adventure enthusiasts seeking comprehensive Ladakh exploration.",
+    "highlights": [
+      "Khardung La Pass (5,602m) - world's highest motorable road with panoramic Himalayan vistas",
+      "Nubra Valley - remote 'valley of flowers' nestled in high-altitude desert",
+      "Diskit Monastery - 14th-century Buddhist temple with magnificent 32m golden Maitreya Buddha statue",
+      "Hunder Sand Dunes - unique Ladakhi desert with Bactrian camel safaris",
+      "ATV Riding - adventurous quad biking through desert terrain (optional)",
+      "Pangong Lake (4,250m) - world's highest saltwater lake with ever-changing blue waters",
+      "Chang La Pass (5,360m) - stunning secondary mountain pass with 360° views",
+      "Sham Valley - Sangam confluence, Magnetic Hill, Gurudwara Pathar Sahib, SECMOL",
+      "Shyok River valley - remote mountain scenery and authentic local villages",
+      "Stargazing - minimal light pollution for astronomical observation"
+    ],
+    "overviewSections": [
+      {
+        "title": "Day 1: Arrival in Leh | Critical Acclimatization & City Exploration",
+        "dayNumbers": [
+          1
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Welcome to Ladakh! Upon arrival at Leh airport, you'll be transferred to your hotel. Leh sits at 3,500 meters above sea level. Spend your first day prioritizing acclimatization. Avoid strenuous activities and rest well. In the afternoon, if feeling fresh, explore nearby attractions at a leisurely pace. Visit Leh Palace, a magnificent 17th-century royal residence, or head to Shanti Stupa for breathtaking panoramic views. Explore Leh Market for authentic Tibetan handicrafts and souvenirs."
+      },
+      {
+        "title": "Day 2: Sham Valley Day Tour | The Mysterious Paths of Ladakh",
+        "dayNumbers": [
+          2
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Explore the mystical Sham Valley, a region rich in spiritual significance and geological phenomena. Drive to Sangam where Zanskar and Indus rivers meet. Experience the famous Magnetic Hill optical illusion. Visit sacred Gurudwara Pathar Sahib and explore SECMOL campus, the filming location from '3 Idiots'. Conclude at Hall of Fame War Memorial. Optional White Water Rafting at Sangam before returning to hotel."
+      },
+      {
+        "title": "Day 3: Leh to Nubra Valley via Khardung La Pass | Gateway to Silk Route & High-Altitude Adventure",
+        "dayNumbers": [
+          3
+        ],
+        "tourType": "Scenic tour",
+        "shortDescription": "After checkout, embark on a spectacular journey towards the cold deserts of Nubra Valley through the legendary Khardung La Pass (5,602m), the world's highest motorable road. Visit the ancient Diskit Monastery, home to the magnificent 32-meter tall golden statue of Maitreya Buddha overlooking the valley. Experience the unique landscape of Hunder Sand Dunes with the option to enjoy Bactrian camel safari or adventurous ATV ride through the striking desert terrain. Arrive at your campsite in Nubra Valley for overnight stay."
+      },
+      {
+        "title": "Day 4: Nubra Valley to Pangong Lake | Challenging High-Altitude Remote Drive & Color-Changing Lake",
+        "dayNumbers": [
+          4
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Check-out from Nubra Valley and begin a challenging scenic journey towards the world-famous Pangong Tso. Drive through remote Shyok River valley with spectacular views of dramatic Ladakh peaks. Pass through Tangtse village for lunch. Upon arrival at Pangong Lake (4,250m), one of the world's highest saltwater lakes, witness the mesmerizing, ever-changing hues of crystalline blue waters. Explore the pristine shores and experience the tranquility of this iconic destination. Overnight at lakeside camp."
+      },
+      {
+        "title": "Day 5: Pangong Lake Sunrise & Return to Leh via Chang La Pass | Departure",
+        "dayNumbers": [
+          5
+        ],
+        "tourType": "departure",
+        "shortDescription": "Begin with spectacular sunrise at Pangong Lake with color-changing waters reflecting pink and orange morning light. After breakfast and final lakeside exploration, begin return journey to Leh crossing the stunning Chang La Pass (5,360m). Arrive in Leh by evening. Transfer to Leh Airport for departure flight, carrying unforgettable memories of Khardung La, Nubra Valley, Pangong Lake, and the cultural richness of Ladakh."
+      }
+    ],
+    "detailedItinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Leh | Critical Acclimatization & City Exploration",
+        "route": "Leh Airport (3,500m) → Hotel Leh (14 km, 45 minutes)",
+        "overnight": "Leh",
+        "description": "Welcome to Ladakh! You arrive at Leh airport situated at 3,500 meters above sea level. Spend Day 1 prioritizing rest and gradual adjustment. The 5D itinerary includes two high-altitude passes (Khardung La 5,602m and Chang La 5,360m) — proper Day 1 acclimatization is CRITICAL for health and safety.",
+        "activities": [
+          {
+            "name": "Airport Transfer & Hotel Check-in",
+            "time": "On arrival (typically 10-11 AM)",
+            "duration": "1 hour",
+            "description": "Pick-up from airport, transfer to hotel, check-in to room. Settle luggage.",
+            "distance_km": 14
+          },
+          {
+            "name": "Mandatory Rest Period",
+            "time": "11:30 AM",
+            "duration": "2.5 hours",
+            "description": "CRITICAL for high-altitude acclimatization. Rest in room at 3,500m. Allow body to adjust. Drink water. Avoid exertion, caffeine, alcohol.",
+            "altitude_m": 3500
+          },
+          {
+            "name": "Light Lunch",
+            "time": "2:00 PM",
+            "duration": "30 minutes",
+            "description": "Light meal at hotel. Avoid heavy, spicy food."
+          },
+          {
+            "name": "Leh Palace Visit",
+            "time": "3:00 PM",
+            "duration": "1.5 hours",
+            "description": "Walk leisurely to 17th-century Leh Palace. Multiple stories with wooden carvings. Panoramic views of Leh town, Indus Valley, and Ladakh Himalayas. Entry fee: ₹50-100.",
+            "altitude_m": 3500
+          },
+          {
+            "name": "Shanti Stupa Visit",
+            "time": "5:00 PM",
+            "duration": "1.5 hours",
+            "description": "White-domed Buddhist stupa on hillside, 6 km from Leh center. 100+ steps climb (manageable). Stunning sunset views of mountains. Entry: Free.",
+            "altitude_m": 3560
+          },
+          {
+            "name": "Leh Market Exploration",
+            "time": "6:45 PM",
+            "duration": "1.25 hours",
+            "description": "Vibrant bazaar with handicrafts, cashmere, Tibetan souvenirs, local restaurants. Evening stroll at relaxed pace."
+          },
+          {
+            "name": "Dinner & Early Sleep",
+            "time": "8:00 PM",
+            "duration": "1 hour",
+            "description": "Hotel dinner. Sleep by 9:30 PM for rest recovery. Early start Day 2."
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Sham Valley Day Tour | The Mysterious Paths of Ladakh",
+        "route": "Leh → Sangam (14 km) → Magnetic Hill (8 km) → Gurudwara Pathar Sahib (4 km) → SECMOL (6 km) → Hall of Fame (12 km) → Leh (18 km). Total: 62 km, 3.5-4 hours driving + 4-5 hours activities",
+        "overnight": "Leh",
+        "description": "Full-day exploration of Sham Valley at 3,200-3,400m — safe after Day 1 acclimatization. Visit mystical Sangam confluence, Magnetic Hill optical illusion, sacred Gurudwara Pathar Sahib, SECMOL filming location of 3 Idiots, and Hall of Fame War Memorial.",
+        "activities": [
+          {
+            "name": "Early Breakfast & Departure",
+            "time": "7:00 AM",
+            "duration": "30 minutes",
+            "description": "Hotel breakfast. Prepare for full-day tour."
+          },
+          {
+            "name": "Drive to Sangam",
+            "time": "7:30 AM",
+            "duration": "45 minutes",
+            "description": "Scenic drive through Leh outskirts toward Sangam confluence.",
+            "altitude_m": 3260,
+            "distance_km": 14
+          },
+          {
+            "name": "Sangam - Zanskar & Indus River Confluence",
+            "time": "8:30 AM",
+            "duration": "1.5 hours",
+            "description": "Mystical confluence where Zanskar (greenish-turquoise from glacial silt) merges with brown Indus river. Color contrast visible for kilometers downstream. Optional: White Water Rafting (₹1,500-2,500, May-September).",
+            "altitude_m": 3260
+          },
+          {
+            "name": "Drive to Magnetic Hill",
+            "time": "10:15 AM",
+            "duration": "25 minutes",
+            "description": "Short drive to the famous optical illusion site.",
+            "altitude_m": 3380,
+            "distance_km": 8
+          },
+          {
+            "name": "Magnetic Hill - Optical Illusion",
+            "time": "11:00 AM",
+            "duration": "30 minutes",
+            "description": "Famous optical illusion where vehicles roll uphill without engine power. Caused by surrounding landscape perspective (not actual magnetism). Driver turns off engine — car rolls uphill.",
+            "altitude_m": 3380
+          },
+          {
+            "name": "Drive to Gurudwara Pathar Sahib",
+            "time": "11:45 AM",
+            "duration": "15 minutes",
+            "description": "Short drive to the sacred Sikh shrine.",
+            "altitude_m": 3340,
+            "distance_km": 4
+          },
+          {
+            "name": "Gurudwara Pathar Sahib - Sacred Sikh Shrine",
+            "time": "12:15 PM",
+            "duration": "1 hour",
+            "description": "Stunning white-marble Sikh shrine set against rocky cliff. Commemorates 15th-century Guru Nanak's visit to Ladakh. Participate in langar (free vegetarian meal). Remove shoes, cover head with scarf (provided). Photography outside only.",
+            "altitude_m": 3340
+          },
+          {
+            "name": "Drive to SECMOL Campus",
+            "time": "1:30 PM",
+            "duration": "20 minutes",
+            "description": "Drive to the famous 3 Idiots filming location.",
+            "altitude_m": 3500,
+            "distance_km": 6
+          },
+          {
+            "name": "SECMOL Campus - 3 Idiots Filming Location",
+            "time": "2:15 PM",
+            "duration": "1.25 hours",
+            "description": "Educational institution featured in Bollywood film 3 Idiots (2009). Campus overlooks Indus Valley. Famous filming locations include classroom, hostel, landscape shots. Currently active school — visitors can explore buildings and take photos at movie sites. Cafeteria available.",
+            "altitude_m": 3500
+          },
+          {
+            "name": "Lunch Stop",
+            "time": "3:30 PM",
+            "duration": "1 hour",
+            "description": "Lunch at local restaurant. Thukpa, momos, or traditional Ladakhi dishes. Budget: ₹300-500."
+          },
+          {
+            "name": "Drive to Hall of Fame",
+            "time": "4:40 PM",
+            "duration": "30 minutes",
+            "description": "Drive to the war memorial.",
+            "altitude_m": 3480,
+            "distance_km": 12
+          },
+          {
+            "name": "Hall of Fame War Memorial",
+            "time": "5:20 PM",
+            "duration": "1 hour",
+            "description": "War memorial honoring Indian soldiers especially those who died in the 1962 Sino-Indian War. Museum with artifacts, weapons, uniforms, and photographs documenting Ladakh's military history. Educational with valley views.",
+            "altitude_m": 3480
+          },
+          {
+            "name": "Return to Leh",
+            "time": "6:30 PM",
+            "duration": "45 minutes",
+            "description": "Scenic drive back to Leh.",
+            "distance_km": 18
+          },
+          {
+            "name": "Evening at Hotel & Dinner",
+            "time": "7:30 PM",
+            "duration": "1 hour",
+            "description": "Dinner at hotel. Early rest for Day 3 early start."
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Leh to Nubra Valley via Khardung La Pass | Gateway to Silk Route & High-Altitude Adventure",
+        "route": "Leh (3,500m) → Khardung La Base (39 km, 2.5 hours) → Khardung La Pass (5,602m, 3 km, 45 mins) → Diskit (25 km, 1.5 hours) → Hunder (40 km, 1.5 hours). Total: 107 km, 5.5-6.5 hours driving + activities",
+        "overnight": "Nubra Valley",
+        "description": "Cross Khardung La Pass (5,602m), the world's highest motorable road, into pristine Nubra Valley. Visit Diskit Monastery with its 32m golden Maitreya Buddha statue. Experience unique Hunder Sand Dunes and optional Bactrian camel safari at 3,900m.",
+        "activities": [
+          {
+            "name": "Very Early Breakfast & Departure",
+            "time": "4:30 AM",
+            "duration": "30 minutes",
+            "description": "Very light breakfast — eggs, toast, tea. Prepare for early pass crossing."
+          },
+          {
+            "name": "Drive to Khardung La Base",
+            "time": "5:45 AM",
+            "duration": "2.5 hours",
+            "description": "Early start critical — must cross pass before afternoon clouds form. Scenic drive uphill through barren Ladakh landscape. Gradually increasing altitude with multiple photo stops.",
+            "altitude_m": 4500,
+            "distance_km": 39
+          },
+          {
+            "name": "Rinchen Cafe - Mountain Food Stop",
+            "time": "8:30 AM",
+            "duration": "20 minutes",
+            "description": "Iconic cafe at Khardung La approach. Famous for hot maggi noodles with stunning mountain views. Perfect acclimatization stop before final pass push. Restrooms available.",
+            "altitude_m": 4600
+          },
+          {
+            "name": "Final Ascent to Khardung La Pass",
+            "time": "9:00 AM",
+            "duration": "45 minutes",
+            "description": "Final push to world's highest motorable road. Road becomes steeper. Stop multiple times for photos and acclimatization breaks. Extreme altitude — breathing becomes noticeably difficult.",
+            "altitude_m": 5602,
+            "distance_km": 3
+          },
+          {
+            "name": "Khardung La Pass (5,602m) - World's Highest Motorable Road",
+            "time": "10:00 AM",
+            "duration": "1 hour",
+            "description": "Legendary mountain pass at extreme altitude. 360° panoramic views of snow-capped Himalayan peaks and valleys below. Military checkpoint present. Temperature often below 0°C even in summer. Wind can be strong. Stay near vehicle. Maximum 1 hour exposure.",
+            "altitude_m": 5602
+          },
+          {
+            "name": "Descent from Khardung La towards Nubra",
+            "time": "11:15 AM",
+            "duration": "1.5 hours",
+            "description": "Dramatic descent with stunning views. Road winds through mountain passes. Altitude decreases significantly allowing re-pressurization.",
+            "altitude_m": 3700,
+            "distance_km": 25
+          },
+          {
+            "name": "Diskit Monastery - Ancient Buddhist Temple",
+            "time": "1:15 PM",
+            "duration": "1.5 hours",
+            "description": "14th-century Buddhist monastery overlooking Nubra Valley. Main attraction: magnificent 32-meter tall golden Maitreya Buddha statue (constructed 2010). Panoramic valley views. 50+ Buddhist monks in residence. Remove shoes in temple areas, cover head.",
+            "altitude_m": 3700
+          },
+          {
+            "name": "Lunch at Diskit",
+            "time": "3:00 PM",
+            "duration": "45 minutes",
+            "description": "Lunch at local restaurant near Diskit. Basic Ladakhi food — noodles, momos, rice. Budget: ₹250-400."
+          },
+          {
+            "name": "Drive to Hunder Sand Dunes",
+            "time": "4:00 PM",
+            "duration": "1.5 hours",
+            "description": "Drive through Sumur village to Hunder Sand Dunes at 3,900m. Unique geological phenomenon — sand dunes in high-altitude desert of glacial origin.",
+            "altitude_m": 3900,
+            "distance_km": 40
+          },
+          {
+            "name": "Hunder Sand Dunes - Desert Experience at High Altitude",
+            "time": "5:45 PM",
+            "duration": "1.25 hours",
+            "description": "Remarkable sand dunes at 3,900m elevation. Two-humped Bactrian camels graze on sparse vegetation. Optional camel safari and ATV riding. Late afternoon golden light ideal for photography.",
+            "altitude_m": 3900
+          },
+          {
+            "name": "Arrival at Nubra Valley Camp",
+            "time": "7:30 PM",
+            "duration": "30 minutes",
+            "description": "Check-in to basic tent camp or homestay. Basic facilities — toilet, hot water bucket shower. Rustic but authentic experience.",
+            "altitude_m": 3900
+          },
+          {
+            "name": "Dinner & Rest",
+            "time": "8:00 PM",
+            "duration": "1 hour",
+            "description": "Hearty dinner provided at camp. Early sleep (9 PM) for next day's challenging drive."
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Nubra Valley to Pangong Lake | Challenging High-Altitude Remote Drive & Color-Changing Lake",
+        "route": "Hunder (3,900m) → Shyok (3,200m, 25 km) → Tangtse (3,900m, 55 km) → Pangong Lake (4,250m, 100 km). Total: 180 km, 8-9 hours. ⚠️ CHALLENGING DRIVE - HIGH ALTITUDE THROUGHOUT",
+        "overnight": "Pangong Lake",
+        "description": "Most challenging driving day — 8-9 hours of continuous mountain travel over rough terrain at high altitude. Drive through Shyok village to world-famous Pangong Lake at 4,250m. The route is rough, remote, with no fuel stations after Leh. Evening offers exceptional stargazing in minimal light pollution.",
+        "activities": [
+          {
+            "name": "Early Breakfast & Camp Checkout",
+            "time": "6:00 AM",
+            "duration": "45 minutes",
+            "description": "Early breakfast at camp. Pack belongings. Settle camp bill."
+          },
+          {
+            "name": "Drive to Shyok Village",
+            "time": "7:00 AM",
+            "duration": "1 hour",
+            "description": "Scenic descent through Nubra valley towards Shyok River. Landscape shows gradual transition from high desert to river valley.",
+            "altitude_m": 3200,
+            "distance_km": 25
+          },
+          {
+            "name": "Shyok Village Stop",
+            "time": "8:45 AM",
+            "duration": "1.5 hours",
+            "description": "One of the most remote settlements in Ladakh. Experience authentic mountain village culture. Local restaurants serve basic food. Browse handicrafts. Photography of river valley and mountains.",
+            "altitude_m": 3200
+          },
+          {
+            "name": "Drive from Shyok to Tangtse",
+            "time": "10:30 AM",
+            "duration": "3 hours",
+            "description": "Longest continuous driving stretch. Road becomes rougher — unmaintained sections, gravel, rocky terrain. Remote high-altitude wilderness. Minimal settlements along route.",
+            "altitude_m": 3900,
+            "distance_km": 55
+          },
+          {
+            "name": "Tangtse Village - Lunch Stop",
+            "time": "1:45 PM",
+            "duration": "1.25 hours",
+            "description": "Rest stop at remote village. Lunch at local restaurant — basic Ladakhi food. Budget: ₹250-400. Browse shops and rest.",
+            "altitude_m": 3900
+          },
+          {
+            "name": "Drive from Tangtse to Pangong Lake",
+            "time": "3:15 PM",
+            "duration": "3+ hours",
+            "description": "Final and most remote stretch to Pangong Lake. Road increasingly challenging — rough, high-altitude, minimal settlements. First glimpses of lake appear around 60 km mark.",
+            "altitude_m": 4250,
+            "distance_km": 100
+          },
+          {
+            "name": "Arrival at Pangong Lake",
+            "time": "6:45 PM",
+            "duration": "15 minutes",
+            "description": "Arrival at world's highest major saltwater lake. Lake stretches 134 km east-west with 65% in Tibet. Late afternoon provides stunning light on water.",
+            "altitude_m": 4250
+          },
+          {
+            "name": "Pangong Lake Evening Exploration",
+            "time": "7:00 PM",
+            "duration": "1.5 hours",
+            "description": "Walk along pristine lakeside. Witness water colors — turquoise, blues, reflections of mountains. Photography in golden evening light. Water temperature extremely cold.",
+            "altitude_m": 4250
+          },
+          {
+            "name": "Check-in & Dinner",
+            "time": "8:45 PM",
+            "duration": "45 minutes",
+            "description": "Check-in to basic hotel/guesthouse at Pangong. Dinner provided. Early sleep — body requires rest at 4,250m altitude.",
+            "altitude_m": 4250
+          },
+          {
+            "name": "Stargazing (Optional)",
+            "time": "9:30 PM",
+            "duration": "1+ hours",
+            "description": "Minimal light pollution at Pangong Lake allows exceptional stargazing. Clear night skies reveal Milky Way, constellations, planets. Bring blanket for outdoor viewing.",
+            "altitude_m": 4250
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Pangong Lake Sunrise & Return to Leh via Chang La Pass | Departure",
+        "route": "Pangong Lake (4,250m) → Chang La Pass (5,360m) → Tangtse (3,900m) → Leh (3,500m). Distance: 172 km, Duration: 8-9 hours",
+        "overnight": "",
+        "description": "Begin with magical sunrise at Pangong Lake — colors shift from dark blue through pink, orange, turquoise as sun rises. Drive back via Chang La Pass (5,360m). Arrive Leh evening with option for immediate flight or overnight stay.",
+        "activities": [
+          {
+            "name": "Sunrise at Pangong Lake",
+            "time": "5:30 AM",
+            "duration": "2 hours",
+            "description": "Spectacular sunrise — lake undergoes color transformation: dark blue → pink → orange → turquoise. Golden light floods mountains. Iconic Pangong experience. Bring blanket and hot tea. Tripod recommended.",
+            "altitude_m": 4250
+          },
+          {
+            "name": "Breakfast & Continued Lake Exploration",
+            "time": "8:00 AM",
+            "duration": "1.5 hours",
+            "description": "Breakfast at hotel. Final walk around Pangong Lake. Collect final memories and photos. Experience quiet morning before departure crowds arrive."
+          },
+          {
+            "name": "Hotel Checkout & Begin Return Journey",
+            "time": "10:00 AM",
+            "duration": "15 minutes",
+            "description": "Settle bill, pack bags, depart for Leh."
+          },
+          {
+            "name": "Drive from Pangong Lake to Tangtse",
+            "time": "10:15 AM",
+            "duration": "3+ hours",
+            "description": "Retrace outbound route. Remote high-altitude drive through Ladakh wilderness. Same rough terrain as outbound. Reverse perspective offers different views.",
+            "altitude_m": 3900,
+            "distance_km": 100
+          },
+          {
+            "name": "Lunch at Tangtse",
+            "time": "1:45 PM",
+            "duration": "1.25 hours",
+            "description": "Lunch break at Tangtse village. Same restaurant or different choice. Rest before final pass crossing.",
+            "altitude_m": 3900
+          },
+          {
+            "name": "Drive from Tangtse to Chang La Pass",
+            "time": "3:15 PM",
+            "duration": "1.5-2 hours",
+            "description": "Ascent back toward Chang La Pass through barren mountain terrain.",
+            "altitude_m": 5360,
+            "distance_km": 50
+          },
+          {
+            "name": "Chang La Pass (5,360m) - Afternoon Crossing",
+            "time": "5:00 PM",
+            "duration": "1 hour",
+            "description": "Recross Chang La Pass in afternoon. Different lighting than morning ascent. Afternoon clouds provide dramatic atmospheric effects. Late afternoon sunset light on peaks creates beautiful photography. Wind often increases in afternoon.",
+            "altitude_m": 5360
+          },
+          {
+            "name": "Descent to Leh",
+            "time": "6:15 PM",
+            "duration": "1.5-2 hours",
+            "description": "Scenic descent with golden light on mountains. Altitude decreases significantly. Arrive Leh by evening.",
+            "altitude_m": 3500,
+            "distance_km": 64
+          },
+          {
+            "name": "Arrival in Leh",
+            "time": "8:00 PM",
+            "duration": "15 minutes",
+            "description": "Hotel check-in or direct to airport depending on flight time.",
+            "altitude_m": 3500
+          },
+          {
+            "name": "Evening Options",
+            "time": "8:15 PM",
+            "duration": "Varies",
+            "description": "Option 1: Late evening flight to Delhi (if booked). Option 2: Overnight stay in Leh with next-day morning departure. Overnight stay recommended for rest after long driving days."
+          }
+        ]
+      }
+    ],
+    "permitInfo": {
+      "required": true,
+      "details": "Inner Line Permit (ILP) required for Nubra Valley and Pangong Lake. Restricted area due to India-China border proximity.",
+      "availableIn": "Leh (DC Office - District Commissioner's Office)",
+      "processing": "1-2 working days",
+      "assistance": "Driver can guide to DC office. Alternatively, hotel arranges permit through local contacts (add ₹200-300 convenience fee). Processing: 1-2 working days."
+    },
+    "healthTips": [
+      "CRITICAL: This is HIGH-RISK high-altitude tour. Two passes above 5,300m in 5 days. AMS incidence 20-30%.",
+      "DAY 1 ACCLIMATIZATION: MANDATORY full rest day. Avoid exertion, alcohol, heavy meals. Let body adapt to 3,500m.",
+      "DAY 3 PEAK EXPOSURE: Khardung La (5,602m) is tour's highest point. Limit time to 1 hour maximum. Rapid ascent from 3,500m to 5,602m is demanding.",
+      "RAPID PRESSURE CHANGES: Days 3-4 involve rapid altitude changes (5,602m → 3,700m → 4,250m). Body undergoes extreme stress. Rest critical.",
+      "HYDRATION: Drink 5-6 LITERS water daily - thin air causes rapid dehydration. Monitor urie color - pale yellow is target.",
+      "AVOID: Alcohol for first 3 days. Smoking increases altitude sickness risk. Heavy meals cause nausea at altitude.",
+      "SLEEP: Essential for acclimatization. Aim 8+ hours nightly despite discomfort.",
+      "MONITOR AMS: Watch for headache, nausea, insomnia, dizziness, fatigue, shortness of breath, restlessness. Report immediately to guide.",
+      "MEDICATION: Acetazolamide (Diamox) helps prevent/reduce AMS. Typical dose: 250mg twice daily starting 1-2 days before ascent. MUST consult doctor.",
+      "SUN: UV exposure is INTENSE at 5,000m+. Sunburn occurs in 10-15 minutes. SPF 50+ REQUIRED. Reapply every 1-2 hours.",
+      "NO EXERTION: Avoid running, heavy lifting, strenuous exercise at altitude. Walk slowly and deliberately.",
+      "CONTRAINDICATED: Pregnant women, severe heart disease, uncontrolled high BP, severe respiratory disease, recent surgery (6 months) - NOT RECOMMENDED.",
+      "MEDICAL: SNM Hospital, Leh is primary facility. Limited services in remote areas. Travel insurance with ALTITUDE COVERAGE MANDATORY.",
+      "DESCENT PROTOCOL: If severe AMS develops, descend 1,000m immediately. This relieves symptoms quickly.",
+      "DIET: Eat frequent light meals rather than large heavy meals. Avoid spicy food first 2 days. Thukpa (noodle soup) is ideal altitude food.",
+      "COMMUNICATION: Keep guide's contact. Phone coverage patchy - offline maps essential. Inform emergency contact of schedule.",
+      "SKIP IF: Extremely unfit, serious medical conditions, altitude sickness in past, not acclimatized in mountains before"
+    ],
+    "packingList": [
+      "Warm layers - thermal underwear, fleece jackets, wool sweaters (ESSENTIAL for 5,602m passes)",
+      "Down jacket or heavy insulated coat - critical for extreme altitude",
+      "Windproof and waterproof outer jacket - high-altitude weather protection",
+      "Warm hat covering ears - wind at 5,600m is extreme",
+      "Gloves and mittens - liner gloves plus heavy gloves for passes",
+      "Comfortable trekking shoes with good grip",
+      "Sunscreen SPF 50+, sunglasses (polarized), lip balm with SPF",
+      "Camera and extra batteries (cold reduces battery life)",
+      "Portable charger/power bank",
+      "Water bottle (2-3 liters) and electrolyte salts",
+      "Medications - paracetamol, ibuprofen, Diamox (prescription needed)",
+      "Altitude sickness medication - Acetazolamide (Diamox) if prone (prescription required)",
+      "Dry cough lozenges - altitude causes dry throat/cough",
+      "Blister treatment and moleskin - for trekking shoes",
+      "Insect repellent - mosquitoes near river valleys",
+      "Personal hygiene items - limited shops in remote areas",
+      "Light indoor clothing - hotels have heating",
+      "Casual evening wear for relaxation",
+      "Binoculars - wildlife observation and mountain viewing",
+      "Notebook/pen - journal memorable moments"
+    ],
+    "pricing": {
+      "currency": "INR",
+      "gstNote": "All prices exclude 5% GST",
+      "includes": [
+        "Vehicle with certified Ladakhi mountain driver (10+ years high-altitude experience)",
+        "Fuel, tolls, and parking throughout journey",
+        "Driver's accommodation and meals",
+        "Hotel accommodation in Leh (2 nights)",
+        "Basic tent camp or guesthouse at Nubra Valley (1 night)",
+        "Lakeside camp or guesthouse at Pangong Lake (1 night)",
+        "Breakfast and dinner daily",
+        "All sightseeing as per itinerary",
+        "Basic first-aid kit in vehicle",
+        "Bottled water during travel",
+        "Entry to Hall of Fame"
+      ],
+      "excludes": [
+        "Flights/railway tickets to Leh",
+        "Inner Line Permit fee (₹500-1,000 per person)",
+        "Lunch on Days 2-4 (typically ₹300-500 each day)",
+        "Entry fees: Leh Palace (₹50-100), Hall of Fame (₹50-300)",
+        "Activities: Camel safari (₹500-3,000), ATV riding (₹1,500-3,500), rafting (₹1,500-2,500)",
+        "Personal shopping and souvenirs",
+        "Travel insurance",
+        "Gratuities and tips",
+        "Any medical expenses"
+      ],
+      "categories": {
+        "standard": {
+          "options": [
+                    {
+                      "car_model": "Ertiga + Scorpio",
+                      "group_size": 2,
+                      "price_per_person": 16000,
+                      "currency": "INR",
+                      "room_split": "one double room"
+                    },
+                    {
+                      "car_model": "Ertiga + Scorpio",
+                      "group_size": 4,
+                      "price_per_person": 12000,
+                      "currency": "INR",
+                      "room_split": "two double room"
+                    },
+                    {
+                      "car_model": "Ertiga + Scorpio",
+                      "group_size": 6,
+                      "price_per_person": 10000,
+                      "currency": "INR",
+                      "room_split": "three double room"
+                    },
+                    {
+                      "car_model": "Tempo Traveller",
+                      "group_size": 8,
+                      "price_per_person": 9000,
+                      "currency": "INR",
+                      "room_split": "four double room"
+                    },
+                    {
+                      "car_model": "Tempo Traveller",
+                      "group_size": 10,
+                      "price_per_person": 8000,
+                      "currency": "INR",
+                      "room_split": "five double room"
+                    },
+                    {
+                      "car_model": "Tempo Traveller",
+                      "group_size": 12,
+                      "price_per_person": 7500,
+                      "currency": "INR",
+                      "room_split": "six double room"
+                    }
+            ]
+          },
+        "deluxe": {
+                "options": [
+                {
+                  "car_model": "Xylo + Innova",
+                  "group_size": 2,
+                  "price_per_person": 19500,
+                  "currency": "INR",
+                  "room_split": "one double room"
+                },
+                {
+                  "car_model": "Xylo + Innova",
+                  "group_size": 4,
+                  "price_per_person": 14000,
+                  "currency": "INR",
+                  "room_split": "two double room"
+                },
+                {
+                  "car_model": "Xylo + Innova",
+                  "group_size": 6,
+                  "price_per_person": 13000,
+                  "currency": "INR",
+                  "room_split": "three double room"
+                },
+                {
+                  "car_model": "Tempo Traveller",
+                  "group_size": 8,
+                  "price_per_person": 12000,
+                  "currency": "INR",
+                  "room_split": "four double room"
+                },
+                {
+                  "car_model": "Tempo Traveller",
+                  "group_size": 10,
+                  "price_per_person": 11000,
+                  "currency": "INR",
+                  "room_split": "five double room"
+                },
+                {
+                  "car_model": "Tempo Traveller",
+                  "group_size": 12,
+                  "price_per_person": 10500,
+                  "currency": "INR",
+                  "room_split": "six double room"
+                }
+                ]
+              },
+
+        "premium":{
+            "options": [
+                  {
+                    "car_model": "Crysta",
+                    "group_size": 2,
+                    "price_per_person": 21000,
+                    "currency": "INR",
+                    "room_split": "one double room"
+                  },
+                  {
+                    "car_model": "Crysta",
+                    "group_size": 4,
+                    "price_per_person": 17500,
+                    "currency": "INR",
+                    "room_split": "two double room"
+                  },
+                  {
+                    "car_model": "Crysta",
+                    "group_size": 6,
+                    "price_per_person": 16000,
+                    "currency": "INR",
+                    "room_split": "three double room"
+                  },
+                  {
+                    "car_model": "Tempo Traveller",
+                    "group_size": 8,
+                    "price_per_person": 14500,
+                    "currency": "INR",
+                    "room_split": "four double room"
+                  },
+                  {
+                    "car_model": "Tempo Traveller",
+                    "group_size": 10,
+                    "price_per_person": 14000,
+                    "currency": "INR",
+                    "room_split": "five double room"
+                  },
+                  {
+                    "car_model": "Tempo Traveller",
+                    "group_size": 12,
+                    "price_per_person": 13000,
+                    "currency": "INR",
+                    "room_split": "six double room"
+                  }
+                ]
+              }
+      }
+    },
+    "tour_type": "car"
+  }
+}

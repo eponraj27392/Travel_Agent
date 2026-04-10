@@ -1,0 +1,45 @@
+{
+  "journeys": [
+    {
+      "travel_type": "Car",
+      "duration": "3-5 days",
+      "destination": "Ladakh",
+      "packages": [
+        {
+          "id": "4D_pangong_sham_wonders",
+          "title": "Pangong & Sham Wonders: Ladakh's Spiritual Gateway",
+          "packageDuration": "4D/3N",
+          "totalDistance": "348 km",
+          "file": "4D_pangong_sham_wonders.json",
+          "available_months" : "June to September",
+          "starting_price" : "Rs. 16,000 / person"
+        },
+        {
+          "id": "5D_nubra_pangong_triangle",
+          "title": "Nubra to Pangong: The Complete Ladakh Triangle",
+          "packageDuration": "5D/4N",
+          "totalDistance": "530 km",
+          "file": "5D_nubra_pangong_triangle.json",
+          "available_months" : "June to September",
+          "starting_price" : "Rs. 16,000 / person"
+        }
+      ]
+    },
+    {
+      "travel_type": "Car",
+      "duration": "7-10 days",
+      "destination": "Ladakh & Himachal",
+      "packages": [
+        {
+          "id": "8D_manali_leh",
+          "title": "Manali to Leh: Epic High-Altitude Adventure",
+          "packageDuration": "8D/7N",
+          "totalDistance": "600 km",
+          "file": "8D_manali_leh.json",
+          "available_months" : "May to September",
+          "starting_price" : "Rs. 32,000 / person"
+        }
+      ]
+    }
+  ]
+}
