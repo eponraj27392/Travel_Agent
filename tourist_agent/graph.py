@@ -1,98 +1,143 @@
 """
 Build and compile the LangGraph tourist agent.
+
+Graph layout:
+  START → assistant → route_after_assistant
+    → safe_tools        → assistant          (safe tool calls, no confirmation)
+    → sensitive_guard   → route_after_guard
+        → sensitive_tools → assistant        (confirmed sensitive action)
+        → assistant                          (cancelled sensitive action)
+    → itinerary_planner → assistant          (subagent: guided trip planner)
+    → END
+
+Checkpointer:
+  - Uses AsyncPostgresSaver when DATABASE_URL is set (must be awaited at startup).
+  - Falls back to AsyncSqliteSaver when DATABASE_URL is not set.
+  - Call `await init_graph()` once at app startup to build the singleton.
+  - Call `await cleanup_graph()` at app shutdown to release connections.
 """
-import sqlite3
+import os
+from contextlib import AsyncExitStack
 from pathlib import Path
+
+from dotenv import load_dotenv
 from langgraph.graph import StateGraph, START, END
-from langgraph.checkpoint.sqlite import SqliteSaver
-# from langgraph.checkpoint.memory import MemorySaver  # in-memory, resets on app restart
+
+load_dotenv()
 
 DB_PATH = str(Path(__file__).parent.parent / "chat_sessions.db")
+DATABASE_URL = os.getenv("DATABASE_URL")
 
 from tourist_agent.state import AgentState
 from tourist_agent.nodes import (
-    node_chatbot,
-    node_tools,
-    node_booking_extractor,
-    route_after_chatbot,
+    node_assistant,
+    node_safe_tools,
+    node_sensitive_guard,
+    node_sensitive_tools,
+    route_after_assistant,
+    route_after_guard,
 )
+from tourist_agent.planner.graph import planner_graph
+
+# Singletons — populated by init_graph() at startup
+graph      = None
+_exit_stack = AsyncExitStack()   # manages Postgres connection lifetime
 
 
-
-def save_graph_diagram(output_dir: str = ".") -> dict[str, str]:
-    """
-    Save the graph flow diagram in two formats:
-      - <output_dir>/graph.mmd   (Mermaid source, always works offline)
-      - <output_dir>/graph.png   (PNG image, requires internet for mermaid.ink API)
-
-    Returns a dict with saved file paths.
-    """
-    if not output_dir:
-        output_dir = "hr_agents/output/graph_png"
-    out = Path(output_dir)
-    out.mkdir(parents=True, exist_ok=True)
-    saved = {}
-
-    # 1. Mermaid text diagram (no dependencies needed)
-    mermaid_text = graph.get_graph().draw_mermaid()
-    mmd_path = out / "graph.mmd"
-    mmd_path.write_text(mermaid_text)
-    saved["mermaid"] = str(mmd_path)
-    print(f"Mermaid diagram saved → {mmd_path}")
-
-    # 2. PNG via mermaid.ink (needs internet connection)
-    try:
-        png_bytes = graph.get_graph().draw_mermaid_png()
-        png_path = out / "graph.png"
-        png_path.write_bytes(png_bytes)
-        saved["png"] = str(png_path)
-        print(f"PNG diagram saved     → {png_path}")
-    except Exception as e:
-        print(f"PNG skipped ({e})")
-
-    return saved
-
-
-
-def build_graph():
+def _build_compiled_graph(checkpointer, store=None):
+    """Build and compile the StateGraph with the given checkpointer and optional store."""
     builder = StateGraph(AgentState)
 
-    # Register nodes
-    builder.add_node("chatbot", node_chatbot)
-    builder.add_node("tools", node_tools)
-    builder.add_node("booking_extractor", node_booking_extractor)
+    builder.add_node("assistant", node_assistant)
+    builder.add_node("safe_tools", node_safe_tools)
+    builder.add_node("sensitive_guard", node_sensitive_guard)
+    builder.add_node("sensitive_tools", node_sensitive_tools)
+    builder.add_node("itinerary_planner", planner_graph)
 
-    # Entry point
-    builder.add_edge(START, "chatbot")
+    builder.add_edge(START, "assistant")
 
-    # After chatbot: route to tools, booking extractor, or end
     builder.add_conditional_edges(
-        "chatbot",
-        route_after_chatbot,
+        "assistant",
+        route_after_assistant,
         {
-            "tools": "tools",
-            "booking_extractor": "booking_extractor",
+            "safe_tools": "safe_tools",
+            "sensitive_guard": "sensitive_guard",
+            "itinerary_planner": "itinerary_planner",
             "__end__": END,
         },
     )
 
-    # After tools: always return to chatbot so it can formulate a response
-    builder.add_edge("tools", "chatbot")
+    builder.add_edge("safe_tools", "assistant")
 
-    # After booking extraction: done
-    builder.add_edge("booking_extractor", END)
+    builder.add_conditional_edges(
+        "sensitive_guard",
+        route_after_guard,
+        {
+            "sensitive_tools": "sensitive_tools",
+            "assistant": "assistant",
+        },
+    )
 
-    # SQLite checkpointer — persists all session state to disk
-    # File: hr_agents/chat_sessions.db
-    # Each session_id maps to its full conversation history, even after app restart
-    conn = sqlite3.connect(DB_PATH, check_same_thread=False)
-    checkpointer = SqliteSaver(conn)
-    # checkpointer = MemorySaver()  # swap to this for in-memory (no persistence)
-    return builder.compile(checkpointer=checkpointer)
+    builder.add_edge("sensitive_tools", "assistant")
+    builder.add_edge("itinerary_planner", "assistant")
 
-
-# Singleton graph instance
-graph = build_graph()
+    return builder.compile(checkpointer=checkpointer, store=store)
 
 
-# save_graph_diagram('/home/esakki/test/hr_agents/output/graph_png')
+async def init_graph():
+    """
+    Async factory — must be awaited once at application startup.
+    Initialises the checkpointer, store, and builds the graph singleton.
+    """
+    global graph
+
+    if DATABASE_URL:
+        try:
+            import psycopg
+            from psycopg.rows import dict_row
+            from langgraph.checkpoint.postgres.aio import AsyncPostgresSaver
+
+            conn = await psycopg.AsyncConnection.connect(
+                DATABASE_URL,
+                autocommit=True,
+                prepare_threshold=0,
+                row_factory=dict_row,
+            )
+            checkpointer = AsyncPostgresSaver(conn)
+
+            # setup() creates tables + indexes. CREATE INDEX CONCURRENTLY can fail
+            # if the version wraps DDL in a transaction; tables still get created,
+            # so we catch that specific error and continue.
+            try:
+                await checkpointer.setup()
+            except Exception as setup_err:
+                err_str = str(setup_err)
+                if "CONCURRENTLY" in err_str or "already exists" in err_str:
+                    print(f"[checkpointer] setup note: {setup_err} (continuing)")
+                else:
+                    raise
+
+            from tourist_agent.memory_store import init_store
+            store = await init_store()
+
+            graph = _build_compiled_graph(checkpointer, store=store)
+            print(f"[checkpointer] PostgreSQL (async) → {DATABASE_URL}")
+            return graph
+
+        except Exception as e:
+            print(f"[checkpointer] PostgreSQL failed ({e}), falling back to AsyncSqlite")
+
+    # SQLite fallback — long-term memory store not available without Postgres
+    import aiosqlite
+    from langgraph.checkpoint.sqlite.aio import AsyncSqliteSaver
+
+    conn = await aiosqlite.connect(DB_PATH)
+    checkpointer = AsyncSqliteSaver(conn)
+    graph = _build_compiled_graph(checkpointer)
+    print(f"[checkpointer] AsyncSQLite → {DB_PATH}")
+    return graph
+
+
+async def cleanup_graph():
+    """Release Postgres connections. Call from app shutdown lifespan."""
+    await _exit_stack.aclose()
