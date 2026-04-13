@@ -1,0 +1,169 @@
+{
+  "itinerary": {
+    "id": "6D_leh_nubra_hanle",
+    "title": "Cosmic Peaks & Sacred Valleys: The Hanle Expedition",
+    "state": [
+      "Ladakh"
+    ],
+    "packageDuration": "6D/5N",
+    "totalDistance": "600 km",
+    "description": "This combined tour takes you to some of the most amazing natural and cultural attractions of Ladakh. Visit Nubra valley with Bactrian camels, then head to the pristine Pangong lake. On the return to Leh, visit the top attractions of the Indus valley.",
+    "highlights": [
+      "Khardung La pass (5,602m) - world's highest motorable road",
+      "Nubra valley - 'valley of flowers' with Diskit Monastery and 32m Maitreya Buddha statue",
+      "Hunder sand dunes - ATV ride through stunning desert terrain",
+      "Pangong lake - pristine blue waters at 4,250m",
+      "Hanle - one of the highest villages in the world with ancient monasteries",
+      "Chuma Thang hot springs - therapeutic thermal springs",
+      "Sham Valley - Sangam, Magnetic Hill, Gurudwara Pathar Sahib, SECMOL (3 Idiots location)"
+    ],
+    "overviewSections": [
+      {
+        "title": "Day 1: Arrival in Leh | Leisure Time",
+        "dayNumbers": [
+          1
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Welcome to Leh! Upon arrival at the airport, get transferred to your hotel and complete check-in. Spend your day at leisure to acclimatize to the high altitude. Visit the magnificent Leh Palace, a 17th-century royal residence offering stunning panoramic views of the city and surrounding Himalayan peaks. Alternatively, head to Shanti Stupa, a serene white-domed Buddhist stupa for breathtaking vistas of Leh and the majestic mountains. Explore the vibrant Leh Market, where you can browse authentic Tibetan handicrafts, traditional souvenirs, and enjoy local caf\u00e9s. Return to your hotel in the evening for rest and acclimatization."
+      },
+      {
+        "title": "Day 2: Sham Valley Day Tour | The Mysterious Paths of Ladakh",
+        "dayNumbers": [
+          2
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Begin your Sham Valley adventure with a scenic drive to Sangam, where the mystical Zanskar and Indus rivers meet. Experience the famous Magnetic Hill phenomenon, where vehicles appear to move uphill on their own due to the unique optical illusion created by the landscape. Visit the sacred Gurudwara Pathar Sahib, a stunning white-marble Sikh shrine set against rocky cliffs. Explore the SECMOL campus, the actual filming location from the blockbuster movie '3 Idiots'. Conclude your day at the Hall of Fame War Memorial, honoring Indian soldiers. For adventure enthusiasts, enjoy optional thrilling White Water Rafting at Sangam before returning to your hotel for an overnight stay."
+      },
+      {
+        "title": "Day 3: Transfer from Leh to Nubra Valley via Khardung La Pass | Gateway to Silk Route",
+        "dayNumbers": [
+          3
+        ],
+        "tourType": "Scenic tour",
+        "shortDescription": "After checkout, embark on a spectacular journey towards the cold deserts of Nubra Valley through the legendary Khardung La Pass (5,602m), the world's highest motorable road. Stop at the iconic Rinchen Cafe to enjoy steaming hot maggi with unparalleled mountain views. Visit the ancient Diskit Monastery, home to the magnificent 32-meter tall golden statue of Maitreya Buddha overlooking the valley. Experience the unique landscape of Hunder Sand Dunes with the option to enjoy an adventurous ATV ride (extra cost) through the striking desert terrain. Arrive at your campsite in Nubra Valley surrounded by breathtaking mountain scenery for an overnight stay."
+      },
+      {
+        "title": "Day 4: Transfer from Nubra Valley to Pangong Tso and Hanle via Shayok Valley | Camping at Hanle",
+        "dayNumbers": [
+          4
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Check-out from your Nubra campsite and begin your scenic journey through Shayok Valley towards Pangong Lake and then to Hanle. The drive offers spectacular views of dramatic Ladakh peaks and pristine mountain terrain. Pass through charming Shyok Village nestled along the banks of the Shyok River, experiencing local culture and mountain hospitality. Upon arrival at Pangong Lake (4,250m), one of the world's highest saltwater lakes, take a leisurely stroll along the pristine shores and witness the mesmerizing, ever-changing hues of the crystalline blue waters. Continue your journey to Hanle, one of the highest inhabited villages in the world, and settle into your guesthouse for an overnight stay in this remote and stunning location."
+      },
+      {
+        "title": "Day 5: Transfer from Hanle to Leh | Via Chuma Thang Hot Springs and Nayoma Village",
+        "dayNumbers": [
+          5
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Check-out from Hanle and begin your scenic return journey towards Leh. Pass through the remote and stunning high altitude region with panoramic Himalayan views. Stop at Nayoma village to experience local culture and hospitality. Visit the therapeutic Chuma Thang hot springs (Yurutse), known for their mineral-rich waters with healing properties. Continue your drive through the pristine Ladakh landscape. Stop by the Druk Padma Karpo School, known for being the filming location from the blockbuster movie '3 Idiots'. Afterwards, explore Thiksey Monastery, perched majestically on a hilltop overlooking the Indus Valley, to learn about the cultural heritage of Buddhism in Ladakh. Upon arrival in Leh in the evening, check into your hotel for an overnight stay."
+      },
+      {
+        "title": "Day 6: Departure from Leh",
+        "dayNumbers": [
+          6
+        ],
+        "tourType": "departure",
+        "shortDescription": "In the morning, check-out from your hotel and get transferred to Leh Airport. With one last look of the towering peaks and a heart full of memories, bid farewell to Ladakh. Board your flight home, carrying with you the unforgettable experiences of Nubra Valley, Pangong Lake, the remote Hanle region, and the mystical Sham Valley. This marks the end of your incredible 6-day Ultimate Ladakh Triangle adventure with Hanle."
+      }
+    ],
+    "detailedItinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Leh | Leisure Time",
+        "route": "Leh Airport - Hotel",
+        "overnight": "Leh",
+        "description": "Welcome to Leh! Upon arrival at the airport, get transferred to your hotel. Check in and spend your time at leisure. You can visit Leh Palace, a 17th-century royal residence offering stunning city views or you can head to Shanti Stupa, a white-domed Buddhist stupa for breathtaking panoramic views of Leh and the surrounding mountains. Later, you can explore Leh Market, where you can browse Tibetan handicrafts, souvenirs & enjoy local caf\u00e9s.",
+        "activities": [
+          "Airport transfer to hotel",
+          "Acclimatization and rest",
+          "Visit Leh Palace (optional)",
+          "Visit Shanti Stupa (optional)",
+          "Explore Leh Market (optional)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Sham Valley Day Tour | The Mysterious Paths of Ladakh",
+        "route": "Leh - Sangam - Magnetic Hill - Gurudwara Pathar Sahib - SECMOL - Hall of Fame - Leh",
+        "overnight": "Leh",
+        "description": "Start your day with getting driven to Sham Valley and visit the Sangam where Zanskar and Indus river meets. Then, ride to Magnetic Hill for a get an amazing experience where vehicles seem to move up hill on their own. Next, visit the Gurudwara Pathar Sahib, followed by SECMOL campus, which featured in the '3 Idiots' movie. Conclude at the Hall of Fame War Memorial. Later, you can opt for a thrilling White Water Rafting at sangam before getting driven back to the hotel.",
+        "activities": [
+          "Visit Sangam (confluence of Zanskar & Indus)",
+          "Experience Magnetic Hill phenomenon",
+          "Visit Gurudwara Pathar Sahib",
+          "Explore SECMOL campus (3 Idiots location)",
+          "Visit Hall of Fame War Memorial",
+          "Optional White Water Rafting"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Transfer from Leh to Nubra Valley via Khardung La Pass | Gateway to Silk Route",
+        "route": "Leh - Khardung La - Diskit - Hunder",
+        "overnight": "Nubra Valley",
+        "description": "Post check out, board your transfer to the cold deserts of Nubra Valley through the breathtaking Khardung La Pass. Enjoy steaming maggi at the Rinchen cafe, situated on one of the highest all-season motorable pass. Next, visit the famous Diskit Monastery, where you can admire the grand statue of Maitreya Buddha. You can enjoy an ATV ride (extra cost) in the Hunder Sand Dunes, before arriving at the campsite in Nubra.",
+        "activities": [
+          "Cross Khardung La Pass (5,602m)",
+          "Stop at Rinchen Cafe",
+          "Visit Diskit Monastery",
+          "See giant Maitreya Buddha statue",
+          "Explore Hunder Sand Dunes",
+          "Optional ATV ride"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Transfer from Nubra Valley to Pangong Tso and Hanle via Shayok Valley",
+        "route": "Nubra - Shayok Village - Pangong Lake - Hanle",
+        "overnight": "Hanle",
+        "description": "Check-out from Nubra Valley and begin your scenic journey through Shayok Valley towards Pangong Lake and Hanle. The drive offers spectacular views of dramatic Ladakh peaks and pristine mountain terrain. Pass through charming Shyok Village nestled along the banks of the Shyok River, experiencing authentic local culture and mountain hospitality. Upon arrival at Pangong Lake (4,250m), one of the world's highest saltwater lakes, take a leisurely stroll along the pristine shores and witness the mesmerizing blue waters that change hues throughout the day. Continue your journey to Hanle, one of the highest inhabited villages in the world at 4,400m+. Settle into your guesthouse in this remote and stunning location for an overnight stay.",
+        "activities": [
+          "Scenic drive through Shayok Valley",
+          "Shyok Village visit and cultural interaction",
+          "Pangong Lake (4,250m) exploration",
+          "Walk along pristine Pangong shoreline",
+          "Photograph ever-changing lake hues",
+          "Drive to high-altitude Hanle village (4,400m+)",
+          "Local cultural interaction in Hanle"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Transfer from Hanle to Leh via Chuma Thang Hot Springs",
+        "route": "Hanle - Nayoma - Chuma Thang Hot Springs - Thiksey - Leh",
+        "overnight": "Leh",
+        "description": "Check-out from Hanle and begin your scenic return journey towards Leh through stunning high-altitude terrain with panoramic Himalayan views. Pass through remote Nayoma village to experience authentic local culture and hospitality. Visit the therapeutic Chuma Thang hot springs (Yurutse), known for their mineral-rich thermal waters with reputed healing properties. Continue your drive through pristine Ladakh landscape. Stop by Druk Padma Karpo School, the actual filming location from the blockbuster movie '3 Idiots'. Explore Thiksey Monastery, majestically perched on a hilltop overlooking the Indus Valley, to learn about Buddhism's cultural heritage in Ladakh. Upon arrival in Leh in the evening, check into your hotel for an overnight stay.",
+        "activities": [
+          "High-altitude scenic drive",
+          "Nayoma village exploration",
+          "Chuma Thang hot springs visit",
+          "Optional bathing in mineral hot springs",
+          "Druk Padma Karpo School (3 Idiots location) visit",
+          "Thiksey Monastery exploration",
+          "Buddhist cultural and spiritual learning",
+          "Indus Valley panoramic views"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Departure from Leh",
+        "route": "Leh - Leh Airport",
+        "overnight": "",
+        "description": "In the morning, check-out and get transferred to the Leh airport from your hotel. With one last look of the towering peaks, bid farewell to Ladakh and board your flight back home. This marks the end of your trip.",
+        "activities": [
+          "Hotel check-out",
+          "Transfer to Leh Airport",
+          "Departure flight"
+        ]
+      }
+    ],
+    "tour_type": "bike",
+    "cardImage": "bike_itinerary_images/6D_leh_nubra_hanle.jpeg",
+    "pricePerPerson": {
+      "standard": "\u20b919,999",
+      "deluxe": "\u20b924,500",
+      "premium": "\u20b928,000"
+    }
+  }
+}

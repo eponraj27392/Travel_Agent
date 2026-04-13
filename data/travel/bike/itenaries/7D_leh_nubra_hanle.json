@@ -1,0 +1,193 @@
+{
+  "itinerary": {
+    "id": "7D_leh_nubra_hanle",
+    "title": "From Earth's Peak to Cosmic Skies: The Hanle Expedition",
+    "state": [
+      "Ladakh"
+    ],
+    "packageDuration": "7D/6N",
+    "totalDistance": "600 km",
+    "description": "Experience the ultimate Ladakh adventure combining high-altitude lakes and remote mountain villages. Journey through Nubra Valley, pristine Pangong Lake, the remote village of Hanle, and the stunning Tso Moriri Lake. This exclusive 7-day tour offers high-altitude mountain passes, sacred Buddhist sites, pristine alpine lakes, and an authentic experience of Ladakh's most remote regions.",
+    "highlights": [
+      "Khardung La pass (5,602m) - world's highest motorable road",
+      "Nubra valley - 'valley of flowers' with Diskit Monastery and 32m Maitreya Buddha statue",
+      "Hunder sand dunes - Bactrian camel safari through desert terrain",
+      "Pangong lake (4,250m) - world's longest high-altitude saltwater lake",
+      "Hanle - one of the highest inhabited villages in the world with ancient monasteries",
+      "Tso Moriri lake (4,524m) - stunning alpine lake with medicinal properties",
+      "Namshang La, Kaksang La, Taglang La mountain passes"
+    ],
+    "overviewSections": [
+      {
+        "title": "Day 1: Arrival in Leh | Leisure Time",
+        "dayNumbers": [
+          1
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Welcome to Leh! Upon arrival at Leh Airport, get transferred to your hotel and complete check-in. Spend your day at leisure to acclimatize to the high altitude. Visit the magnificent Leh Palace, a 17th-century royal residence offering stunning panoramic views of the city and surrounding Himalayan peaks. Alternatively, head to Shanti Stupa, a serene white-domed Buddhist stupa for breathtaking vistas of Leh and the majestic mountains. Explore the vibrant Leh Market, where you can browse authentic Tibetan handicrafts, traditional souvenirs, and enjoy local caf\u00e9s. Return to your hotel in the evening for rest and acclimatization."
+      },
+      {
+        "title": "Day 2: Sham Valley Day Tour | The Mysterious Paths of Ladakh",
+        "dayNumbers": [
+          2
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Begin your Sham Valley adventure with a scenic drive to Sangam, where the mystical Zanskar and Indus rivers meet. Experience the famous Magnetic Hill phenomenon, where vehicles appear to move uphill on their own due to the unique optical illusion created by the landscape. Visit the sacred Gurudwara Pathar Sahib, a stunning white-marble Sikh shrine set against rocky cliffs. Explore the SECMOL campus, the actual filming location from the blockbuster movie '3 Idiots'. Conclude your day at the Hall of Fame War Memorial, honoring Indian soldiers. For adventure enthusiasts, enjoy optional thrilling White Water Rafting at Sangam before returning to your hotel for an overnight stay."
+      },
+      {
+        "title": "Day 3: Transfer from Leh to Nubra Valley via Khardung La Pass | Gateway to Silk Route",
+        "dayNumbers": [
+          3
+        ],
+        "tourType": "Scenic tour",
+        "shortDescription": "After checkout, embark on a spectacular journey towards the cold deserts of Nubra Valley through the legendary Khardung La Pass (5,602m), the world's highest motorable road. Stop at the iconic Rinchen Cafe to enjoy steaming hot maggi with unparalleled mountain views. Visit the ancient Diskit Monastery, home to the magnificent 32-meter tall golden statue of Maitreya Buddha overlooking the valley. Experience the unique landscape of Hunder Sand Dunes with the option to enjoy an adventurous ATV ride (extra cost) through the striking desert terrain. Arrive at your campsite in Nubra Valley surrounded by breathtaking mountain scenery for an overnight stay."
+      },
+      {
+        "title": "Day 4: Transfer from Nubra Valley to Pangong Tso | Camping at the Pangong Lake",
+        "dayNumbers": [
+          4
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Check-out from Nubra Valley and begin your scenic journey towards Pangong Lake. The drive offers spectacular views of the famous Ladakh peaks and pristine mountain terrain. Pass through charming Shyok Village nestled along the banks of the Shyok River. Upon arrival at Pangong Lake (4,250m), one of the world's highest saltwater lakes and the world's longest high-altitude lake, settle into your campsite. Head out for a leisurely stroll along the pristine shores and witness the mesmerizing, ever-changing hues of the crystalline blue waters. Experience the magical sunset over the turquoise waters with the majestic Himalayas as your backdrop."
+      },
+      {
+        "title": "Day 5: Transfer from Pangong Tso to Hanle | Via Namshang La Pass",
+        "dayNumbers": [
+          5
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Check-out from Pangong Lake campsite and embark on a scenic high-altitude mountain journey towards Hanle, one of the world's highest inhabited villages. Cross the spectacular Namshang La Pass, offering breathtaking panoramic views of the vast Ladakh plateau. The drive through pristine alpine terrain showcases barren mountains and remote landscapes. Arrive at Hanle (4,400m+), a place steeped in history and spirituality. Visit the ancient Hanle Monastery, perched majestically overlooking the village. Experience authentic local culture and hospitality. Settle into your guesthouse surrounded by stunning high-altitude scenery for an overnight stay in this remote and mystical location."
+      },
+      {
+        "title": "Day 6: Transfer from Hanle to Tso Moriri Lake to Leh | Via Kaksang La and Taglang La",
+        "dayNumbers": [
+          6
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Check-out from Hanle and begin your scenic journey towards the pristine alpine lake of Tso Moriri. Cross Kaksang La (Horla Pass), a magnificent high-altitude mountain pass offering stunning panoramic views of the Ladakh plateau. Continue through the pristine alpine terrain with barren mountains creating dramatic landscapes. Arrive at Tso Moriri Lake (4,524m), one of the most beautiful alpine lakes in Ladakh, believed to possess medicinal properties and sacred significance. The emerald waters are surrounded by snow-capped peaks. Continue your return journey visiting sacred Tso Kar Lake (4,566m) and cross mighty Taglang La Pass (5,328m), the world's second-highest motorable pass, arriving in Leh for an overnight stay."
+      },
+      {
+        "title": "Day 7: Departure from Leh",
+        "dayNumbers": [
+          7
+        ],
+        "tourType": "departure",
+        "shortDescription": "In the morning, check-out from your hotel and get transferred to Leh Airport. With one last look of the towering peaks and a heart full of unforgettable memories from pristine alpine lakes and remote mountain villages, bid farewell to Ladakh. Board your flight home, carrying with you the incredible experiences of Nubra Valley, Pangong Lake, the mystical village of Hanle, Tso Moriri, and the majestic high-altitude mountain passes. This marks the end of your 7-day Ultimate Ladakh Tso Moriri & Hanle adventure."
+      }
+    ],
+    "detailedItinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Leh | Leisure Time",
+        "route": "Leh Airport - Hotel",
+        "overnight": "Leh",
+        "description": "Welcome to Leh! Upon arrival at Leh Airport, get transferred to your hotel and complete check-in. Spend your day at leisure to acclimatize to the high altitude. Visit the magnificent Leh Palace, a 17th-century royal residence offering stunning panoramic views of the city and surrounding Himalayan peaks. Alternatively, head to Shanti Stupa, a serene white-domed Buddhist stupa for breathtaking vistas of Leh and the majestic mountains. Explore the vibrant Leh Market, where you can browse authentic Tibetan handicrafts, traditional souvenirs, and enjoy local caf\u00e9s. Return to hotel for rest and acclimatization.",
+        "activities": [
+          "Airport transfer to hotel",
+          "Acclimatization and rest",
+          "Visit Leh Palace (optional)",
+          "Visit Shanti Stupa (optional)",
+          "Explore Leh Market (optional)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Sham Valley Day Tour | The Mysterious Paths of Ladakh",
+        "route": "Leh - Sangam - Magnetic Hill - Gurudwara Pathar Sahib - SECMOL - Hall of Fame - Leh",
+        "overnight": "Leh",
+        "description": "Begin your Sham Valley adventure with a scenic drive to Sangam, where the mystical Zanskar and Indus rivers meet. Experience the famous Magnetic Hill phenomenon, where vehicles appear to move uphill on their own due to the unique optical illusion created by the landscape. Visit the sacred Gurudwara Pathar Sahib, a stunning white-marble Sikh shrine set against rocky cliffs. Explore the SECMOL campus, the actual filming location from the blockbuster movie '3 Idiots'. Conclude your day at the Hall of Fame War Memorial, honoring Indian soldiers. For adventure enthusiasts, enjoy optional thrilling White Water Rafting at Sangam before returning to your hotel for an overnight stay.",
+        "activities": [
+          "Visit Sangam (confluence of Zanskar & Indus)",
+          "Experience Magnetic Hill phenomenon",
+          "Visit Gurudwara Pathar Sahib",
+          "Explore SECMOL campus (3 Idiots location)",
+          "Visit Hall of Fame War Memorial",
+          "Optional White Water Rafting"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Transfer from Leh to Nubra Valley via Khardung La Pass | Gateway to Silk Route",
+        "route": "Leh - Khardung La - Diskit - Hunder",
+        "overnight": "Nubra Valley",
+        "description": "After checkout, embark on a spectacular journey towards the cold deserts of Nubra Valley through the legendary Khardung La Pass (5,602m), the world's highest motorable road. Stop at the iconic Rinchen Cafe to enjoy steaming hot maggi with unparalleled mountain views. Visit the ancient Diskit Monastery, home to the magnificent 32-meter tall golden statue of Maitreya Buddha overlooking the valley. Experience the unique landscape of Hunder Sand Dunes with the option to enjoy an adventurous ATV ride (extra cost) through the striking desert terrain. Arrive at your campsite in Nubra Valley surrounded by breathtaking mountain scenery for an overnight stay.",
+        "activities": [
+          "Cross Khardung La Pass (5,602m)",
+          "Stop at Rinchen Cafe",
+          "Visit Diskit Monastery",
+          "See giant Maitreya Buddha statue",
+          "Explore Hunder Sand Dunes",
+          "Optional ATV ride"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Transfer from Nubra Valley to Pangong Tso | Camping at the Pangong Lake",
+        "route": "Nubra - Shyok Village - Pangong Lake",
+        "overnight": "Pangong Lake (Camp)",
+        "description": "Check-out from Nubra Valley and begin your scenic journey towards Pangong Lake. The drive offers spectacular views of the famous Ladakh peaks and pristine mountain terrain. Pass through charming Shyok Village nestled along the banks of the Shyok River. Upon arrival at Pangong Lake (4,250m), one of the world's highest saltwater lakes and the world's longest high-altitude lake, settle into your campsite. Head out for a leisurely stroll along the pristine shores and witness the mesmerizing, ever-changing hues of the crystalline blue waters. Experience the magical sunset over the turquoise waters with the majestic Himalayas as your backdrop.",
+        "activities": [
+          "Scenic drive along Shyok river valley",
+          "Stop at Shyok Village",
+          "Reach Pangong Lake (4,250m) - world's longest high-altitude lake",
+          "Walk along pristine lake shore",
+          "Watch sunset over turquoise waters",
+          "Photography of mountain reflections"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Transfer from Pangong Tso to Hanle via Namshang La Pass",
+        "route": "Pangong Lake - Namshang La - Hanle",
+        "overnight": "Hanle (Guesthouse)",
+        "description": "Check-out from Pangong Lake campsite and embark on a scenic high-altitude mountain journey towards Hanle, one of the world's highest inhabited villages (4,400m+). Cross the spectacular Namshang La Pass, offering breathtaking panoramic views of the vast Ladakh plateau. The drive through pristine alpine terrain showcases barren mountains and remote landscapes that inspire awe. Arrive at Hanle, a place steeped in history and spirituality. Visit the ancient Hanle Monastery, perched majestically overlooking the village, offering insights into Buddhist culture. Experience authentic local culture and mountain hospitality. Settle into your guesthouse surrounded by stunning high-altitude scenery for an overnight stay in this remote and mystical location.",
+        "activities": [
+          "Cross Namshang La Pass",
+          "Scenic high-altitude plateau views",
+          "Arrive at Hanle village (4,400m+)",
+          "Visit ancient Hanle Monastery",
+          "Local cultural interaction",
+          "Experience high-altitude mountain village life",
+          "Evening in remote spiritual location"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Transfer from Hanle to Tso Moriri Lake to Leh via Kaksang La and Taglang La",
+        "route": "Hanle - Kaksang La - Tso Moriri - Tso Kar - Taglang La (5,328m) - Leh",
+        "overnight": "Leh",
+        "description": "Check-out from Hanle and begin your scenic journey towards the pristine alpine lake of Tso Moriri. Cross Kaksang La (Horla Pass), a magnificent high-altitude mountain pass offering stunning panoramic views of the Ladakh plateau and surrounding peaks. Continue through the pristine alpine terrain with barren mountains creating dramatic landscapes. Arrive at Tso Moriri Lake (4,524m), one of the most beautiful alpine lakes in Ladakh, believed to possess medicinal properties and sacred significance. The emerald waters are surrounded by snow-capped peaks creating a picture-perfect setting. After visiting the lake, continue your return journey visiting sacred Tso Kar Lake (4,566m), a pristine turquoise alpine lake. Cross the mighty Taglang La Pass (5,328m), the world's second-highest motorable pass. Descend through thrilling switchbacks and scenic terrain to arrive in Leh in the late evening and check into your hotel for an overnight stay.",
+        "activities": [
+          "Cross Kaksang La (Horla Pass)",
+          "Panoramic plateau views",
+          "Arrive at Tso Moriri Lake (4,524m)",
+          "Explore alpine lake waters with medicinal properties",
+          "Visit sacred Tso Kar Lake (4,566m)",
+          "Cross Taglang La Pass (5,328m) - world's 2nd highest motorable",
+          "Panoramic valley views from mountain pass",
+          "Scenic switchback descent",
+          "Return to Leh"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Departure from Leh",
+        "route": "Leh Hotel - Leh Airport",
+        "overnight": "None",
+        "description": "In the morning, check-out from your hotel and get transferred to Leh Airport. With one last look of the towering peaks and a heart full of unforgettable memories from pristine alpine lakes and remote mountain villages, bid farewell to Ladakh. Board your flight home, carrying with you the incredible experiences of Nubra Valley, Pangong Lake, the mystical village of Hanle, Tso Moriri, and the majestic high-altitude mountain passes. This marks the end of your 7-day Ultimate Ladakh Tso Moriri & Hanle adventure.",
+        "activities": [
+          "Hotel check-out",
+          "Transfer to Leh Airport",
+          "Departure flight"
+        ]
+      }
+    ],
+    "tour_type": "bike",
+    "cardImage": "bike_itinerary_images/7D_leh_nubra_hanle.jpg",
+    "pricePerPerson": {
+      "standard": "\u20b922,000",
+      "deluxe": "\u20b925,000",
+      "premium": "\u20b930,000"
+    }
+  }
+}

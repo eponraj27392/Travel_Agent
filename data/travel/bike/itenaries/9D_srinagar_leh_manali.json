@@ -1,0 +1,241 @@
+{
+  "itinerary": {
+    "id": "9D_srinagar_leh_manali",
+    "title": "Srinagar to Manali via Tso Moriri: Kashmir-Ladakh-Himachal Symphony",
+    "state": [
+      "Ladakh",
+      "Himachal",
+      "Jammu"
+    ],
+    "packageDuration": "9D/8N",
+    "totalDistance": "600 km",
+    "description": "This combined tour takes you to some of the most amazing natural and cultural attractions of Ladakh. Visit Nubra valley with Bactrian camels, then head to the pristine Pangong lake. On the return to Leh, visit the top attractions of the Indus valley.",
+    "highlights": [
+      "Khardung La pass (5,602m) - world's highest motorable road",
+      "Nubra valley - 'valley of flowers' with Diskit Monastery and 32m Maitreya Buddha statue",
+      "Hunder sand dunes - ATV ride through stunning desert terrain",
+      "Pangong lake - pristine blue waters at 4,250m",
+      "Tso Moriri - one of India's highest alpine lakes via Horla and Kaksang La Passes",
+      "Suraj Tal - pristine high altitude lake reflecting mountain peaks",
+      "Bharalacha Pass (4,890m) - gateway between Ladakh and Himachal Pradesh",
+      "Solang Valley - panoramic views of snow-capped Himalayas",
+      "Sham Valley - Sangam, Magnetic Hill, Gurudwara Pathar Sahib, SECMOL (3 Idiots location)"
+    ],
+    "overviewSections": [
+      {
+        "title": "Day 1: Arrival in Srinagar | Kashmir's Paradise Gateway & Dal Lake Exploration",
+        "dayNumbers": [
+          1
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Welcome to Leh! Upon arrival at the airport, get transferred to your hotel and complete check-in. Spend your day at leisure to acclimatize to the high altitude."
+      },
+      {
+        "title": "Day 2: Gulmarg and Pahalgam Alpine Tour | Mountain Meadows & Himalayan Vistas",
+        "dayNumbers": [
+          2
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Embark on a scenic day tour to the hill stations of Gulmarg and Pahalgam. Experience Gulmarg's verdant meadows, surrounded by pine forests and stunning mountain views. Visit Pahalgam's charming valley nestled along the Lidder River, known for its picturesque landscape and adventure opportunities. Enjoy pristine natural beauty created by the mighty Himalayas."
+      },
+      {
+        "title": "Day 3: Srinagar to Leh via Zojila Pass | Mountain Valley Crossing",
+        "dayNumbers": [
+          3
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "After morning checkout from Srinagar, embark on a spectacular journey across the legendary Zojila Pass (3,523m), one of Kashmir's most dramatic mountain passes. Drive through the scenic Sonamarg meadows and across the Leh-Ladakh highway. Experience the stark transition from verdant Kashmir valleys to the arid Changthang plateau. Pass through the historic town of Drass, the second-coldest inhabited place on Earth. Arrive in Leh by evening and check into your hotel for acclimatization."
+      },
+      {
+        "title": "Day 4: Leh Acclimatization | Sham Valley & Spiritual Landmarks Tour",
+        "dayNumbers": [
+          4
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Check-out from your Nubra campsite and begin your scenic journey towards the world-famous Pangong Tso (Pangong Lake). The drive offers spectacular views of dramatic Ladakh peaks and pristine mountain terrain."
+      },
+      {
+        "title": "Day 5: Transfer from Leh to Nubra Valley via Khardung La Pass | Gateway to Silk Route",
+        "dayNumbers": [
+          5
+        ],
+        "tourType": "Scenic tour",
+        "shortDescription": "After checkout, embark on a spectacular journey towards the cold deserts of Nubra Valley through the legendary Khardung La Pass (5,602m), the world's highest motorable road. Stop at the iconic Rinchen Cafe to enjoy steaming hot maggi with unparalleled mountain views. Visit the ancient Diskit Monastery, home to the magnificent 32-meter tall golden statue of Maitreya Buddha overlooking the valley. Experience the unique landscape of Hunder Sand Dunes with an adventurous ATV ride through the striking desert terrain. Arrive at your campsite in Nubra Valley surrounded by breathtaking mountain scenery for an overnight stay."
+      },
+      {
+        "title": "Day 6: Transfer from Nubra Valley to Pangong Tso | Camping at the Pangong Lake",
+        "dayNumbers": [
+          6
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Check-out from your Nubra campsite and begin your scenic journey towards the world-famous Pangong Tso (Pangong Lake). The drive offers spectacular views of dramatic Ladakh peaks and pristine mountain terrain. Pass through charming Shyok Village nestled along the banks of the Shyok River, experiencing local culture and mountain hospitality. Upon arrival at Pangong Lake (4,250m), one of the world's highest saltwater lakes, settle into your lakeside campsite. Take a leisurely stroll along the pristine shores and witness the mesmerizing, ever-changing hues of the crystalline blue waters reflecting the majestic snow-capped Himalayas. Experience the tranquility and natural beauty of this iconic destination."
+      },
+      {
+        "title": "Day 7: Pangong Tso to Tso Moriri via Horla, Kaksang La and Namshang La | Overnight stay at Tso Moriri",
+        "dayNumbers": [
+          7
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Check-out from your guesthouse at Pangong Tso and begin your scenic journey towards Tso Moriri via Horla and Kaksang La Passes. This magnificent route traverses some of Ladakh's most remote and pristine alpine terrain, offering breathtaking views of high Himalayan peaks. Arrive at the serene Tso Moriri lake and explore its stunning turquoise waters reflecting snow-capped mountains. Experience the tranquil beauty of this pristine alpine destination at over 4,500m elevation."
+      },
+      {
+        "title": "Day 8: Tso Moriri to Jispa via Lachung la, Namkila, Baralacha Pass | Overnight stay at Jispa",
+        "dayNumbers": [
+          8
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Begin your scenic descent from the remote Changthang plateau towards Jispa. Cross the dramatic Baralacha Pass (4,890m) and traverse through the beautiful Himalayas with stunning views of snow-capped peaks, pristine valleys, and the melting rivers that carve through the landscape."
+      },
+      {
+        "title": "Day 9: Jispa to Manali via Atul Tunnel, Solang Valley, Deaprture Day",
+        "dayNumbers": [
+          9
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "After an early morning at Tso Moriri, begin your scenic descent towards Jispa. Cross the breathtaking Baralacha Pass (4,890m) and traverse through pristine high-altitude terrain with stunning panoramic views. Pass through the beautiful Himalayas with snow-capped peaks and pristine valleys. Arrive in Jispa for an overnight stay, marking the beginning of your final journey towards Manali."
+      }
+    ],
+    "detailedItinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Leh | Leisure Time",
+        "route": "Leh Airport - Hotel",
+        "overnight": "Leh",
+        "description": "Welcome to Leh! Upon arrival at the airport, get transferred to your hotel and complete check-in. Spend your day at leisure to acclimatize to the high altitude. Visit the magnificent Leh Palace, a 17th-century royal residence that offers stunning panoramic views of the city and surrounding Himalayan peaks. Alternatively, head to Shanti Stupa, a serene white-domed Buddhist stupa for breathtaking vistas of Leh and the majestic mountains. Explore the vibrant Leh Market, where you can browse authentic Tibetan handicrafts, traditional souvenirs, and enjoy local cafés. Return to your hotel in the evening for rest and acclimatization.",
+        "activities": [
+          "Airport transfer to hotel",
+          "Acclimatization and rest",
+          "Visit Leh Palace (optional)",
+          "Visit Shanti Stupa (optional)",
+          "Explore Leh Market (optional)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Sham Valley Day Tour | The Mysterious Paths of Ladakh",
+        "route": "Leh - Sangam - Magnetic Hill - Gurudwara Pathar Sahib - SECMOL - Hall of Fame - Leh",
+        "overnight": "Leh",
+        "description": "Begin your Sham Valley adventure with a scenic drive to Sangam, where the mystical Zanskar and Indus rivers meet. Experience the famous Magnetic Hill phenomenon, where vehicles appear to move uphill on their own due to the unique optical illusion created by the landscape. Visit the sacred Gurudwara Pathar Sahib, a stunning white-marble Sikh shrine set against rocky cliffs. Explore the SECMOL campus, the actual filming location from the blockbuster movie '3 Idiots'. Conclude your day at the Hall of Fame War Memorial, honoring Indian soldiers. For adventure enthusiasts, enjoy optional thrilling White Water Rafting at Sangam before returning to your hotel for an overnight stay.",
+        "activities": [
+          "Visit Sangam (confluence of Zanskar & Indus)",
+          "Experience Magnetic Hill phenomenon",
+          "Visit Gurudwara Pathar Sahib",
+          "Explore SECMOL campus (3 Idiots location)",
+          "Visit Hall of Fame War Memorial",
+          "Optional White Water Rafting"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Transfer from Leh to Nubra Valley via Khardung La Pass | Gateway to Silk Route",
+        "route": "Leh - Khardung La - Diskit - Hunder",
+        "overnight": "Nubra Valley",
+        "description": "After checkout, embark on a spectacular journey towards the cold deserts of Nubra Valley through the legendary Khardung La Pass (5,602m), the world's highest motorable road. Stop at the iconic Rinchen Cafe to enjoy steaming hot maggi with unparalleled mountain views. Visit the ancient Diskit Monastery, home to the magnificent 32-meter tall golden statue of Maitreya Buddha overlooking the valley. Experience the unique landscape of Hunder Sand Dunes with an adventurous ATV ride through the striking desert terrain. Arrive at your campsite in Nubra Valley surrounded by breathtaking mountain scenery for an overnight stay.",
+        "activities": [
+          "Cross Khardung La Pass (5,602m)",
+          "Stop at Rinchen Cafe",
+          "Visit Diskit Monastery",
+          "See giant Maitreya Buddha statue",
+          "Explore Hunder Sand Dunes",
+          "Optional ATV ride"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Transfer from Nubra Valley to Pangong Tso | Camping at the Pangong Lake",
+        "route": "Hunder - Shyok - Tangtse - Pangong Lake",
+        "overnight": "Pangong Lake",
+        "description": "Check-out from your Nubra campsite and begin your scenic journey towards the world-famous Pangong Tso (Pangong Lake). The drive offers spectacular views of dramatic Ladakh peaks and pristine mountain terrain. Pass through charming Shyok Village nestled along the banks of the Shyok River, experiencing local culture and mountain hospitality. Upon arrival at Pangong Lake (4,250m), one of the world's highest saltwater lakes, settle into your lakeside campsite. Take a leisurely stroll along the pristine shores and witness the mesmerizing, ever-changing hues of the crystalline blue waters reflecting the majestic snow-capped Himalayas. Experience the tranquility and natural beauty of this iconic destination.",
+        "activities": [
+          "Scenic drive along Shyok river",
+          "Stop at Shyok Village",
+          "Reach Pangong Lake (4,250m)",
+          "Walk along the lake shore",
+          "Watch sunset over turquoise waters"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Transfer from Pangong Tso to Tso Moriri via Horla and Kaksang La Passes | Camping at the Tso Moriri",
+        "route": "Pangong Lake - Horla Pass - Kaksang La - Tso Moriri",
+        "overnight": "Tso Moriri",
+        "description": "Check-out from your campsite at Pangong Tso and begin your adventurous journey towards the pristine Tso Moriri lake. Your route will take you through the breathtaking Horla Pass and the majestic Kaksang La Pass, offering spectacular panoramic views of the high Himalayan peaks and remote mountain terrain. The drive is an exhilarating experience as you traverse through some of Ladakh's most untouched and beautiful landscapes. Upon arrival at Tso Moriri, one of the highest lakes in India, settle into your campsite and witness the stunning natural beauty of this pristine alpine lake surrounded by snow-capped mountains. Enjoy the serene atmosphere and the ever-changing colors of the lake as the sun sets over the Himalayas.",
+        "activities": [
+          "Cross Horla Pass with panoramic views",
+          "Cross Kaksang La Pass (5,400m+)",
+          "Scenic drive through remote mountain terrain",
+          "Witness pristine alpine landscape",
+          "Reach Tso Moriri (one of India's highest lakes)",
+          "Watch sunset over the lake"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Transfer from Tso Moriri to Jispa | Suraj Tal, Bharalacha Pass, Lachungla, Moorie Plains",
+        "route": "Tso Moriri - Suraj Tal - Bharalacha Pass - Jispa",
+        "overnight": "Jispa",
+        "description": "Check-out from your campsite at Tso Moriri and begin your journey towards Jispa. Your drive will take you through some of the most scenic and remote regions of Ladakh and Himachal Pradesh. Cross the stunning Bharalacha Pass at 4,890m, offering breathtaking views of the surrounding peaks and valleys. Visit the pristine Suraj Tal (Surya Tal), one of the highest lakes in the region. Pass through the beautiful Moorie Plains with their untouched natural beauty and traditional settlements. Arrive in Jispa in the evening and settle into your guesthouse for an overnight stay.",
+        "activities": [
+          "Drive through remote mountain terrain",
+          "Visit Suraj Tal (pristine high altitude lake)",
+          "Cross Bharalacha Pass (4,890m)",
+          "Explore Lachungla landscape",
+          "Pass through Moorie Plains",
+          "Arrive in Jispa"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Transfer from Jispa to Manali | Solang Valley & Himalayan Valley Descent",
+        "route": "Jispa - Sissu - Khelong - Solang Valley - Manali",
+        "overnight": "Manali",
+        "description": "Check-out from your guesthouse and begin your scenic drive towards Manali. Drive through the stunning landscapes of the Himalayas, passing through charming villages like Sissu and Khelong with their traditional Himachali architecture and local culture. Make a stop at the breathtaking Solang Valley, famous for its adventure activities and panoramic views of snow-capped peaks. Enjoy the lush green meadows and mountain vistas before arriving in Manali around noon. Check into your hotel and spend your afternoon exploring Mall Road, with its bustling shops, cafés, and local handicraft stores.",
+        "activities": [
+          "Scenic drive through Himalayas",
+          "Visit Sissu village",
+          "Explore Khelong settlement",
+          "Stop at Solang Valley for views and photos",
+          "Arrive in Manali (around noon)",
+          "Explore Manali Mall Road",
+          "Visit local handicraft stores"
+        ]
+      },
+      {
+        "day": 8,
+        "title": "Manali Exploration | Adventure Activities & Mountain Town Discovery",
+        "route": "Manali Local tour",
+        "overnight": "Manali",
+        "description": "Enjoy a full day exploring the vibrant hill station of Manali. Visit the ancient Hadimba Devi Temple, a beautiful wooden temple nestled in deodar forests with intricate carvings. Explore the serene Van Vihar (Forest Sanctuary) and the picturesque Vashisht Hot Springs for a rejuvenating experience. Take a leisurely stroll through the bustling bazaar and enjoy local apple brandy tasting at distilleries. For adventure seekers, enjoy optional activities such as paragliding, zorbing, or mountain biking in Solang Valley nearby. Experience the charm of this enchanting hill station surrounded by snow-capped mountains and pine forests.",
+        "activities": [
+          "Visit Hadimba Devi Temple",
+          "Explore Van Vihar (Forest Sanctuary)",
+          "Visit Vashisht Hot Springs",
+          "Browse Manali bazaar for local crafts",
+          "Optional apple brandy tasting",
+          "Optional paragliding or adventure activities",
+          "Evening relaxation and dinner"
+        ]
+      },
+      {
+        "day": 9,
+        "title": "Departure from Manali | Transfer to Delhi",
+        "route": "Manali - Delhi",
+        "overnight": "",
+        "description": "The final day of your epic 9-day Kashmir-Ladakh-Himachal adventure. Check-out from your hotel and get transferred to Manali Bus Station or airport for your journey back to Delhi. Carry with you unforgettable memories of Srinagar's Dal Lake, Gulmarg's meadows, the dramatic passes of the Leh-Ladakh route, pristine alpine lakes at Tso Moriri and Pangong, and the charming Himalayan valleys. This incredible journey through Kashmir's paradise, Ladakh's cosmic skies, and Himachal's verdant valleys will remain etched in your heart forever.",
+        "activities": [
+          "Hotel check-out",
+          "Transfer to Manali Bus Station/Airport",
+          "Depart for Delhi",
+          "End of tour"
+        ]
+      }
+    ],
+    "tour_type": "bike",
+    "cardImage": "bike_itinerary_images/9D_srinagar_leh_manali.jpg",
+    "pricePerPerson": {
+      "standard": "₹44,000",
+      "deluxe": "₹49,000",
+      "premium": "₹56,000"
+    }
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "itinerary": {
+    "id": "6D_manali_spiti",
+    "title": "Manali-Spiti Valley Adventure - High Altitude Himalayan Expedition",
+    "state": [
+      "Himachal Pradesh"
+    ],
+    "packageDuration": "6D/5N",
+    "totalDistance": "560 km",
+    "description": "Experience one of world's most remote and challenging high-altitude destinations. Start in adventure hub Manali, cross legendary Rohtang Pass (3,978m), explore pristine Chandartal Lake (4,300m) in alpine wilderness. Traverse the highest motorable passes - Kunzum La (4,590m) - into barren Spiti Valley. Explore ancient Buddhist monasteries: Ki Monastery (4,150m, oldest in region), Kibber Village (4,205m, world's highest motorable village), unique landscape sculpted by high-altitude desert conditions. This 6-day expedition is for serious adventurers seeking extreme altitude, remote wilderness, and cultural immersion. Not recommended for casual travelers - altitude sickness risk significant, medical facilities minimal, weather unpredictable.",
+    "highlights": [
+      "Rohtang Pass (3,978m) - legendary high-altitude mountain pass with snowfields and panoramic views",
+      "Chandartal Lake (4,300m) - pristine glacial lake in lunar-like alpine landscape",
+      "Kunzum La Pass (4,590m) - highest point on itinerary, sacred Buddhist pass with prayer flags",
+      "Ki Monastery (4,150m) - 8th-century Buddhist monastery perched on narrow ridge, 10,000+ manuscripts",
+      "Kibber Village (4,205m) - world's highest motorable connected village on volcanic crater",
+      "Gete Village (4,400m) - highest motorable road in world (disputed claim)",
+      "Spiti Valley - desolate high-altitude desert landscape, minimal vegetation, extreme beauty",
+      "Prayer flags and Buddhist culture - authentic Tibetan Buddhism traditions",
+      "Extreme altitude adventure - exposure to world's highest motorable terrain",
+      "Lunar landscape - unique geological formations and barren beauty"
+    ],
+    "overviewSections": [
+      {
+        "title": "Day 1: Delhi to Manali | Overnight Adventure Begins",
+        "dayNumbers": [
+          1
+        ],
+        "tourType": "overnight journey + acclimatization",
+        "shortDescription": "Overnight Volvo bus from Delhi (216m) to Manali (2,050m). 560 km journey covering 12-13 hours. Arrive morning, check-in hotel, rest and acclimatize to moderate altitude. Afternoon: explore Manali town, visit temples, local markets. Early sleep for next day's pass crossing."
+      },
+      {
+        "title": "Day 2: Manali to Chandartal Lake via Rohtang Pass | First High-Altitude Challenge",
+        "dayNumbers": [
+          2
+        ],
+        "tourType": "high-altitude motorable pass + alpine camp",
+        "shortDescription": "Cross Rohtang Pass (3,978m) - famous snowfield mountain pass. Drive 50 km in 4-5 hours to pristine Chandartal Lake (4,300m) - moonstone-colored glacial lake in remote alpine wilderness. Camp overnight in basic tents. Moderate altitude (4,300m) presents mild AMS risk - acclimatization critical."
+      },
+      {
+        "title": "Day 3: Chandartal to Spiti Valley via Kunzum La | Extreme Altitude Adventure",
+        "dayNumbers": [
+          3
+        ],
+        "tourType": "highest motorable pass + remote mountain route",
+        "shortDescription": "Cross Kunzum La Pass (4,590m) - highest point of itinerary. Dramatic descent into desolate Spiti Valley. Pass through Losar village (Spiti's first settlement), continue to Kaza (3,648m). Total 80 km through lunar landscape. HIGH-RISK day with significant altitude exposure - health monitoring essential."
+      },
+      {
+        "title": "Day 4: Kaza Local Sightseeing | Ancient Monasteries & Villages",
+        "dayNumbers": [
+          4
+        ],
+        "tourType": "cultural + monastery exploration",
+        "shortDescription": "Full-day sightseeing from Kaza base. Visit Ki Monastery (4,150m, 8th-century, highest monastery), Kibber Village (4,205m, highest motorable village on volcanic crater), Gete Village (4,400m, highest motorable access point), Damul Valley scenic viewpoints. Return Kaza evening. Moderate activity day after extreme altitude exposure."
+      },
+      {
+        "title": "Day 5: Kaza to Manali | Return via Kunzum La",
+        "dayNumbers": [
+          5
+        ],
+        "tourType": "return high-altitude pass journey",
+        "shortDescription": "Return journey via same Kunzum La Pass. Reverse route: Kaza \u2192 Kunzum La (4,590m) \u2192 Chandartal Lake \u2192 Rohtang Pass (3,978m) \u2192 Manali (2,050m). 200 km over 6-7 hours with multiple altitude transitions. Easier return (descent) but long driving day. Arrive Manali evening."
+      },
+      {
+        "title": "Day 6: Manali to Delhi | Departure & End of Adventure",
+        "dayNumbers": [
+          6
+        ],
+        "tourType": "return journey + departure",
+        "shortDescription": "Overnight Volvo bus from Manali to Delhi. 560 km journey, 12-13 hours. Depart evening, arrive Delhi early morning next day. Overnight journey with sleep recovery. Safe return to lower altitude after high-altitude adventure."
+      }
+    ],
+    "detailedItinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Manali | Overnight Mountain Journey",
+        "route": "Delhi (216m) \u2192 Mandi \u2192 Kullu \u2192 Manali (2,050m). Total: 560 km, 12-13 hours",
+        "overnight": "Manali",
+        "description": "Your high-altitude adventure begins! Depart Delhi in evening via Volvo AC bus (overnight journey). Route follows National Highway 3 northwestward through plains and gradually entering Himalayan foothills. Journey passes through Haryana, Himachal Pradesh. Bus stops for dinner/snacks en route (\u20b9300-500 per meal, not included). Arrive Manali around 7:00 AM following morning. Check into hotel, rest after overnight journey. This Day 1 serves as critical acclimatization day - you've climbed from 216m (Delhi) to 2,050m (Manali) - significant altitude jump. Spend morning resting in hotel. Light afternoon exploration of Manali town if feeling fresh. Visit Hadimba Temple (ancient pagoda-style), Manu Temple, Vashisht hot springs. Retire early for next day's pass crossing.",
+        "activities": [
+          "{'name': 'Evening Departure from Delhi', 'time': '5:00 PM - 6:00 PM', 'duration': '1 hour', 'description': 'Assemble at Chanderlok Building, Connaught Place. Board Volvo AC bus. Overnight journey begins.'}",
+          "{'name': 'Overnight Bus Journey', 'time': '6:00 PM Day 1 - 7:00 AM Day 2', 'duration': '13 hours', 'distance': '560 km', 'description': 'Comfortable AC Volvo bus with reclining seats. Highway driving through night. Dinner stop included (restaurant en route). Sleep if possible - rest before altitude exposure.'}",
+          "{'name': 'Arrival in Manali & Hotel Check-in', 'time': '7:00 AM - 8:00 AM', 'altitude': '2,050m', 'duration': '1 hour', 'description': 'Arrive Manali town. Transfer to hotel. Check-in (early check-in may require small fee if before noon).'}",
+          "{'name': 'Rest Period & Acclimatization', 'time': '8:00 AM - 12:30 PM', 'duration': '4.5 hours', 'description': 'CRITICAL acclimatization period. Rest in hotel room. Sleep if needed after overnight journey. Breakfast at hotel. Avoid any exertion.'}",
+          "{'name': 'Hadimba Temple Visit', 'time': '1:00 PM - 2:00 PM', 'duration': '1 hour', 'altitude': '2,050m', 'description': 'Ancient temple dedicated to Hadimba - wife of Bhima (Mahabharata). Built 1553 CE. Pagoda-style architecture with intricate wooden carvings. Surrounded by deodar forest. Entry: Free. Moderate walk required.'}",
+          "{'name': 'Manali Market Exploration', 'time': '2:30 PM - 4:00 PM', 'duration': '1.5 hours', 'description': 'Walk through The Mall (central shopping district). Local handicrafts, woolens, souvenirs. Cafes for afternoon chai. Leisurely exploration at moderate altitude.'}",
+          "{'name': 'Dinner at Hotel & Early Sleep', 'time': '6:00 PM - 7:30 PM', 'description': 'Dinner at hotel. EARLY SLEEP by 8:30 PM recommended. Tomorrow is demanding pass crossing day - good sleep essential.'}"
+        ],
+        "altitude": {
+          "current": "2,050m",
+          "healthNote": "Significant altitude from sea level (1,834m gain from Delhi). Rest essential. Mild headache, slight fatigue normal. Drink 3-4 liters water."
+        },
+        "meals": {
+          "breakfast": "Not included (bus dinner stop)",
+          "lunch": "Hotel lunch recommended",
+          "dinner": "Included (hotel)"
+        },
+        "accommodation": {
+          "type": "Hotel (moderate category)",
+          "nights": 1,
+          "checkIn": "7:00 AM (early check-in)",
+          "checkOut": "7:30 AM (Day 2, early start)",
+          "amenities": "Room heater, hot water, restaurant, rest facilities",
+          "priceRange": "\u20b92,500-4,500 per night"
+        },
+        "transfers": [
+          {
+            "from": "Chanderlok Building, Delhi",
+            "to": "Manali",
+            "mode": "Volvo AC Bus (overnight)",
+            "duration": "13 hours",
+            "cost": "\u20b92,500-3,500 per person"
+          },
+          {
+            "from": "Manali bus stand",
+            "to": "Hotel",
+            "mode": "Hotel shuttle or local taxi",
+            "duration": "15 minutes",
+            "cost": "Included"
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Manali to Chandartal Lake via Rohtang Pass | First Alpine Challenge",
+        "route": "Manali (2,050m) \u2192 Rohtang Pass (3,978m) \u2192 Chandartal Lake (4,300m). Total: 50 km, 4-5 hours driving + activities",
+        "overnight": "Chandartal Camp",
+        "description": "Today marks your entry into high-altitude mountain adventure. Early morning departure to cross Rohtang Pass - famous mountain pass with dramatic scenery. Rohtang means 'pile of bones' in Himalayan language - historic pass where ancient caravans lost lives in harsh conditions. Modern road provides safe crossing. Altitude jump from 2,050m to 3,978m is significant - expect mild altitude effects. After pass, continue to Chandartal Lake - pristine glacial lake at 4,300m in remote alpine wilderness. Lake's color changes throughout day (hence 'Chandar' = moon, 'tal' = lake). Stay overnight in basic alpine camp - rustic but authentic high-altitude experience. This day is moderate difficulty but significant altitude exposure.",
+        "activities": [
+          "{'name': 'Very Early Breakfast & Departure', 'time': '5:30 AM - 6:15 AM', 'duration': '45 minutes', 'description': 'Early breakfast at hotel. Pack warm layers, sunscreen, water bottle. Depart 6:30 AM sharp - early start essential for pass crossing before clouds form.'}",
+          "{'name': 'Drive to Rohtang Pass Base', 'time': '6:30 AM - 8:15 AM', 'distance': '39 km', 'duration': '1.75 hours', 'altitude': '2,050m \u2192 3,500m', 'description': 'Scenic uphill drive from Manali through forests. Altitude gradually increases. Road winds through mountain passes. Multiple viewpoints. Stop for chai at roadside (\u20b950-100).'}",
+          "{'name': 'Rinchen Cafe - Mountain Fuel Stop', 'time': '8:30 AM - 8:50 AM', 'duration': '20 minutes', 'altitude': '3,500m', 'description': 'Iconic cafe at Rohtang approach. Hot maggi noodles, chai, snacks. Spectacular viewpoints. Popular stop with travelers.'}",
+          "{'name': 'Final Ascent to Rohtang Pass', 'time': '9:00 AM - 10:00 AM', 'distance': '11 km', 'duration': '1 hour with stops', 'altitude': '3,500m \u2192 3,978m', 'elevation gain': '478m', 'description': 'Final push to pass. Road steepens. Multiple photo stops. Breathing becomes noticeably heavier - normal physiological response at altitude.'}",
+          "{'name': 'Rohtang Pass (3,978m) - Legendary Mountain Pass', 'time': '10:15 AM - 11:15 AM', 'duration': '1 hour', 'altitude': '3,978m (13,050 feet)', 'description': 'Dramatic high-altitude pass with snowfields (visible most of year). Military checkpoint present (routine security check). 360\u00b0 panoramic views of snow-capped peaks, valleys below, distant mountains. Temperature: 5-15\u00b0C colder than Manali. Severe wind at pass - wear layers and windproof jacket. Limited exposure (1 hour maximum) due to altitude. Photography opportunities: dramatic landscapes, people against mountain backdrop, snowfield exploration.', 'photography': 'Extreme conditions - protect camera from wind/dust. Panoramic vistas remarkable. Golden hour (early morning or late afternoon) best light.'}",
+          "{'name': 'Descent from Rohtang towards Chandartal', 'time': '11:30 AM - 1:00 PM', 'distance': '11 km', 'duration': '1.5 hours', 'altitude': '3,978m \u2192 4,000m (plateau)', 'description': 'Descend slightly from pass, then plateau section. Sparse vegetation, barren landscape. Alpine environment becomes more pronounced.'}",
+          "{'name': 'Lunch Stop', 'time': '1:15 PM - 2:00 PM', 'duration': '45 minutes', 'description': 'Lunch at roadside restaurant or packed meal. Noodles, momos, rice dishes. Budget: \u20b9250-400.'}",
+          "{'name': 'Final Drive to Chandartal Lake', 'time': '2:15 PM - 3:30 PM', 'distance': '~30 km (rough estimates)', 'duration': '1.25 hours', 'altitude': '4,000m \u2192 4,300m', 'description': 'Continue drive through lunar landscape to Chandartal Lake. Road becomes rougher - high-altitude mountain track. Gradual altitude gain. Sparse vegetation gives way to barren rocks.'}",
+          "{'name': 'Arrival at Chandartal Lake & Camp Check-in', 'time': '3:45 PM - 4:30 PM', 'altitude': '4,300m', 'duration': '45 minutes', 'description': 'Arrive at alpine camp near Chandartal Lake. Check-in to basic tent/cottage accommodation. Rest and acclimatize. Explore lake shore if feeling well (short walks only).'}",
+          "{'name': 'Chandartal Lake Sunset Viewing', 'time': '5:00 PM - 6:00 PM', 'duration': '1 hour', 'description': 'Walk to lake shore (short 200m walk from camp). Experience moonstone-colored waters changing in evening light. Alpine silence, minimal vegetation, extreme altitude beauty. Photography of water reflections, mountains, sunset.'}",
+          "{'name': 'Dinner at Camp & Rest', 'time': '6:30 PM - 7:30 PM', 'description': 'Simple camp dinner: dal, rice, bread, vegetables. Eat light due to altitude. Chai/tea. Early sleep by 8:30 PM - tomorrow is highest altitude day.'}"
+        ],
+        "altitude": {
+          "current": "4,300m",
+          "healthWarning": "HIGH ALTITUDE. Mild altitude effects expected - breathlessness, mild headache, insomnia, nausea. NORMAL. Drink 5+ liters water daily. Limit exertion. Monitor symptoms."
+        },
+        "meals": {
+          "breakfast": "Included (hotel)",
+          "lunch": "Included (roadside restaurant)",
+          "dinner": "Included (camp)"
+        },
+        "accommodation": {
+          "type": "Alpine camp (basic tents/cottages)",
+          "nights": 1,
+          "checkIn": "4:00 PM",
+          "checkOut": "6:30 AM (Day 3, early start)",
+          "amenities": "Basic tent/cottage, shared bathroom with bucket hot water, dining tent, sleeping bag provided",
+          "temperature": "Below freezing at night - multiple blankets provided",
+          "priceRange": "\u20b92,000-3,500 per night"
+        },
+        "transfers": [
+          {
+            "from": "Manali hotel",
+            "to": "Chandartal Lake camp",
+            "mode": "Shared SUV (Innova/Xylo)",
+            "distance": "50 km",
+            "duration": "4-5 hours with pass crossing and stops",
+            "cost": "Included"
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Chandartal to Spiti Valley via Kunzum La | Extreme Altitude Passage",
+        "route": "Chandartal (4,300m) \u2192 Kunzum La Pass (4,590m) \u2192 Losar (3,700m) \u2192 Kaza (3,648m). Total: 80 km, 5-6 hours",
+        "overnight": "Kaza",
+        "description": "TODAY IS MOST CHALLENGING AND HIGHEST ALTITUDE DAY. Cross Kunzum La Pass (4,590m) - HIGHEST POINT OF ENTIRE ITINERARY. This is extreme altitude adventure - not for casual travelers. Pass is sacred Buddhist site with prayer flags. Sudden descent into desolate Spiti Valley follows - dramatic landscape transition. Pass through Losar village (Spiti's first settlement, 3,700m). Continue to Kaza (3,648m), Spiti Valley's largest town. This day involves: (1) extremely high altitude exposure, (2) significant altitude transition (gain to 4,590m then descent to 3,648m), (3) remote location, (4) limited medical facilities, (5) unpredictable weather. Health monitoring ESSENTIAL. If severe AMS develops, descent is immediate treatment.",
+        "activities": [
+          "{'name': 'Early Breakfast & Very Early Departure', 'time': '5:00 AM - 5:45 AM', 'duration': '45 minutes', 'description': 'Simple camp breakfast. Pack all belongings. Depart 6:00 AM sharp - must cross pass early before clouds/weather.'}",
+          "{'name': 'Drive from Chandartal to Kunzum La Base', 'time': '6:00 AM - 8:30 AM', 'distance': '~30 km', 'duration': '2.5 hours', 'altitude': '4,300m \u2192 4,500m', 'description': 'Uphill drive through alpine plateau landscape. Sparse vegetation, barren rocks. Altitude increases gradually. Breathing becomes labored - normal at 4,300m+.'}",
+          "{'name': 'Kunzum La Pass Approach & Final Climb', 'time': '8:45 AM - 9:30 AM', 'distance': '~10 km', 'duration': '45 minutes', 'altitude': '4,500m \u2192 4,590m', 'elevation gain': '90m', 'description': 'Final ascent to Kunzum La. Road becomes steep and winding. Multiple switchbacks. Extreme altitude - every breath difficult. Stop frequently for acclimatization. Prayer flags begin appearing - sign of sacred pass approach.'}",
+          "{'name': \"Kunzum La Pass (4,590m) - World's Extremely High Motorable Pass\", 'time': '9:45 AM - 10:45 AM', 'duration': '1 hour maximum', 'altitude': '4,590m (15,059 feet)', 'elevation': 'HIGHEST POINT OF ITINERARY', 'description': 'Sacred Buddhist mountain pass with prayer flags fluttering in high-altitude wind. Barren, desolate landscape. Temperature: 0 to -10\u00b0C even in summer. Severe wind creates wind chill. Air is noticeably thin - every activity requires effort. Pass is marked with stone cairns and Buddhist shrine. Limited visibility due to clouds (afternoon). Exposure must be SHORT - 1 hour maximum due to extreme altitude. Photography is challenging in harsh conditions. Many travelers experience significant altitude symptoms here - NORMAL. Descent provides immediate relief.', 'healthAlert': 'CRITICAL ALTITUDE. AMS incidence 15-25% at this elevation. Severe headache, nausea, dizziness possible. If symptoms severe, immediate descent required. Limit stay to 1 hour maximum.', 'photography': 'Extreme conditions make photography difficult. Pray flags, stones cairns, desolate landscape. Cold ruins camera batteries quickly.'}",
+          "{'name': 'Dramatic Descent from Kunzum La to Spiti Valley', 'time': '11:00 AM - 1:00 PM', 'distance': '~35 km', 'duration': '2 hours', 'altitude': '4,590m \u2192 3,700m', 'elevation loss': '890m', 'description': 'Dramatic descent into Spiti Valley. Landscape transition from alpine to barren high-altitude desert. Brown, desolate badland terrain visible. Winding mountain road with sharp hairpin turns. Steep grade makes descent thrilling but manageable. Altitude decreases significantly - by 3,700m, breathing becomes easier, symptoms ease.'}",
+          "{'name': 'Losar Village - First Spiti Settlement', 'time': '1:15 PM - 1:45 PM', 'altitude': '3,700m', 'duration': '30 minutes', 'description': 'Arrive Losar village - gateway to Spiti Valley. First inhabited settlement after pass. Traditional Ladakhi-style stone houses. Teahouse stop for chai/snacks. Local hospitality. Cultural immersion moment.'}",
+          "{'name': 'Continue to Kaza', 'time': '2:00 PM - 3:30 PM', 'distance': '~60 km', 'duration': '1.5 hours', 'altitude': '3,700m \u2192 3,648m', 'description': 'Continue drive to Kaza. Road winds through Spiti Valley. Spiti River visible. Barren, moonlike landscape. High desert environment. Minimal vegetation.'}",
+          "{'name': 'Arrival in Kaza & Hotel Check-in', 'time': '3:45 PM - 4:30 PM', 'altitude': '3,648m', 'duration': '45 minutes', 'description': \"Arrive Kaza - Spiti Valley's main town (~1,000 population). Check-in to basic hotel. Rest after extreme altitude day.\"}",
+          "{'name': 'Evening at Leisure & Dinner', 'time': '5:00 PM - 7:00 PM', 'description': 'Rest at hotel. Acclimatize to 3,648m altitude. Avoid exertion. Dinner: simple Spitian cuisine (momos, thukpa, dal, bread). Sleep early - tomorrow requires early start for sightseeing.'}"
+        ],
+        "altitude": {
+          "current": "4,590m (peak) - 3,648m (Kaza)",
+          "healthWarning": "EXTREME ALTITUDE DAY. 4,590m is dangerously high. AMS risk 15-25%. Watch for severe headache, vomiting, dizziness, confusion. These are signs of HACE (High Altitude Cerebral Edema) - MEDICAL EMERGENCY. Immediate descent required if severe symptoms."
+        },
+        "meals": {
+          "breakfast": "Included (camp)",
+          "lunch": "Packed meal or roadside stop (\u20b9300-400)",
+          "dinner": "Included (Kaza hotel)"
+        },
+        "accommodation": {
+          "type": "Hotel (basic, Kaza)",
+          "nights": 1,
+          "checkIn": "4:00 PM",
+          "checkOut": "7:00 AM (Day 4)",
+          "amenities": "Basic room, hot water bucket, shared bathroom, basic restaurant",
+          "priceRange": "\u20b92,000-3,500 per night"
+        },
+        "transfers": [
+          {
+            "from": "Chandartal camp",
+            "to": "Kaza hotel",
+            "mode": "Shared SUV (high-altitude suitable)",
+            "distance": "80 km",
+            "duration": "5-6 hours with pass crossing",
+            "cost": "Included"
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Kaza Local Sightseeing | Ancient Monasteries & Highest Villages",
+        "route": "Kaza base \u2192 Ki Monastery (40 km) \u2192 Kibber Village (45 km) \u2192 Gete Village (50 km) \u2192 Kaza. Total: ~100 km circuit",
+        "overnight": "Kaza",
+        "description": "Full-day sightseeing from Kaza exploring ancient Spiti monasteries and world's highest motorable villages. Visit Ki Monastery (4,150m) - 8th-century monastery perched on narrow ridge with 10,000+ Buddhist manuscripts. Explore Kibber Village (4,205m) - claimed as world's highest motorable connected village, built on ancient volcanic crater. Visit Gete Village (4,400m) - extremely remote with highest motorable road access. Explore Damul Valley scenic vistas on return. This day is moderate activity after previous day's extreme altitude. Allows continued acclimatization at 3,600-4,400m altitude band. Cultural immersion in Spitian Buddhism and remote mountain communities.",
+        "activities": [
+          "{'name': 'Breakfast at Hotel & Early Departure', 'time': '7:00 AM - 7:45 AM', 'duration': '45 minutes', 'description': 'Hotel breakfast. Pack warm layers, camera, water. Depart 8:00 AM.'}",
+          "{'name': 'Drive to Ki Monastery', 'time': '8:00 AM - 9:45 AM', 'distance': '40 km', 'duration': '1.75 hours', 'altitude': '3,648m \u2192 4,150m', 'description': 'Drive eastward from Kaza towards Ki Monastery. Road winds through Spiti Valley. Altitude gradually increases. Monastery visible from distance - perched on narrow ridge.'}",
+          "{'name': 'Ki Monastery - Highest Buddhist Monastery', 'time': '10:00 AM - 11:30 AM', 'duration': '1.5 hours', 'altitude': '4,150m', 'description': \"8th-century Buddhist monastery built on narrow ridge overlooking Spiti Valley. Architecture: Gompa (central prayer hall) integrated into mountain topography. Features: prayer halls, living quarters for 20+ monks, library with 10,000+ ancient Buddhist manuscripts (Tibetan texts, tantric writings), intricate wooden carvings, Buddhist artwork. Access: stone steps climbing to monastery entrance (moderate climbing, 200+ steps). Respectful etiquette: remove shoes in prayer halls, cover head, modest dress. Monks' prayer sessions (morning 5-7 AM, afternoon 4-5 PM) - visitors can observe if timing coincides. Panoramic views from monastery: entire Spiti Valley visible below, surrounding peaks, barren landscape.\", 'photography': 'Exterior monastery shots, prayer halls (ask permission), valley panorama from monastery, monk activities (respectful distance).', 'entry': 'Free (donations appreciated \u20b9100-300)', 'accessibility': 'Steep stone steps, altitude effects - take time, rest as needed.'}",
+          "{'name': 'Drive to Kibber Village', 'time': '12:00 PM - 1:30 PM', 'distance': '45 km', 'duration': '1.5 hours', 'altitude': '4,150m \u2192 4,205m', 'description': \"Drive to Kibber Village - claimed as 'world's highest motorable connected village' (claim disputed but accurate for India). Road becomes extremely narrow and winding - single-lane mountain track with dramatic hairpins. Extreme exposure - sheer drops visible. Road is thrilling and challenging. Kibber sits on ancient volcanic crater - unique geological feature.\"}",
+          "{'name': \"Kibber Village - World's Highest Village & Monastery\", 'time': '1:45 PM - 3:00 PM', 'duration': '1.25 hours', 'altitude': '4,205m', 'description': 'Arrive at Kibber Village - remote settlement at extreme altitude. Village: population ~50-100, traditional stone houses with flat roofs (design for snow loads). Monastery: ancient gompa built on volcanic crater (believed extinct volcano beneath village). Monastery interior: small prayer hall, religious artifacts, Buddhist texts. Unique feature: entire monastery integrated into village structure - not separate building. Access is challenging - narrow stairs, low doorways. Panoramic views: surrounding peaks, Spiti Valley, barren landscape. Community experience: interact with local residents (shepherds, monks), learn traditional lifestyle. Lunch: tea and simple meal with local family (if hospitality offered).', 'photography': 'Village architecture, monastery exterior, mountain vistas, local people (respectful permission-asking).', 'accessibility': 'Extreme altitude, narrow streets, basic facilities - challenging for some visitors.'}",
+          "{'name': 'Drive to Gete Village (Optional, if time permits)', 'time': '3:15 PM - 4:30 PM', 'distance': '~50 km', 'duration': '1.25 hours', 'altitude': '4,205m \u2192 4,400m', 'description': 'Optional continuation to Gete Village - extremely remote with highest motorable road access in India. Extremely isolated location. Very few vehicles reach here. Road is rough mountain track. Warning: altitude is extreme (4,400m), weather unpredictable, limited facilities. Only recommended for hardy travelers willing for extreme adventure. Alternative: skip and rest in Kibber.'}",
+          "{'name': 'Return to Kaza', 'time': '4:45 PM - 6:30 PM', 'distance': '~40 km return', 'duration': '1.75 hours', 'description': 'Return journey to Kaza. Descend from villages. Same winding mountain road. Daylight begins fading - good light for photography during descent.'}",
+          "{'name': 'Damul Valley Scenic Stop (optional en route)', 'time': '6:00 PM - 6:30 PM', 'duration': '30 minutes', 'description': 'Optional stop at Damul Valley viewpoint on return to Kaza. Multi-colored landscape: purple, orange, gray rocks. Geological formations spectacular. Photography of valley colors and geological patterns.'}",
+          "{'name': 'Dinner at Kaza Hotel', 'time': '7:00 PM - 8:00 PM', 'description': 'Dinner: Spitian cuisine - momos, thukpa (barley noodle soup), dal. Simple, warming food. Sleep early - next day is long return journey.'}"
+        ],
+        "altitude": {
+          "current": "3,648m (Kaza) - 4,400m (Gete if visited)",
+          "healthNote": "Altitude effects continue but manageable after acclimatization. Monitor for any worsening symptoms."
+        },
+        "meals": {
+          "breakfast": "Included (hotel)",
+          "lunch": "Included (Kibber village local meal or picnic)",
+          "dinner": "Included (Kaza hotel)"
+        },
+        "accommodation": {
+          "type": "Hotel (same as Day 3, Kaza)",
+          "nights": 1,
+          "checkIn": "Previous night",
+          "checkOut": "6:30 AM (Day 5)"
+        },
+        "transfers": [
+          {
+            "from": "Kaza",
+            "to": "Ki Monastery & Kibber Village circuit",
+            "mode": "Shared SUV with experienced driver",
+            "distance": "~100 km circuit",
+            "duration": "Full day with sightseeing stops",
+            "cost": "Included"
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Kaza to Manali | Return via Kunzum La Pass",
+        "route": "Kaza (3,648m) \u2192 Kunzum La Pass (4,590m) \u2192 Chandartal Lake (4,300m) \u2192 Rohtang Pass (3,978m) \u2192 Manali (2,050m). Total: 200 km, 6-7 hours",
+        "overnight": "Manali",
+        "description": "Return journey via same high-altitude passes. Reverse route: Kaza \u2192 Kunzum La (4,590m) \u2192 Chandartal \u2192 Rohtang Pass (3,978m) \u2192 Manali. This day is continuation of altitude adventure but descent makes it physically easier than Day 3 (uphill strain eliminated). Multiple altitude transitions occur - from 3,648m (Kaza) up to 4,590m (pass) down to 2,050m (Manali) - significant pressure changes. Last high-altitude exposure before returning to normal elevation. By day's end, arrival in Manali at moderate altitude (2,050m) feels low-altitude relief after 5 days at 3,600-4,590m. Long driving day but manageable.",
+        "activities": [
+          "{'name': 'Early Breakfast & Departure', 'time': '6:00 AM - 6:45 AM', 'duration': '45 minutes', 'description': 'Early breakfast. Pack belongings. Depart 7:00 AM for pass crossing before clouds.'}",
+          "{'name': 'Kaza to Kunzum La Ascent', 'time': '7:00 AM - 10:30 AM', 'distance': '~50 km', 'duration': '3.5 hours with stops', 'altitude': '3,648m \u2192 4,590m', 'description': 'Drive northwestward from Kaza. Losar village passage (~1 hour). Continue ascent to Kunzum La. Same dramatic climb as Day 3 but now familiar route. Prayer flags and pass cairns appear as approach Kunzum La.'}",
+          "{'name': 'Kunzum La Pass - Final High-Altitude Exposure', 'time': '10:45 AM - 11:30 AM', 'duration': '45 minutes', 'altitude': '4,590m', 'description': 'Brief stop at Kunzum La. Second pass crossing - symptoms likely less severe as body acclimatized after 5 days. Prayer flags photography. Same extreme altitude precautions apply - short exposure only.'}",
+          "{'name': 'Descent towards Chandartal', 'time': '11:45 AM - 1:15 PM', 'distance': '~30 km', 'duration': '1.5 hours', 'altitude': '4,590m \u2192 4,300m', 'description': 'Begin descent. Altitude decreases. Breathing becomes easier. Alpine plateau landscape.'}",
+          "{'name': 'Lunch Stop', 'time': '1:30 PM - 2:15 PM', 'duration': '45 minutes', 'description': 'Lunch at roadside restaurant or packed meal. Noodles, momos, dal. Hydrate well after altitude days.'}",
+          "{'name': 'Chandartal Lake Brief Stop (optional)', 'time': '2:30 PM - 2:45 PM', 'altitude': '4,300m', 'description': 'Brief stop at Chandartal Lake if time permits. Final view of pristine glacial lake after 5 days high-altitude adventure.'}",
+          "{'name': 'Continue to Rohtang Pass', 'time': '3:00 PM - 4:15 PM', 'distance': '~40 km', 'duration': '1.25 hours', 'altitude': '4,300m \u2192 3,978m'}",
+          "{'name': 'Rohtang Pass - Final Mountain Experience', 'time': '4:30 PM - 5:00 PM', 'duration': '30 minutes', 'altitude': '3,978m', 'description': 'Pass through Rohtang Pass on return. Familiar landscape. Quick stop for photos.'}",
+          "{'name': 'Descent from Rohtang to Manali', 'time': '5:15 PM - 7:00 PM', 'distance': '~50 km', 'duration': '1.75 hours', 'altitude': '3,978m \u2192 2,050m', 'description': 'Final descent to Manali. Rapid elevation loss (1,928m) over 1.75 hours. Vegetation gradually increases as altitude decreases - landscape greenness returns. Temperature noticeably warmer.'}",
+          "{'name': 'Arrival in Manali & Hotel Check-in', 'time': '7:15 PM - 7:45 PM', 'altitude': '2,050m', 'duration': '30 minutes', 'description': 'Arrive Manali. Check-in to hotel. Rest after long driving day.'}",
+          "{'name': 'Dinner & Rest', 'time': '8:00 PM - 9:00 PM', 'description': 'Dinner at hotel. Relax after 5 days high-altitude adventure. Early sleep - overnight bus departure Day 6.'}"
+        ],
+        "altitude": {
+          "current": "2,050m (final arrival)",
+          "healthNote": "Rapid descent from 4,590m to 2,050m is significant. Altitude adjustment is reversed quickly. Some travelers experience mild symptoms during rapid descent. Rest and hydration help."
+        },
+        "meals": {
+          "breakfast": "Included (Kaza hotel)",
+          "lunch": "Included (roadside restaurant)",
+          "dinner": "Included (Manali hotel)"
+        },
+        "accommodation": {
+          "type": "Hotel (same as Day 1, Manali)",
+          "nights": 1,
+          "checkIn": "7:15 PM",
+          "checkOut": "5:00 PM (Day 6, evening bus departure)"
+        },
+        "transfers": [
+          {
+            "from": "Kaza hotel",
+            "to": "Manali hotel",
+            "mode": "Shared SUV",
+            "distance": "200 km",
+            "duration": "6-7 hours with pass crossings and stops",
+            "cost": "Included"
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Manali to Delhi | Overnight Return Journey",
+        "route": "Manali (2,050m) \u2192 Delhi (216m) via National Highway 3. Total: 560 km, 12-13 hours",
+        "overnight": null,
+        "description": "Final day of your high-altitude adventure expedition. Overnight Volvo bus departure from Manali back to Delhi. Late afternoon/evening departure allows leisurely morning in Manali (shopping, final market exploration, rest recovery from 5 days extreme altitude). Evening bus boarding begins overnight journey. Arrive Delhi early morning Day 7. 6D adventure complete - return home with memories of world's highest motorable passes, pristine alpine lakes, ancient monasteries, and extreme altitude adventure.",
+        "activities": [
+          "{'name': 'Manali City Leisurely Exploration', 'time': '8:00 AM - 4:00 PM', 'duration': '8 hours', 'description': 'Final morning/afternoon in Manali. Optional activities: Manu Temple, Vashisht hot springs, local shopping for souvenirs (wool, handicrafts), cafe time. Rest recovery from high-altitude days. Pack belongings, prepare for evening bus departure.'}",
+          "{'name': 'Hotel Check-out & Afternoon Rest', 'time': '12:00 PM - 4:30 PM', 'duration': '4.5 hours', 'description': 'Check-out from hotel. Store luggage at bus pickup location. Rest at bus station or hotel lobby (arrangements typically available).'}",
+          "{'name': 'Volvo Bus Departure from Manali', 'time': '5:00 PM - 6:00 PM', 'description': 'Evening departure from Manali bus stand. Board AC Volvo bus. Overnight journey begins.'}",
+          "{'name': 'Overnight Bus Journey to Delhi', 'time': '6:00 PM Day 6 - 7:00 AM Day 7', 'duration': '13 hours', 'distance': '560 km', 'description': 'Comfortable AC Volvo with reclining seats. Dinner stop included (restaurant en route, \u20b9300-500). Sleep during journey. Arrive Delhi early morning Day 7.'}",
+          "{'name': 'Arrival in Delhi', 'time': '7:00 AM Day 7 (approximately)', 'description': 'Arrive Chanderlok Building, Connaught Place, Delhi. End of 6D/5N high-altitude Himalayan adventure expedition.'}"
+        ],
+        "altitude": {
+          "current": "2,050m (Manali) - 216m (Delhi)",
+          "healthNote": "Dramatic altitude return to sea level over overnight bus journey. Rapid pressure normalization. Most travelers feel relief from altitude effects."
+        },
+        "meals": {
+          "breakfast": "Self-arranged (Manali)",
+          "lunch": "Self-arranged (Manali)",
+          "dinner": "Bus dinner stop included (en route)"
+        },
+        "accommodation": {
+          "type": "Volvo bus (overnight)",
+          "nights": 1,
+          "travelingNight": true,
+          "sleepingArrangement": "AC bus reclining seats"
+        },
+        "transfers": [
+          {
+            "from": "Manali",
+            "to": "Delhi",
+            "mode": "Volvo AC Bus (overnight)",
+            "distance": "560 km",
+            "duration": "13 hours",
+            "cost": "\u20b92,500-3,500 per person"
+          }
+        ]
+      }
+    ],
+    "pricing": {
+      "description": "6D/5N Manali-Spiti Valley high-altitude expedition includes: vehicle transportation with experienced driver, accommodation (basic hotels + alpine camp), meals (breakfast/lunch/dinner), sightseeing, and guided exploration. Pricing varies by accommodation category and vehicle type.",
+      "carCategories": [
+        {
+          "category": "A - Premium High-Altitude SUV (Shared)",
+          "vehicles": [
+            "Innova",
+            "Aria",
+            "XUV",
+            "6-seater"
+          ],
+          "basePrice": "\u20b948,000-62,000",
+          "pricePerKm": "\u20b985-110",
+          "description": "Premium shared SUV suitable for extreme altitude routes. Experienced high-altitude driver. 6-passenger capacity. Oxygen cylinders available (additional cost)."
+        },
+        {
+          "category": "B - Standard High-Altitude SUV (Shared)",
+          "vehicles": [
+            "Xylo",
+            "Scorpio",
+            "Ertiga",
+            "6-seater"
+          ],
+          "basePrice": "\u20b942,000-56,000",
+          "pricePerKm": "\u20b975-95",
+          "description": "Standard shared SUV for mountain routes. 6-passenger capacity. Experienced driver. Reliable for high passes."
+        },
+        {
+          "category": "C - Budget Mountain Van (Shared)",
+          "vehicles": [
+            "Sumo",
+            "Eeco",
+            "Force",
+            "8-seater"
+          ],
+          "basePrice": "\u20b936,000-48,000",
+          "pricePerKm": "\u20b965-80",
+          "description": "Budget-friendly shared transport. 8-passenger capacity. Basic comfort. Suitable for high-altitude routes with experienced driver."
+        }
+      ],
+      "includes": [
+        "Delhi-Manali overnight Volvo bus (both directions)",
+        "All vehicle transportation per itinerary (5 days)",
+        "Experienced mountain driver certified for high-altitude routes (Kunzum La, Rohtang Pass)",
+        "Fuel and tolls throughout",
+        "Hotel accommodations: Manali (2 nights), Kaza (2 nights)",
+        "Alpine camp stay: Chandartal Lake (1 night, basic tent/cottage)",
+        "Breakfast, lunch, dinner (5 full days: 5 breakfasts, 4 lunches, 5 dinners)",
+        "Sightseeing & guided tours: Ki Monastery, Kibber Village, Damul Valley",
+        "Basic first-aid kit in vehicle",
+        "Bottled water during driving",
+        "Driver meals and accommodation"
+      ],
+      "excludes": [
+        "Travel insurance (HIGHLY RECOMMENDED with altitude coverage)",
+        "Meals not mentioned",
+        "Oxygen cylinder rental (if purchased: \u20b9500-1,000 per cylinder)",
+        "Optional activities: additional monastery visits, village homestays",
+        "Entrance fees: minimal (monasteries free, villages free)",
+        "Personal medical expenses",
+        "Photography permits/guides",
+        "Tips and gratuities"
+      ],
+      "estimatedBudgetPerPerson": {
+        "packageCost": "\u20b936,000-62,000 (depending on category)",
+        "additionalExpenses": "\u20b93,000-8,000 (oxygen \u20b9500-1,000, snacks \u20b91,000-2,000, shopping \u20b91,000-3,000, tips \u20b9500-1,000)",
+        "totalEstimatedCost": "\u20b939,000-70,000 per person",
+        "costBreakdown": {
+          "transport": "\u20b912,000-18,000",
+          "hotels": "\u20b98,000-12,000",
+          "alpine_camp": "\u20b92,500-3,500",
+          "meals": "\u20b94,000-6,000",
+          "sightseeing": "\u20b92,000-3,000",
+          "miscellaneous": "\u20b93,000-8,000"
+        }
+      }
+    },
+    "permits": {
+      "required": false,
+      "description": "No permits required for Indian citizens. Foreign nationals: check with district administration (Kinnaur/Lahaul-Spiti) but generally no restrictions for tourist visits.",
+      "innerLinePermit": "Not required for Spiti Valley (unlike Nubra/Pangong Ladakh)",
+      "photography": "Allowed in all locations. Ask permission before photographing monks or local people."
+    },
+    "bestTimeToVisit": {
+      "primarySeason": "June to September",
+      "seasonalBreakdown": {
+        "june": {
+          "weather": "Cool 10-18\u00b0C, snow possible at passes",
+          "advantages": "Early season, flowers beginning, fewer crowds",
+          "disadvantages": "Kunzum La may have snow patches, less reliable",
+          "recommendation": "Good but require flexibility for weather delays"
+        },
+        "july_august": {
+          "weather": "Warm 15-20\u00b0C, afternoon showers possible",
+          "advantages": "Most reliable weather, all passes fully accessible",
+          "disadvantages": "Peak season, crowded, monsoon rain possible",
+          "recommendation": "Best overall but plan for potential rain"
+        },
+        "september": {
+          "weather": "Cool 8-15\u00b0C, clear skies",
+          "advantages": "Excellent visibility, fewer crowds, stable weather",
+          "disadvantages": "Shorter season, beginning cold at high altitude",
+          "recommendation": "Excellent - arguably best month"
+        },
+        "october": {
+          "weather": "Cold 0-10\u00b0C, snow possible",
+          "accessibility": "Becoming risky - passes can close suddenly",
+          "recommendation": "Avoid - too unpredictable"
+        },
+        "november_april": {
+          "weather": "Heavy snow, passes closed",
+          "accessibility": "Completely closed",
+          "recommendation": "Not accessible for this itinerary"
+        },
+        "may": {
+          "weather": "Cool 8-15\u00b0C, monsoon starting",
+          "accessibility": "Kunzum La becoming reliably open",
+          "recommendation": "Possible but require caution"
+        }
+      },
+      "recommendation": "BEST: July-September. GOOD: June (early season). AVOID: October onward and May."
+    },
+    "healthTips": [
+      "\ud83d\udea8 CRITICAL ALTITUDE: This itinerary reaches 4,590m (Kunzum La) - EXTREME altitude. AMS risk 15-25%. Not suitable for everyone.",
+      "\ud83d\udea8 HIGH RISK: Single day of 4,590m exposure after only 2 days acclimatization. Rapid altitude gain significant health risk. Consider pre-acclimatization.",
+      "\u26a0\ufe0f AMS MONITORING: Watch closely for symptoms: severe headache, vomiting, dizziness, confusion, loss of coordination (ataxia). Any of these = MEDICAL EMERGENCY. Descent required immediately.",
+      "\ud83d\udca7 HYDRATION CRITICAL: Drink 5-6 LITERS water daily. Thin air at 4,000m+ causes severe dehydration. Urine color = hydration indicator (pale = good, dark = drink more).",
+      "\ud83d\udeab AVOID: Alcohol, sleeping pills, smoking. These worsen altitude effects dramatically.",
+      "\ud83d\ude34 SLEEP ESSENTIAL: Difficulty sleeping normal at altitude. Earplugs, eye masks help. 8+ hours attempted sleep important for acclimatization.",
+      "\ud83d\udc8a MEDICATION STRONGLY RECOMMENDED: Acetazolamide (Diamox) 250mg twice daily starting 1-2 days before travel. Reduces AMS risk by 50%. Consult doctor - prescription required.",
+      "\ud83c\udf1e SUN PROTECTION: SPF 50+ sunscreen ESSENTIAL (reapply every 1-2 hours). Sunburn occurs in 10 minutes at 4,500m. Sunglasses polarized lenses.",
+      "\u26d4 CONTRAINDICATED: Pregnant women, severe cardiac disease, uncontrolled hypertension, severe respiratory disease, recent surgery (6 months). NOT RECOMMENDED.",
+      "\ud83c\udfe5 MEDICAL: Limited facilities beyond Manali. SNM Hospital, Leh (200 km away) is nearest major facility. Helicopter evacuation available but costs \u20b91-5 lakhs. TRAVEL INSURANCE MANDATORY.",
+      "\ud83c\udfc3 NO EXERTION: Avoid strenuous activity Days 2-4. Even walking fast causes altitude symptoms. Rest is treatment.",
+      "\u274c DESCENT IS CURE: Only treatment for severe AMS is descent. 1,000m descent provides immediate relief.",
+      "\ud83d\udcf1 COMMUNICATION: Limited mobile coverage beyond Kaza. No coverage on passes. Offline maps essential.",
+      "\ud83d\ude97 ROAD SAFETY: Mountain roads are dangerous - winding, high altitude, weather hazards. Trust driver implicitly.",
+      "\ud83c\udf7d\ufe0f EAT LIGHT: Heavy meals cause nausea at altitude. Frequent small meals preferred. Carbohydrates best (rice, bread, noodles)."
+    ],
+    "localCuisine": [
+      {
+        "dishName": "Thukpa (Barley Noodle Soup)",
+        "description": "Traditional Spitian/Tibetan noodle soup in aromatic broth. Warming, easily digestible.",
+        "healthValue": "RECOMMENDED - ideal altitude food. Light on stomach, hydrating, comforting.",
+        "whereToTry": "Local dhabas in Kaza, all valley villages",
+        "price": "\u20b980-150"
+      },
+      {
+        "dishName": "Momos (Dumplings)",
+        "description": "Tibetan dumplings filled with meat or vegetables. Steamed or fried.",
+        "healthValue": "Good protein source, easily digestible.",
+        "whereToTry": "Local markets, guesthouses",
+        "price": "\u20b9100-150"
+      },
+      {
+        "dishName": "Spitian Dal (Lentil Curry)",
+        "description": "Simple lentil curry with local spices. Staple Spitian food.",
+        "healthValue": "Protein-rich, warming, stomach-friendly at altitude.",
+        "whereToTry": "All hotels and restaurants",
+        "price": "\u20b980-120"
+      },
+      {
+        "dishName": "Butter Tea (Po Cha)",
+        "description": "Tibetan salted butter tea - salty, creamy, warming drink.",
+        "experience": "Unique taste - acquired but energizing at altitude. Contains fat calories useful at high elevation.",
+        "healthValue": "Provides calories and warmth. Good for altitude adaptation.",
+        "whereToTry": "Guesthouses, tea houses",
+        "price": "\u20b950-80"
+      },
+      {
+        "dishName": "Tsampa (Barley Flour)",
+        "description": "Roasted barley flour mixed with butter tea - traditional Tibetan staple.",
+        "healthValue": "High calorie, sustaining, easy to prepare.",
+        "whereToTry": "Traditional households (less in restaurants)",
+        "price": "\u20b950-100"
+      }
+    ],
+    "interestingFacts": [
+      "Kunzum La Pass (4,590m) is one of world's highest motorable passes - driving a vehicle at this elevation is extraordinary achievement.",
+      "Spiti Valley name comes from Sanskrit 'Spiti' meaning 'middle land' - valley sits between Tibet and Himalayas.",
+      "Ki Monastery (8th century) is among oldest Buddhist monasteries still functioning - over 1,200 years of continuous Buddhist practice.",
+      "Kibber Village's claim as 'world's highest motorable village' is disputed - several Tibetan/Andean villages claim higher elevation - but it's definitely highest in India.",
+      "Spiti Valley receives less than 200mm annual rainfall - making it a high-altitude desert despite being surrounded by mountains.",
+      "Buddhist monasteries in Spiti preserve Tibetan Buddhism traditions suppressed in Tibet - making valley a living museum of Tibetan spiritual culture.",
+      "The Spiti River runs through valley - named from Sanskrit 'Spiti' (middle) - river created dramatic valleys and canyons over millennia.",
+      "Volcanic origins: Kibber Village is believed built on ancient extinct volcanic crater - unique geological feature.",
+      "Road accessibility: Kunzum La and Rohtang Pass closures are unpredictable - weather can close routes for 12-48 hours suddenly.",
+      "Altitude records: Vehicle travel at 4,590m elevation is among highest regular motorable road use in world.",
+      "Ancient manuscripts: Ki Monastery houses 10,000+ Buddhist texts in Tibetan language - invaluable cultural/religious heritage.",
+      "Minimal services: Kaza (population ~1,000) is largest town - limited shops, restaurants, ATMs. Bring cash.",
+      "Extreme weather: Temperature can swing 30\u00b0C between day/night at 4,000m+ altitude - prepare for extreme conditions.",
+      "Prayer flags: Buddhist tradition - each flag represents prayer carried by wind across valley - sacred to Tibetan culture."
+    ],
+    "transportationNotes": {
+      "mountainDrivingExperience": "ESSENTIAL - drivers must have 10+ years high-altitude experience. Kunzum La and Rohtang Pass driving is extreme mountain skill requirement.",
+      "vehicleRequirement": "MUST be high-altitude suitable SUV - not sedan. Innova/Xylo/Scorpio minimum. Engines need high-altitude carburetion adjustment.",
+      "passAccessibility": "Both Kunzum La (4,590m) and Rohtang Pass (3,978m) can close unpredictably. Weather-dependent. Check status 1-2 days before travel.",
+      "fuelAvailability": "CRITICAL: Fuel stations only in Manali and Kaza. MUST have full tank before Day 2. No fuel 250+ km between Manali and Kaza.",
+      "roadConditions": "Manali-Rohtang-Chandartal: good highway. Kunzum La: narrow mountain track, steep grades, hairpin turns. Spiti valley roads: rough, unmaintained sections.",
+      "emergencyServices": "SNM Hospital in Manali is main facility. Limited service in Kaza (basic clinic). Beyond Kaza: NO medical facilities. Helicopter evacuation only emergency option (costs \u20b91-5 lakhs).",
+      "mobileNetwork": "Good in Manali. Patchy Chandartal-Kaza. No coverage on passes. Offline maps ESSENTIAL.",
+      "roadSafety": "Mountain roads present risks: narrow roads, high altitude, weather hazards, avalanche zones (winter/spring). Trust driver completely.",
+      "journeyTimings": "Don't underestimate travel times - 50 km may take 3-4 hours due to winding mountain roads. Plan accordingly.",
+      "weatherImpact": "Afternoon thunderstorms common June-August. Early morning driving safer. Visibility poor afternoon.",
+      "oxygenCylinders": "Available for purchase (\u20b9500-1,000 per cylinder) if planning high-altitude stays. Recommended for altitude-sensitive travelers."
+    },
+    "importantNotes": [
+      "\ud83d\udea8 NOT FOR EVERYONE: This itinerary is for experienced high-altitude travelers. First-time high-altitude visitors should consider 4D/5D Ladakh (lower altitude) instead.",
+      "\ud83d\udea8 EXTREME ALTITUDE: Kunzum La (4,590m) is dangerously high. Single-day exposure after 2 days acclimatization risky. Recommend pre-acclimatization (spend few days at 3,000-3,500m before Day 3).",
+      "\ud83d\udd14 PASS CLOSURES: Both Kunzum La and Rohtang Pass close unpredictably. If passes close, itinerary cannot proceed - no refunds (weather beyond control). Have flexible dates.",
+      "\ud83d\udd14 ALTITUDE SICKNESS: 15-25% of travelers experience significant AMS at 4,590m. Severe symptoms (vomiting, confusion, loss of coordination) require immediate descent - possible evacuation cost.",
+      "\ud83d\udd14 CAMPING EXPERIENCE: Chandartal alpine camp is rustic - basic tent, bucket hot water, shared bathroom, freezing nights (-10\u00b0C possible). Not luxury. Expect discomfort.",
+      "\ud83d\udd14 MEDICAL INSURANCE: Travel insurance with ALTITUDE COVERAGE MANDATORY. Standard policies exclude altitude illness. Helicopter evacuation insurance critical.",
+      "\ud83d\udd14 PHYSICAL FITNESS: While trekking not required (vehicle-based), extreme altitude affects even ultra-fit travelers. Age 5-70 possible but fitness helps.",
+      "\ud83d\udd14 FOOD QUALITY: Limited restaurant options beyond Manali. Food quality decreases at altitude. Simple, basic meals expected. Bring snacks/supplements if picky eater.",
+      "\ud83d\udd14 COMMUNICATION: Limited internet/phone at high altitude. Inform emergency contacts of itinerary.",
+      "\ud83d\udd14 FLEXIBILITY ESSENTIAL: Weather changes plans. Be prepared for route modifications, extra rest days, or itinerary changes.",
+      "\ud83d\udd14 ACCLIMATIZATION IMPORTANT: Rushing altitude is dangerous. Consider adding Days before Day 2 departure for extra acclimatization."
+    ],
+    "customizationOptions": [
+      {
+        "option": "Extended 7D/6N Package",
+        "description": "Add extra acclimatization day at Manali or Kaza before high-altitude passes",
+        "additionalCost": "\u20b94,000-6,000 per extra day"
+      },
+      {
+        "option": "Oxygen Cylinder Rental",
+        "description": "Purchase oxygen cylinders for high-altitude emergency use",
+        "additionalCost": "\u20b9500-1,000 per cylinder"
+      },
+      {
+        "option": "Pre-Acclimatization Package",
+        "description": "Spend 2-3 days in Manali/Dharamshala (2,000-2,100m) before Day 2 pass crossing",
+        "additionalCost": "\u20b94,000-8,000 additional days"
+      },
+      {
+        "option": "Private Vehicle Upgrade",
+        "description": "Switch from shared vehicle to private SUV for personal group",
+        "additionalCost": "\u20b910,000-18,000 additional"
+      },
+      {
+        "option": "Photography Tour Guide",
+        "description": "Hire professional guide for composition tips at extreme altitude locations",
+        "additionalCost": "\u20b91,500-2,500 per day"
+      },
+      {
+        "option": "Luxury Hotel Upgrade (Manali/Kaza)",
+        "description": "Upgrade to 4-star hotels instead of basic accommodation",
+        "additionalCost": "\u20b93,000-5,000 per night additional"
+      },
+      {
+        "option": "Monastery Buddhist Experience",
+        "description": "Overnight stay at Ki Monastery (if monks permit) - meditation, prayer sessions",
+        "additionalCost": "\u20b92,000-3,000 (donation basis)"
+      }
+    ],
+    "tour_type": "bike",
+    "cardImage": "bike_itinerary_images/6D_manali_spiti.jpg",
+    "pricePerPerson": {
+      "standard": "\u20b923,000",
+      "deluxe": "\u20b928,000",
+      "premium": "\u20b932,000"
+    }
+  }
+}
