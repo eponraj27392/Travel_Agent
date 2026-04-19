@@ -1,0 +1,554 @@
+{
+  "itinerary": {
+    "id": "5D_nubra_pangong",
+    "title": "Nubra to Pangong: The Complete Ladakh Triangle",
+    "state": [
+      "Ladakh"
+    ],
+    "packageDuration": "5D/4N",
+    "totalDistance": "530 km",
+    "description": "Experience the complete Ladakh adventure across three iconic regions. Start in the mystical Sham Valley exploring ancient monasteries and geological wonders. Ascend the world's highest motorable road Khardung La (5,602m) to the pristine Nubra Valley - the 'valley of flowers' with Diskit Monastery and Bactrian camel safaris at Hunder sand dunes. Finally, drive to the world's highest saltwater lake, Pangong Tso. This premium 5-day package combines high-altitude adventure, cultural immersion, unique desert experiences, and breathtaking natural wonders. Ideal for adventure enthusiasts seeking comprehensive Ladakh exploration.",
+    "highlights": [
+      "Khardung La Pass (5,602m) - world's highest motorable road with panoramic Himalayan vistas",
+      "Nubra Valley - remote 'valley of flowers' nestled in high-altitude desert",
+      "Diskit Monastery - 14th-century Buddhist temple with magnificent 32m golden Maitreya Buddha statue",
+      "Hunder Sand Dunes - unique Ladakhi desert with Bactrian camel safaris",
+      "ATV Riding - adventurous quad biking through desert terrain (optional)",
+      "Pangong Lake (4,250m) - world's highest saltwater lake with ever-changing blue waters",
+      "Chang La Pass (5,360m) - stunning secondary mountain pass with 360° views",
+      "Sham Valley - Sangam confluence, Magnetic Hill, Gurudwara Pathar Sahib, SECMOL",
+      "Shyok River valley - remote mountain scenery and authentic local villages",
+      "Stargazing - minimal light pollution for astronomical observation"
+    ],
+    "overviewSections": [
+      {
+        "title": "Day 1: Arrival in Leh | Acclimatization & City Exploration",
+        "dayNumbers": [
+          1
+        ],
+        "tourType": "city tour + acclimatization",
+        "shortDescription": "Arrive at Leh airport (3,500m), transfer to hotel for critical acclimatization. Explore Leh Palace (17th-century royal residence), Shanti Stupa (Buddhist monument), vibrant Leh Market with Tibetan handicrafts. Rest early for upcoming high-altitude adventures."
+      },
+      {
+        "title": "Day 2: Sham Valley Day Tour | The Mysterious Paths of Ladakh",
+        "dayNumbers": [
+          2
+        ],
+        "tourType": "scenic + cultural tour",
+        "shortDescription": "Full-day exploration of Sham Valley's spiritual and geological wonders. Visit Sangam (mystical river confluence), experience Magnetic Hill optical illusion, explore Gurudwara Pathar Sahib (Sikh shrine), tour SECMOL campus (3 Idiots filming location), visit Hall of Fame War Memorial."
+      },
+      {
+        "title": "Day 3: Leh to Nubra Valley via Khardung La Pass | Gateway to Silk Route",
+        "dayNumbers": [
+          3
+        ],
+        "tourType": "high-altitude adventure tour",
+        "shortDescription": "Cross legendary Khardung La Pass (5,602m) - world's highest motorable road. Visit Diskit Monastery with 32m golden Maitreya Buddha statue. Experience Hunder Sand Dunes with optional Bactrian camel safari and ATV riding. Overnight at Nubra Valley campsite amidst breathtaking mountain scenery."
+      },
+      {
+        "title": "Day 4: Nubra Valley to Pangong and Pganong to Leh | Spectacular High-Altitude Drive",
+        "dayNumbers": [
+          4
+        ],
+        "tourType": "remote mountain scenic tour",
+        "shortDescription": "Epic drive from Nubra Valley to Pangong Lake through remote Ladakh terrain. Pass through Shyok village, experience local culture. Reach world's highest saltwater lake at 4,250m. Witness mesmerizing color-changing waters. Overnight at lakeside location with stargazing opportunities."
+      },
+      {
+        "title": "Day 5: Departure Day",
+        "dayNumbers": [
+          5
+        ],
+        "tourType": "scenic return + departure",
+        "shortDescription": "Magical sunrise at Pangong Lake with golden light on water. Return journey via Chang La Pass (5,360m) with scenic stops. Arrive Leh evening. Option for overnight stay with shopping or same-day departure."
+      }
+    ],
+    "detailedItinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Leh | Critical Acclimatization & City Exploration",
+        "route": "Leh Airport (3,500m) → Hotel Leh (14 km, 45 minutes)",
+        "overnight": "Leh",
+        "description": "Welcome to Ladakh! You arrive at Leh airport situated at 3,500 meters above sea level - a dramatic altitude increase that requires serious acclimatization. Spend Day 1 prioritizing rest and gradual adjustment to high altitude. The 5D itinerary includes two high-altitude passes (Khardung La 5,602m and Chang La 5,360m) in consecutive days - proper Day 1 acclimatization is CRITICAL for health and safety. Explore Leh city at leisurely pace without exertion. Visit Leh Palace for panoramic views, Shanti Stupa for spiritual serenity, and Leh Market for authentic Ladakhi culture. Sleep early for next day's activities.",
+        "activities": [
+          "{'name': 'Airport Transfer & Hotel Check-in', 'time': 'On arrival (typically 10-11 AM)', 'duration': '1 hour', 'distance': '14 km', 'description': 'Pick-up from airport, transfer to hotel, check-in to room. Settle luggage.'}",
+          "{'name': 'Mandatory Rest Period', 'time': '11:30 AM - 2:00 PM', 'duration': '2.5 hours', 'description': 'CRITICAL for high-altitude acclimatization. Rest in room at altitude 3,500m. Allow body to adjust. Drink water. Avoid exertion, caffeine, alcohol.'}",
+          "{'name': 'Light Lunch', 'time': '2:00 PM - 2:30 PM', 'description': 'Light meal at hotel. Avoid heavy, spicy food.'}",
+          "{'name': 'Leh Palace Visit', 'time': '3:00 PM - 4:30 PM', 'duration': '1.5 hours', 'altitude': '3,500m', 'description': 'Walk leisurely to 17th-century Leh Palace. Multiple stories with wooden carvings and architectural details. Panoramic views of Leh town, Indus Valley, and Ladakh Himalayas. Entry fee: ₹50-100.', 'photography': 'Best light: late afternoon (golden hour)'}",
+          "{'name': 'Shanti Stupa Visit', 'time': '5:00 PM - 6:30 PM', 'duration': '1.5 hours', 'altitude': '3,560m', 'description': 'White-domed Buddhist stupa on hillside, 6 km from Leh center. 100+ steps climb (manageable). Stunning sunset views of mountains. Entry: Free.'}",
+          "{'name': 'Leh Market Exploration', 'time': '6:45 PM - 8:00 PM', 'duration': '1.25 hours', 'description': 'Vibrant bazaar with handicrafts, cashmere, Tibetan souvenirs, local restaurants. Evening stroll at relaxed pace.'}",
+          "{'name': 'Dinner & Early Sleep', 'time': '8:00 PM onwards', 'description': 'Hotel dinner. Sleep by 9:30 PM for rest recovery. Early start Day 2.'}"
+        ],
+        "altitude": {
+          "current": "3,500m",
+          "healthAlert": "CRITICAL acclimatization day. Rest is essential. Hydrate 3-4 liters. No alcohol. Light activity only."
+        }
+      },
+      {
+        "day": 2,
+        "title": "Sham Valley Day Tour | The Mysterious Paths of Ladakh",
+        "route": "Leh → Sangam (14 km) → Magnetic Hill (8 km) → Gurudwara Pathar Sahib (4 km) → SECMOL (6 km) → Hall of Fame (12 km) → Leh (18 km). Total: 62 km, 3.5-4 hours driving + 4-5 hours activities",
+        "overnight": "Leh",
+        "description": "Full-day exploration of Sham Valley, the western Indus Valley region rich in spiritual sites and geological phenomena. At 3,200-3,400m altitude, this day is safe after Day 1 acclimatization. Visit the mystical Sangam where Zanskar and Indus rivers meet with striking color contrasts. Experience the famous Magnetic Hill optical illusion. Explore sacred Gurudwara Pathar Sahib with its striking white-marble architecture. Tour SECMOL campus, the actual filming location of Bollywood blockbuster '3 Idiots'. Conclude with Hall of Fame War Memorial honoring Indian soldiers. This moderate driving day with multiple stops allows continued acclimatization while building cultural understanding.",
+        "activities": [
+          "{'name': 'Early Breakfast & Departure', 'time': '7:00 AM', 'duration': '30 minutes', 'description': 'Hotel breakfast. Prepare for full-day tour.'}",
+          "{'name': 'Drive to Sangam', 'time': '7:30 AM - 8:15 AM', 'distance': '14 km', 'duration': '45 minutes', 'altitude': '3,260m'}",
+          "{'name': 'Sangam - Zanskar & Indus River Confluence', 'time': '8:30 AM - 10:00 AM', 'duration': '1.5 hours', 'altitude': '3,260m', 'description': 'Mystical confluence where two major rivers meet. Zanskar (greenish-turquoise from glacial silt) merges with brown Indus river. Color contrast visible for kilometers downstream. Viewpoint with cafés and local vendors. Optional: White Water Rafting (₹1,500-2,500, 2-3 hours, May-September).', 'photography': 'Morning light best. 360° views. Drone shots possible (request permission).'}",
+          "{'name': 'Drive to Magnetic Hill', 'time': '10:15 AM - 10:50 AM', 'distance': '8 km', 'duration': '25 minutes', 'altitude': '3,380m'}",
+          "{'name': 'Magnetic Hill - Optical Illusion', 'time': '11:00 AM - 11:30 AM', 'duration': '30 minutes', 'description': \"Famous optical illusion where vehicles roll uphill without engine power. Caused by surrounding landscape perspective creating slope reversal illusion (not actual magnetism). Driver demonstrates by turning off engine - car rolls 'uphill'. Scientifically interesting phenomenon.\"}",
+          "{'name': 'Drive to Gurudwara Pathar Sahib', 'time': '11:45 AM - 12:00 PM', 'distance': '4 km', 'duration': '15 minutes', 'altitude': '3,340m'}",
+          "{'name': 'Gurudwara Pathar Sahib - Sacred Sikh Shrine', 'time': '12:15 PM - 1:15 PM', 'duration': '1 hour', 'altitude': '3,340m', 'description': \"Stunning white-marble Sikh shrine set against rocky cliff. Commemorates 15th-century Guru Nanak's visit to Ladakh. Golden dome stands out against barren brown landscape. Architectural masterpiece representing Sikh design. Participate in langar (free vegetarian community meal) - dal, rice, bread. Remove shoes, cover head with scarf (provided). Photography outside only.\", 'entry': 'Free (donations appreciated ₹100-300)', 'lunch': 'Langar available'}",
+          "{'name': 'Drive to SECMOL Campus', 'time': '1:30 PM - 2:00 PM', 'distance': '6 km', 'duration': '20 minutes', 'altitude': '3,500m'}",
+          "{'name': \"SECMOL Campus - '3 Idiots' Filming Location\", 'time': '2:15 PM - 3:30 PM', 'duration': '1.25 hours', 'description': \"Educational institution featured in blockbuster Bollywood film '3 Idiots' (2009). Campus overlooks Indus Valley. Famous filming locations include classroom, hostel, landscape shots. Currently active school - visitors can explore buildings, take photos at movie sites. Cafeteria available.\", 'photography': \"Photogenic campus. Director's chair and classroom building most famous.\"}",
+          "{'name': 'Lunch Stop', 'time': '3:30 PM - 4:30 PM', 'duration': '1 hour', 'description': 'Lunch at local restaurant. Thukpa, momos, or traditional Ladakhi dishes. Budget: ₹300-500.'}",
+          "{'name': 'Drive to Hall of Fame', 'time': '4:40 PM - 5:10 PM', 'distance': '12 km', 'duration': '30 minutes', 'altitude': '3,480m'}",
+          "{'name': 'Hall of Fame War Memorial', 'time': '5:20 PM - 6:20 PM', 'duration': '1 hour', 'altitude': '3,480m', 'description': \"War memorial honoring Indian soldiers, especially those who died in 1962 Sino-Indian War and subsequent border conflicts. Museum with artifacts, weapons, uniforms, photographs documenting Ladakh's strategic military importance. Educational about regional geopolitics. Valley views.\", 'entry': '₹50-100 (Indian), ₹200-300 (foreigner)', 'timings': '9 AM - 5 PM typically'}",
+          "{'name': 'Return to Leh', 'time': '6:30 PM - 7:15 PM', 'distance': '18 km', 'duration': '45 minutes'}",
+          "{'name': 'Evening at Hotel & Dinner', 'time': '7:30 PM onwards', 'description': 'Dinner at hotel. Early rest for Day 3 early start.'}"
+        ],
+        "altitude": {
+          "range": "3,260m - 3,500m",
+          "healthNote": "Safe altitude after Day 1 acclimatization. Continue hydration 4 liters daily."
+        }
+      },
+      {
+        "day": 3,
+        "title": "Leh to Nubra Valley via Khardung La Pass | Gateway to Silk Route & High-Altitude Adventure",
+        "route": "Leh (3,500m) → Khardung La Base (39 km, 2.5 hours) → Khardung La Pass (5,602m, 3 km, 45 mins) → Diskit (25 km, 1.5 hours) → Hunder (40 km, 1.5 hours). Total: 107 km, 5.5-6.5 hours driving + activities",
+        "overnight": "Nubra Valley",
+        "description": "Today is your ultimate high-altitude adventure. Cross Khardung La Pass (5,602m), the world's highest motorable road, into pristine Nubra Valley - the 'valley of flowers' nestled at 3,700-4,100m in high-altitude desert. The pass crossing is demanding with rapid altitude gain requiring careful acclimatization. Visit Diskit Monastery, a 14th-century Buddhist temple housing a magnificent 32-meter golden Maitreya Buddha statue overlooking the valley. Experience unique Hunder Sand Dunes in high-altitude desert - a geological wonder where sand dunes exist at 3,900m surrounded by mountains. Enjoy optional Bactrian camel safari and ATV riding through desert terrain. Overnight at rustic camp surrounded by breathtaking Himalayan scenery. This day is physically and mentally intense - embrace the high-altitude mountain adventure.",
+        "activities": [
+          "{'name': 'Very Early Breakfast & Departure', 'time': '4:30 AM - 5:30 AM', 'duration': '30 minutes', 'description': 'Very early hotel breakfast (very light - eggs, toast, tea). Prepare for early pass crossing.'}",
+          "{'name': 'Departure from Leh', 'time': '5:45 AM', 'description': 'Early start CRITICAL - must cross pass before afternoon clouds form'}",
+          "{'name': 'Drive to Khardung La Base', 'time': '5:45 AM - 8:15 AM', 'distance': '39 km', 'duration': '2.5 hours', 'altitude': '3,500m → 4,500m', 'description': 'Scenic drive uphill through barren Ladakh landscape. Gradually increasing altitude. Multiple photo stops at viewpoints. Landscape becomes increasingly sparse - fewer vegetation, more rock.'}",
+          "{'name': 'Rinchen Cafe - Mountain Food Stop', 'time': '8:30 AM - 8:50 AM', 'duration': '20 minutes', 'altitude': '4,600m', 'description': 'Iconic cafe at Khardung La approach. Famous for hot maggi noodles with stunning mountain views. Perfect acclimatization stop before final pass push. Restrooms available. Spectacular panoramic views of surrounding peaks.'}",
+          "{'name': 'Final Ascent to Khardung La Pass', 'time': '9:00 AM - 9:45 AM', 'distance': '3 km', 'duration': '45 minutes with multiple stops', 'altitude': '4,600m → 5,602m', 'description': \"Final push to world's highest motorable road. Road becomes steeper. Stop multiple times for photos and acclimatization breaks. Extreme altitude - breathing becomes noticeably difficult.\"}",
+          "{'name': \"Khardung La Pass (5,602m) - World's Highest Motorable Road\", 'time': '10:00 AM - 11:00 AM', 'duration': '1 hour', 'altitude': '5,602m (18,380 ft)', 'description': \"Legendary mountain pass at extreme altitude. 360° panoramic views of snow-capped Himalayan peaks, valleys below, and vast mountain wilderness. At this altitude, breathing is visibly difficult - normal physiological response. Military checkpoint present. Temperature often below 0°C even in summer. Wind can be strong. Stay near vehicle. Limited exposure (1 hour maximum). Witness one of world's most extreme motorable roads.\", 'healthAlert': 'HIGHEST ALTITUDE OF TOUR. Limit exposure to 1 hour. Avoid exertion. Breathe deeply. If severe symptoms develop, descend immediately.', 'photography': 'Extreme conditions require careful equipment management. Cold reduces battery life. Bring hand warmers. Dress in all layers.'}",
+          "{'name': 'Descent from Khardung La towards Nubra', 'time': '11:15 AM - 1:00 PM', 'distance': '25 km', 'duration': '1.5 hours', 'altitude': '5,602m → 3,700m', 'description': 'Dramatic descent with stunning views. Road winds through mountain passes. Altitude decreases significantly allowing continued acclimatization and re-pressurization.'}",
+          "{'name': 'Diskit Monastery - Ancient Buddhist Temple', 'time': '1:15 PM - 2:45 PM', 'duration': '1.5 hours', 'altitude': '3,700m', 'description': '14th-century Buddhist monastery overlooking Nubra Valley. Main attraction: magnificent 32-meter tall golden Maitreya Buddha statue (constructed 2010). Stunning panoramic views of valley and surrounding mountains. 50+ Buddhist monks in residence. Prayer sessions at 5-6 AM and 4-5 PM. Museum inside with religious artifacts. Respectful behavior required - remove shoes in temple areas, cover head.', 'photography': 'Best light: morning (monks gathering) or late afternoon (golden light on statue)', 'entry': 'Donation appreciated (₹100-300)'}",
+          "{'name': 'Lunch at Diskit', 'time': '3:00 PM - 3:45 PM', 'duration': '45 minutes', 'description': 'Lunch at local restaurant near Diskit. Basic Ladakhi food - noodles, momos, rice. Budget: ₹250-400.'}",
+          "{'name': 'Drive to Hunder Sand Dunes', 'time': '4:00 PM - 5:30 PM', 'distance': '40 km', 'duration': '1.5 hours', 'altitude': '3,700m → 3,900m', 'description': 'Drive through Sumur village (traditional Ladakhi settlement) to Hunder Sand Dunes at 3,900m. Unique geological phenomenon - sand dunes in high-altitude desert surrounded by mountains. Glacial origin sand (heavier than tropical sand).'}",
+          "{'name': 'Hunder Sand Dunes - Desert Experience at High Altitude', 'time': '5:45 PM - 7:00 PM', 'duration': '1.25 hours', 'altitude': '3,900m', 'description': 'Remarkable sand dunes existing at 3,900m elevation in high-altitude desert. Two-humped Bactrian camels graze on sparse vegetation. Photography opportunities with dunes and mountains as backdrop. Late afternoon golden light ideal for photos.', 'activities': [{'name': 'Bactrian Camel Safari', 'duration': '30 minutes - 2 hours', 'options': ['30-min short ride: ₹500-800/person', '1-hour sunset ride: ₹1,000-1,500/person (HIGHLY RECOMMENDED)', '2-hour extended: ₹2,000-3,000/person'], 'description': 'Ride two-humped Bactrian camels across sand dunes. Unique experience at high altitude. Sunset ride offers spectacular golden light photography. Camel experience in Ladakh is rare - only location with camels.'}, {'name': 'ATV Quad Biking', 'duration': '30 minutes - 1 hour', 'options': ['30-min ride: ₹1,500-2,000/person', '1-hour ride: ₹2,500-3,500/person'], 'description': 'Thrilling ATV rides through desert terrain. Adventurous option for those seeking adrenaline. Helmets and safety gear provided. Requires basic physical fitness.'}, {'name': 'Simple Exploration', 'description': 'Walk and photograph dunes without activity - fully free option'}]}",
+          "{'name': 'Arrival at Nubra Valley Camp', 'time': '7:30 PM', 'altitude': '3,900m', 'description': 'Check-in to basic tent camp or homestay. Basic facilities - toilet, hot water bucket shower available. Rustic but authentic experience.'}",
+          "{'name': 'Dinner & Rest', 'time': '8:00 PM onwards', 'description': \"Hearty dinner provided at camp. Early sleep (9 PM) for next day's challenging drive.\"}"
+        ],
+        "altitude": {
+          "maximum": "5,602m (Khardung La Pass)",
+          "endpoint": "3,900m (Nubra Valley)",
+          "healthWarning": "HIGHEST ALTITUDE DAY. Rapid exposure to 5,602m may trigger AMS. Rest critical. Hydrate heavily (5+ liters). Monitor symptoms closely."
+        },
+        "accommodation": {
+          "type": "Basic tent camp or guesthouse at Nubra",
+          "altitude": "3,900m",
+          "amenities": "Tent/room, basic bathroom with hot water bucket shower, meals provided",
+          "priceRange": "₹1,500-3,000 per night",
+          "standard": "Rustic but clean and adequate"
+        }
+      },
+      {
+        "day": 4,
+        "title": "Nubra Valley to Pangong Lake | Challenging High-Altitude Remote Drive & Color-Changing Lake",
+        "route": "Hunder (3,900m) → Shyok (3,200m, 25 km) → Tangtse (3,900m, 55 km) → Pangong Lake (4,250m, 100 km). Total: 180 km, 8-9 hours driving + activities. ⚠️ CHALLENGING DRIVE - HIGH ALTITUDE THROUGHOUT",
+        "overnight": "Pangong Lake",
+        "description": "Today is your most challenging driving day - 8-9 hours of continuous mountain travel over rough terrain at high altitude. Drive from Nubra Valley through pristine Ladakh wilderness to world-famous Pangong Lake. Pass through Shyok village, experiencing remote mountain culture and stunning valley scenery. The route is rough, unmaintained in places, and remote - no fuel stations after Leh. Altitude remains 3,200-4,250m throughout. Arrive at mystical Pangong Tso (Pangong Lake) at 4,250m - world's highest major saltwater lake with mesmerizing turquoise-to-deep-blue waters. This day combines high-altitude adventure with breathtaking natural wonders. Evening offers stargazing in minimal light pollution environment.",
+        "activities": [
+          "{'name': 'Early Breakfast & Camp Checkout', 'time': '6:00 AM', 'duration': '45 minutes', 'description': 'Early breakfast at camp. Pack belongings. Settle camp bill.'}",
+          "{'name': 'Departure from Hunder', 'time': '7:00 AM', 'description': 'Begin long journey to Pangong Lake. Early start critical due to 8-9 hour drive ahead.'}",
+          "{'name': 'Drive to Shyok Village', 'time': '7:00 AM - 8:30 AM', 'distance': '25 km', 'duration': '1 hour', 'altitude': '3,900m → 3,200m', 'description': 'Scenic descent through Nubra valley towards Shyok River. Road generally reasonable. Landscape shows gradual transition from high desert to river valley.'}",
+          "{'name': 'Shyok Village Stop', 'time': '8:45 AM - 10:15 AM', 'duration': '1.5 hours', 'altitude': '3,200m', 'description': 'Small village nestled along Shyok River. One of most remote settlements in Ladakh. Experience authentic mountain village culture. Local restaurants serve basic food. Browse handicrafts at village shops. Photography of river valley and mountains. Learn about village life at high altitude.'}",
+          "{'name': 'Drive from Shyok to Tangtse', 'time': '10:30 AM - 1:30 PM', 'distance': '55 km', 'duration': '3 hours', 'altitude': '3,200m → 3,900m', 'description': 'Longest continuous driving stretch. Road becomes rougher - unmaintained sections, gravel, rocky terrain. Remote high-altitude wilderness. Multiple photo stops for scenery. Minimal settlements along route. This section tests vehicle and driver. Frequent small altitude changes maintain acclimatization.'}",
+          "{'name': 'Tangtse Village - Lunch Stop', 'time': '1:45 PM - 3:00 PM', 'duration': '1.25 hours', 'altitude': '3,900m', 'description': 'Rest stop at remote village. Lunch at local restaurant - basic Ladakhi food. Budget: ₹250-400. Browse shops, rest.'}",
+          "{'name': 'Drive from Tangtse to Pangong Lake', 'time': '3:15 PM - 6:30 PM', 'distance': '100 km', 'duration': '3+ hours', 'altitude': '3,900m → 4,250m', 'description': 'Final and most remote stretch to Pangong Lake. Road becomes increasingly challenging - rough, high-altitude, minimal settlements. Last 50 km particularly remote with minimal services. Spectacular mountain scenery becomes increasingly dramatic. First glimpses of lake appear around 60 km mark. Approach gradually reveals turquoise waters.'}",
+          "{'name': 'Arrival at Pangong Lake', 'time': '6:45 PM', 'altitude': '4,250m (13,943 ft)', 'description': \"Arrival at world's highest major saltwater lake. Lake stretches 134 km east-west with 65% in Tibet. Pristine water surrounded by mountains. Late afternoon provides stunning light on water.\"}",
+          "{'name': 'Pangong Lake Evening Exploration', 'time': '7:00 PM - 8:30 PM', 'duration': '1.5 hours', 'description': 'Walk along pristine lakeside. Witness water colors - turquoise, blues, reflections of mountains. Photography in golden evening light. Experience tranquility of remote high-altitude lake. Water temperature extremely cold.'}",
+          "{'name': 'Check-in & Dinner', 'time': '8:45 PM', 'description': 'Check-in to basic hotel/guesthouse at Pangong. Dinner provided. Early sleep despite long day (body requires rest at 4,250m altitude).'}",
+          "{'name': 'Stargazing', 'time': '9:30 PM onwards (optional)', 'description': 'Minimal light pollution at Pangong Lake allows exceptional stargazing. Clear night skies reveal Milky Way, constellations, planets. Bring blanket for outdoor viewing.'}"
+        ],
+        "altitude": {
+          "range": "3,200m - 4,250m",
+          "endpoint": "4,250m",
+          "healthWarning": "Altitude altitude exposure throughout day. Continuous 4,000m+ altitude may trigger/worsen AMS symptoms. Hydrate 5+ liters. Monitor symptoms closely."
+        },
+        "accommodation": {
+          "type": "Basic hotel or guesthouse at Pangong Lake",
+          "altitude": "4,250m",
+          "amenities": "Room, basic bathroom, hot water, meals provided",
+          "priceRange": "₹2,000-4,000 per night",
+          "standard": "Basic but clean, adequate for rest"
+        },
+        "routeChallenges": {
+          "distance": "180 km total - longest single day drive",
+          "terrain": "Rough, high-altitude terrain. Some unmaintained sections.",
+          "services": "NO fuel stations between Hunder and Pangong. Full tank ESSENTIAL before departure.",
+          "traffic": "Minimal traffic - may encounter army vehicles or occasional tourist vehicles",
+          "timing": "8-9 hours essential - cannot be rushed"
+        }
+      },
+      {
+        "day": 5,
+        "title": "Pangong Lake Sunrise & Return to Leh via Chang La Pass | Departure",
+        "route": "Pangong Lake (4,250m) → Chang La Pass (5,360m) → Tangtse (3,900m) → Leh (3,500m). Distance: 172 km, Duration: 8-9 hours",
+        "overnight": null,
+        "description": "Begin with magical sunrise at Pangong Lake - colors shift from dark blue through pink, orange, turquoise as sun rises over distant peaks. Golden light floods the landscape. This iconic sunrise experience is one of Ladakh's most memorable moments. Spend leisurely morning exploring lakeside before beginning return journey. Drive back via Chang La Pass (5,360m) with scenic stops. Arrive Leh evening. Option for immediate flight departure or overnight stay for shopping/recovery. This final day combines spiritual sunrise experience with spectacular return journey through high-altitude passes.",
+        "activities": [
+          "{'name': 'Sunrise at Pangong Lake', 'time': '5:30 AM - 7:30 AM', 'duration': '2 hours', 'altitude': '4,250m', 'description': 'Early wake-up for spectacular sunrise experience. Lake undergoes color transformation - dark blue → pink → orange → turquoise. Golden light floods mountains. Dynamic light creates ever-changing photography opportunities. This is THE iconic Pangong experience. Bring blanket, thermos of hot tea. Tripod recommended for sunrise shots.', 'photography': 'Sunrise colors most vibrant 5:45-6:30 AM. Colors change every 5 minutes - shoot continuously.'}",
+          "{'name': 'Breakfast & Continued Lake Exploration', 'time': '8:00 AM - 9:30 AM', 'duration': '1.5 hours', 'description': 'Breakfast at hotel. Final walk around Pangong Lake. Collect final memories and photos. Experience quiet morning before departure crowds arrive.'}",
+          "{'name': 'Hotel Checkout & Begin Return Journey', 'time': '10:00 AM', 'description': 'Settle bill, pack bags, depart for Leh'}",
+          "{'name': 'Drive from Pangong Lake to Tangtse', 'time': '10:15 AM - 1:30 PM', 'distance': '100 km', 'duration': '3+ hours', 'altitude': '4,250m → 3,900m', 'description': 'Retrace outbound route. Remote high-altitude drive through Ladakh wilderness. Same rough terrain as outbound. Reverse perspective offers different views.'}",
+          "{'name': 'Lunch at Tangtse', 'time': '1:45 PM - 3:00 PM', 'duration': '1.25 hours', 'description': 'Lunch break at Tangtse village. Same restaurant or different choice. Rest before final pass crossing.'}",
+          "{'name': 'Drive from Tangtse to Chang La Pass', 'time': '3:15 PM - 4:45 PM', 'distance': '50 km', 'duration': '1.5-2 hours', 'altitude': '3,900m → 5,360m'}",
+          "{'name': 'Chang La Pass (5,360m) - Afternoon Crossing', 'time': '5:00 PM - 6:00 PM', 'duration': '1 hour', 'altitude': '5,360m (17,585 ft)', 'description': 'Recross Chang La Pass in afternoon. Different lighting than Day 3 ascent. Afternoon clouds may reduce visibility but provide dramatic atmospheric effects. Late afternoon sunset light on peaks creates beautiful photography. Wind often increases in afternoon.'}",
+          "{'name': 'Descent to Leh', 'time': '6:15 PM - 7:45 PM', 'distance': '64 km', 'duration': '1.5-2 hours', 'altitude': '5,360m → 3,500m', 'description': 'Scenic descent with golden light on mountains. Altitude decreases significantly. Arrive Leh by evening.'}",
+          "{'name': 'Arrival in Leh', 'time': '8:00 PM', 'description': 'Hotel check-in or direct to airport depending on flight time.'}",
+          "{'name': 'Evening Options', 'time': '8:15 PM onwards', 'options': [{'option': 'Late Flight Departure', 'description': 'If flight is late evening, proceed directly to Leh airport. Depart same night.'}, {'option': 'Overnight Stay', 'description': 'If flight is next morning or no flight booked, stay at hotel. Rest after intense 5-day adventure.'}, {'option': 'Evening Shopping', 'description': 'Last-minute souvenir shopping at Leh Market before departure'}]}"
+        ],
+        "altitude": {
+          "maximum": "5,360m (Chang La Pass)",
+          "endpoint": "3,500m (Leh)",
+          "healthNote": "Final altitude exposure. Descent should ease any lingering AMS symptoms."
+        }
+      }
+    ],
+    "pricing": {
+      "description": "Premium 5D package includes transportation with experienced mountain driver, accommodation (Leh + Nubra camp + Pangong), all sightseeing, and meals. Prices vary by vehicle category.",
+      "carCategories": [
+        {
+          "category": "A",
+          "vehicles": [
+            "Innova",
+            "Aria",
+            "XUV"
+          ],
+          "seating": 4,
+          "pricePerDay": "₹5,000-6,000",
+          "totalPrice": "₹55,000-65,000 (5 days)",
+          "description": "Premium SUV with excellent high-altitude performance and comfort"
+        },
+        {
+          "category": "B",
+          "vehicles": [
+            "Xylo",
+            "Scorpio",
+            "Ertiga"
+          ],
+          "seating": 6,
+          "pricePerDay": "₹4,200-5,000",
+          "totalPrice": "₹48,000-56,000 (5 days)",
+          "description": "Mid-range SUV with good comfort and fuel efficiency for mountain routes"
+        },
+        {
+          "category": "C",
+          "vehicles": [
+            "Sumo",
+            "Eeco Van",
+            "Qualis"
+          ],
+          "seating": 8,
+          "pricePerDay": "₹3,500-4,200",
+          "totalPrice": "₹43,000-50,000 (5 days)",
+          "description": "Budget larger vehicle suitable for group tours"
+        }
+      ],
+      "includes": [
+        "Vehicle with certified Ladakhi mountain driver (10+ years high-altitude experience)",
+        "Fuel, tolls, and parking throughout journey",
+        "Driver's accommodation and meals",
+        "Hotel accommodation in Leh (2 nights)",
+        "Basic tent camp or guesthouse at Nubra Valley (1 night)",
+        "Hotel/guesthouse at Pangong Lake (1 night)",
+        "Breakfast and dinner daily (7 meals total)",
+        "All sightseeing as per itinerary",
+        "Basic first-aid kit with oxygen support",
+        "Bottled water during travel",
+        "Inner Line Permit assistance (coordination, not cost)"
+      ],
+      "excludes": [
+        "Flights/railway tickets to Leh",
+        "Inner Line Permit fee (₹500-1,000 per person)",
+        "Lunch on Days 2-4 (typically ₹300-500 each day)",
+        "Entry fees: Leh Palace (₹50-100), Hall of Fame (₹50-300)",
+        "Activities: Camel safari (₹500-3,000), ATV riding (₹1,500-3,500), rafting (₹1,500-2,500)",
+        "Personal shopping and souvenirs",
+        "Travel insurance (HIGHLY RECOMMENDED for high-altitude coverage)",
+        "Gratuities and tips",
+        "Medical expenses"
+      ],
+      "estimatedBudgetPerPerson": {
+        "categoryB": {
+          "vehicle": "₹12,000 (share of 4-seater)",
+          "accommodation": "₹9,000-12,000 (4 nights)",
+          "meals": "₹3,500-4,500",
+          "permits": "₹500-1,000",
+          "activities": "₹2,000-5,000 (camel safari, ATV optional)",
+          "shopping": "Variable",
+          "total": "₹27,000-40,000"
+        }
+      }
+    },
+    "permits": {
+      "required": true,
+      "description": "Inner Line Permit (ILP) required for Nubra Valley and Pangong Lake. Restricted area due to India-China border proximity.",
+      "regions": [
+        "Nubra Valley",
+        "Pangong Lake"
+      ],
+      "scope": "Single permit covers both regions. Valid 7 days from issue.",
+      "obtainableIn": "Leh (DC Office - District Commissioner's Office)",
+      "location": "DC Office, Leh (near Leh Bazaar, Main Bazar area)",
+      "daysRequired": "1-2 working days",
+      "cost": "₹500-1,000 per person (varies by nationality)",
+      "requiredDocuments": [
+        "Passport or valid ID (Aadhaar for Indians)",
+        "Proof of hotel booking or accommodation confirmation",
+        "4x6 passport-size photograph (2 copies)"
+      ],
+      "assistance": "Driver can guide to DC office. Alternatively, hotel arranges permit through local contacts (add ₹200-300 convenience fee). Processing: 1-2 working days.",
+      "timing": "Can be arranged on Day 1-2 while in Leh"
+    },
+    "bestTimeToVisit": {
+      "primarySeason": "June to September",
+      "seasonalBreakdown": {
+        "may": {
+          "temperature": "5-15°C",
+          "passes": "Khardung La accessible but patches of snow/mud possible",
+          "advantages": "Fewer tourists, cheaper accommodation, post-winter landscape clearing",
+          "disadvantages": "Unpredictable weather, possible landslides, some road sections partially open"
+        },
+        "june": {
+          "temperature": "10-18°C",
+          "passes": "Both passes fully accessible",
+          "advantages": "All routes open, weather stabilizing, beginning peak season",
+          "disadvantages": "Weather still variable, tourist crowds increasing"
+        },
+        "july": {
+          "temperature": "12-20°C",
+          "passes": "Peak accessibility",
+          "advantages": "Most stable weather, all attractions fully open, warmest month",
+          "disadvantages": "Afternoon clouds/rain common, peak tourist crowds, peak pricing"
+        },
+        "august": {
+          "temperature": "10-18°C",
+          "passes": "Fully open",
+          "advantages": "Reliable weather, full accessibility, good accommodation availability",
+          "disadvantages": "Afternoon rain/clouds possible, peak season pricing and crowds"
+        },
+        "september": {
+          "temperature": "8-15°C",
+          "passes": "Accessible but risk increasing",
+          "advantages": "Clear skies excellent for photography, fewer crowds, lower pricing",
+          "disadvantages": "Weather becoming unpredictable, first snow possible late-month, nights very cold"
+        },
+        "october": {
+          "temperature": "2-10°C",
+          "passes": "HIGH RISK - Khardung La especially vulnerable",
+          "advantages": "Very clear skies, minimal crowds, beautiful autumn colors",
+          "disadvantages": "Sudden snowfall possible (may close pass 12-24 hours), weather highly unpredictable, freezing nights"
+        }
+      },
+      "recommendation": "BEST: July-August for reliability. GOOD: June & September. AVOID: November-April (winter, passes closed), Early-May (monsoon approaching)."
+    },
+    "seasonalNotes": {
+      "khardungLaAccessibility": {
+        "may_september": "Typically open but subject to weather",
+        "october": "Increasingly risky - sudden closures possible",
+        "november_april": "Regularly CLOSED - heavy snowfall, military restrictions"
+      },
+      "weatherPatterns": {
+        "afternoon_clouds": "Common July-August afternoons - reduces visibility and photography",
+        "monsoon_risk": "July-August possible afternoon rain/hail",
+        "temperature_swings": "15-25°C day, -5 to 0°C night - bring full range clothing"
+      },
+      "availability": {
+        "accommodation": "June-August: Book in advance (peak season). May, September: More availability.",
+        "pricing": "Peak season (July-August): Maximum prices. Shoulder (June, Sept): 10-20% discount. May: 20-30% discount but higher risk."
+      }
+    },
+    "packing": [
+      "Warm layers - thermal underwear, fleece jackets, wool sweaters (ESSENTIAL for 5,602m passes)",
+      "Down jacket or heavy insulated coat - critical for extreme altitude",
+      "Windproof and waterproof outer jacket - high-altitude weather protection",
+      "Warm hat covering ears - wind at 5,600m is extreme",
+      "Gloves and mittens - liner gloves plus heavy gloves for passes",
+      "Warm socks - wool or thermal (at least 4 pairs)",
+      "Comfortable trekking shoes - broken-in, good grip for rocky terrain",
+      "Snow boots (optional, for late September-October)",
+      "Sunscreen SPF 50+ - CRITICAL at high altitude. Reapply every 1-2 hours",
+      "Sunglasses - polarized lenses preferred for glare",
+      "Hat or wide-brimmed cap - face protection from intense UV",
+      "Scarf or neck gaiter - cover face at high altitude",
+      "Lip balm with SPF - dry mountain air causes chapped lips",
+      "Moisturizer with SPF - essential for dry environment",
+      "Camera and extra batteries - cold significantly reduces capacity",
+      "Portable power bank - critical for long driving days",
+      "Water bottle (2-3 liters minimum) - continuous hydration required",
+      "Electrolyte drink mix or sports salt - maintain electrolyte balance at high altitude",
+      "Medications - paracetamol, ibuprofen, antihistamine, antacid, cough drops",
+      "Altitude sickness medication - Acetazolamide (Diamox) if prone (prescription required)",
+      "Dry cough lozenges - altitude causes dry throat/cough",
+      "Blister treatment and moleskin - for trekking shoes",
+      "Insect repellent - mosquitoes near river valleys",
+      "Personal hygiene items - limited shops in remote areas",
+      "Light indoor clothing - hotels have heating",
+      "Casual evening wear for relaxation",
+      "Binoculars - wildlife observation and mountain viewing",
+      "Notebook/pen - journal memorable moments"
+    ],
+    "healthTips": [
+      "🚨 CRITICAL: This is HIGH-RISK high-altitude tour. Two passes above 5,300m in 5 days. AMS incidence 20-30%.",
+      "⚠️ DAY 1 ACCLIMATIZATION: MANDATORY full rest day. Avoid exertion, alcohol, heavy meals. Let body adapt to 3,500m.",
+      "⚠️ DAY 3 PEAK EXPOSURE: Khardung La (5,602m) is tour's highest point. Limit time to 1 hour maximum. Rapid ascent from 3,500m to 5,602m is demanding.",
+      "⚠️ RAPID PRESSURE CHANGES: Days 3-4 involve rapid altitude changes (5,602m → 3,700m → 4,250m). Body undergoes extreme stress. Rest critical.",
+      "💧 HYDRATION: Drink 5-6 LITERS water daily - thin air causes rapid dehydration. Monitor urine color - pale yellow is target.",
+      "🚫 AVOID: Alcohol for first 3 days. Smoking increases altitude sickness risk. Heavy meals cause nausea at altitude.",
+      "😴 SLEEP: Essential for acclimatization. Aim 8+ hours nightly despite discomfort.",
+      "⚠️ MONITOR AMS: Watch for headache, nausea, insomnia, dizziness, fatigue, shortness of breath, restlessness. Report immediately to guide.",
+      "💊 MEDICATION: Acetazolamide (Diamox) helps prevent/reduce AMS. Typical dose: 250mg twice daily starting 1-2 days before ascent. MUST consult doctor.",
+      "🌞 SUN: UV exposure is INTENSE at 5,000m+. Sunburn occurs in 10-15 minutes. SPF 50+ REQUIRED. Reapply every 1-2 hours.",
+      "🏃 NO EXERTION: Avoid running, heavy lifting, strenuous exercise at altitude. Walk slowly and deliberately.",
+      "⛔ CONTRAINDICATED: Pregnant women, severe heart disease, uncontrolled high BP, severe respiratory disease, recent surgery (6 months) - NOT RECOMMENDED.",
+      "🏥 MEDICAL: SNM Hospital, Leh is primary facility. Limited services in remote areas. Travel insurance with ALTITUDE COVERAGE MANDATORY.",
+      "⏰ DESCENT PROTOCOL: If severe AMS develops, descend 1,000m immediately. This relieves symptoms quickly.",
+      "🍽️ DIET: Eat frequent light meals rather than large heavy meals. Avoid spicy food first 2 days. Thukpa (noodle soup) is ideal altitude food.",
+      "📱 COMMUNICATION: Keep guide's contact. Phone coverage patchy - offline maps essential. Inform emergency contact of schedule.",
+      "❌ SKIP IF: Extremely unfit, serious medical conditions, altitude sickness in past, not acclimatized in mountains before"
+    ],
+    "localCuisine": [
+      {
+        "name": "Thukpa",
+        "description": "Warm noodle soup with vegetables, meat, spices. Provides warmth and nutrition at altitude. Essential comfort food.",
+        "whereToTry": "All restaurants, hotels, roadside dhabas, village eateries",
+        "price": "₹150-250",
+        "healthValue": "RECOMMENDED at high altitude - warming and nutritious"
+      },
+      {
+        "name": "Momos",
+        "description": "Tibetan steamed dumplings filled with meat or vegetables. Influenced by Tibetan Buddhist culture.",
+        "whereToTry": "Local restaurants, street vendors, village eateries",
+        "price": "₹80-150 per plate",
+        "types": "Chicken, vegetable, yak meat (regional specialty)"
+      },
+      {
+        "name": "Butter Tea (Po cha)",
+        "description": "Strong black tea mixed with butter and salt. Unique taste, provides warmth and fat calories for high-altitude energy.",
+        "whereToTry": "Hotels, cafés, Gurudwara (langar)",
+        "price": "Free at Gurudwara, ₹30-50 at cafés",
+        "note": "Acquired taste but energizing - try once"
+      },
+      {
+        "name": "Ladakhi Dham",
+        "description": "Traditional multi-course meal with rice, pulses, meat curry, vegetables, bread.",
+        "whereToTry": "Hotels, family restaurants",
+        "price": "₹300-500",
+        "authenticity": "Try at least once for cultural experience"
+      },
+      {
+        "name": "Khambir",
+        "description": "Local barley bread - dense, nutty flavor. Traditional Ladakhi staple.",
+        "whereToTry": "Local bakeries, hotels",
+        "price": "₹30-50"
+      },
+      {
+        "name": "Apricot Dishes",
+        "description": "Ladakh famous for apricots. Curries, chutneys, dried snacks.",
+        "whereToTry": "Markets, restaurants, specialty shops",
+        "price": "₹100-300 specialty items"
+      },
+      {
+        "name": "Yak Meat Specialties",
+        "description": "Unique regional protein - yak momos, yak curry, yak soup.",
+        "whereToTry": "Special restaurants in Leh, Nubra Valley",
+        "price": "₹250-400",
+        "note": "Authentic Ladakh experience"
+      }
+    ],
+    "interestingFacts": [
+      "Khardung La Pass (5,602m) claims to be 'world's highest motorable road' - though Pang La in Tibet and some other passes dispute this. It remains one of world's most extreme roads.",
+      "The Nubra Valley name possibly comes from Sanskrit 'Nub' (north) and 'Prabha' (land) - 'northern land'. Historically known as Ladakh's fertile valley.",
+      "Diskit Monastery's 32-meter Maitreya Buddha statue was constructed in 2010, making it one of region's newest major monuments. Gold plating visible from kilometers away.",
+      "Pangong Lake is one of highest major saltwater lakes globally. Water salinity unusual - saline despite no visible outlet. Mineral-rich water creates turquoise coloration.",
+      "Pangong Lake's geopolitical significance: 65% lies in Tibet (claimed by China). McMahon Line (1914) created disputed border. Lake represents India-China territorial dispute.",
+      "Bactrian camels at Hunder are only domesticated camels in Ladakh. They're adapted to extreme high-altitude desert conditions that would kill other animals.",
+      "Buddhist monasteries in Ladakh preserve Tibetan Buddhism traditions suppressed in Tibet post-1950. Monks here maintain centuries-old spiritual practices.",
+      "The Indus River color contrast at Sangam is stark - brown Indus meets greenish-turquoise Zanskar. The two colors remain distinct for kilometers downstream.",
+      "SECMOL campus 'becomes famous' after '3 Idiots' (2009) Bollywood hit. Since then, tourist influx increased dramatically - educational institution now main tourist attraction.",
+      "Temperature extremes in Ladakh: July daytime 25°C, December night -30°C. This 55°C annual swing is among world's most extreme.",
+      "Ladakh's sparse population (around 300,000 in 59,000 sq km) is due to extreme altitude, harsh climate, and limited arable land - historically challenging settlement.",
+      "The Silk Road trade route historically made Leh crucial trading hub. Caravanserais and monasteries along routes reflect this commerce-culture mix.",
+      "Ladakh experiences extreme UV radiation at high altitude - sunburn possible in 10-15 minutes at 5,600m. SPF protection critical.",
+      "Buddhism in Ladakh is Tibetan sect (Gelug tradition) - differs from South Asian Theravada Buddhism. Monasteries maintain distinct architectural and cultural styles."
+    ],
+    "transportationNotes": {
+      "passStrategyFor5D": "⚠️ Two passes above 5,300m in 3 days is DEMANDING. Khardung La (5,602m) Day 3 is highest point. Chang La (5,360m) Day 5 is second crossing.",
+      "bestCrossingTimes": "6-8 AM for both passes - must start early before afternoon clouds form",
+      "fuelAvailability": "CRITICAL - Full tank REQUIRED before Day 3. NO fuel stations between Leh and Tangtse. No fuel stations Hunder to Pangong.",
+      "routeChallenges": {
+        "day_3": "Khardung La crossing - highest altitude, extreme conditions",
+        "day_4": "180 km rough terrain drive - longest single day",
+        "day_5": "Chang La crossing tired after previous days"
+      },
+      "roadConditions": "May-September: Generally good highway to Leh. Mountain routes: Rough, high-altitude, unmaintained sections beyond Leh. Gravel and rocky terrain.",
+      "emergencyServices": "SNM Hospital, Leh is main facility. Helicopter evacuation available (₹1-5 lakh). Limited medical support beyond Leh.",
+      "mobileNetwork": "Patchy coverage. Airtel/Jio better than others. No coverage on high passes. Offline maps ESSENTIAL.",
+      "vehicleRequirement": "SUV HIGHLY RECOMMENDED for high-altitude routes. Sedan possible but uncomfortable on rough sections.",
+      "driverExperience": "Certified Ladakhi mountain drivers with 10+ years high-altitude experience. Familiar with extreme weather, altitude effects, emergency protocols.",
+      "restStops": "Frequent stops for acclimatization, photos, and mountain-sickness monitoring. Tea/snacks available at villages.",
+      "weatherDependency": "Mountain weather changes rapidly. Early starts non-negotiable for pass crossings."
+    },
+    "importantNotes": [
+      "🚨 HIGHEST RISK ITINERARY: Two passes above 5,300m + long remote drives. Consider 6D variant adding rest day.",
+      "🚨 PASS STATUS: Verify Khardung La status 1-2 days before Day 3. Sudden snowfall can close pass (check weather daily).",
+      "🔔 6D VARIANT RECOMMENDED: Add rest day at Nubra Valley or Pangong Lake. Strongly recommended for AMS prevention.",
+      "🔔 PERMITS: Inner Line Permit MANDATORY for Nubra Valley and Pangong Lake. Process on Day 1-2 - allows 1-2 working days.",
+      "🔔 EARLY STARTS MANDATORY: Days 3 & 5 require 6 AM departures for pass crossings before cloud cover.",
+      "🔔 ACCLIMATIZATION: Day 1 acclimatization is non-negotiable. Health depends on proper adjustment to 3,500m before high-altitude exposure.",
+      "🔔 PHYSICAL FITNESS: NOT a trekking tour, mostly vehicle-based. However, high-altitude effects affect even fit travelers.",
+      "🔔 WEATHER CLOSURES: If passes close due to weather, tour continues with alternatives. No refunds - weather is beyond control.",
+      "🔔 MEALS & LOGISTICS: Breakfast/dinner provided. Lunch arranged at Tangtse (Days 2, 3, 4, 5). Budget ₹300-500 per lunch.",
+      "🔔 CAMPING EXPERIENCE: Nubra Valley overnight is rustic - basic tent/guesthouse with bucket hot-water shower. Not luxury accommodation.",
+      "🔔 TRAVEL INSURANCE: Highly recommended with altitude coverage. Medical evacuation costs extreme (₹1-5 lakh)."
+    ],
+    "customizationOptions": [
+      {
+        "option": "6D/5N VARIANT (STRONGLY RECOMMENDED)",
+        "description": "Add 1 full rest day - either Nubra Valley (Day 3.5) or Pangong Lake (Day 4.5). Significantly improves acclimatization safety.",
+        "additionalCost": "₹6,000-9,000 (extra accommodation, meals, car)"
+      },
+      {
+        "option": "Extended Nubra Valley (6D/5N)",
+        "description": "Extend Nubra stay to 2 nights - extra camel safari, ATV riding, monastery meditation",
+        "additionalCost": "₹5,000-8,000"
+      },
+      {
+        "option": "Extended Pangong Lake (6D/5N)",
+        "description": "Add night at Pangong for second sunrise/sunset photography experience",
+        "additionalCost": "₹5,000-8,000"
+      },
+      {
+        "option": "Photography-Focused Tour",
+        "description": "Hire professional landscape photographer guide. Optimized timing for sunrise/sunset. Structured composition guidance.",
+        "additionalCost": "₹2,000-3,000 (guide fee)"
+      },
+      {
+        "option": "Luxury Upgrade Package",
+        "description": "5-star hotels in Leh + premium camps/guesthouses at Nubra and Pangong",
+        "additionalCost": "₹8,000-12,000 additional"
+      },
+      {
+        "option": "Private Vehicle Enhancement",
+        "description": "Dedicated 4-seater SUV instead of shared - privacy and flexible timing",
+        "additionalCost": "₹10,000-15,000 (category change)"
+      },
+      {
+        "option": "Helicopter Tour Add-on",
+        "description": "Scenic helicopter flight around high passes (weather dependent)",
+        "additionalCost": "₹15,000-25,000 per person"
+      }
+    ],
+    "tour_type": "bike",
+    "cardImage": "bike_itinerary_images/5D_nubra_pangong.jpg",
+    "pricePerPerson": {
+      "standard": "₹16,000",
+      "deluxe": "₹19,500",
+      "premium": "₹21,000"
+    }
+  }
+}

@@ -1,0 +1,5581 @@
+{
+  "travel_type": "bike",
+  "index_sheet": [
+    {
+      "detailed_itinerary": 1,
+      "title": "Pangong & Sham Wonders: Ladakh's Spiritual Gateway",
+      "id": "4D_leh_kardungla",
+      "sheet_name": "4D_leh_kardungla"
+    },
+    {
+      "detailed_itinerary": 2,
+      "title": "Manali & Rohtang Pass Adventure - Himalayan Gateway Experience",
+      "id": "4D_manali",
+      "sheet_name": "4D_manali"
+    },
+    {
+      "detailed_itinerary": 3,
+      "title": "Nubra to Pangong: The Complete Ladakh Triangle",
+      "id": "5D_nubra_pangong",
+      "sheet_name": "5D_nubra_pangong"
+    },
+    {
+      "detailed_itinerary": 4,
+      "title": "Kashmir Paradise - Srinagar, Sonamarg, Gulmarg & Pahalgam Complete Tour",
+      "id": "6D_kashmir_srinagar",
+      "sheet_name": "6D_kashmir_srinagar"
+    },
+    {
+      "detailed_itinerary": 5,
+      "title": "Cosmic Peaks & Sacred Valleys: The Hanle Expedition",
+      "id": "6D_leh_nubra_hanle",
+      "sheet_name": "6D_leh_nubra_hanle"
+    },
+    {
+      "detailed_itinerary": 6,
+      "title": "Sham Valley & Pangong: Mystical Ladakh in Six Days",
+      "id": "6D_leh_sham_pangong",
+      "sheet_name": "6D_leh_sham_pangong"
+    },
+    {
+      "detailed_itinerary": 7,
+      "title": "Turtuk to Turquoise: Balti Heritage & Alpine Lakes",
+      "id": "6D_leh_turtuk",
+      "sheet_name": "6D_leh_turtuk"
+    },
+    {
+      "detailed_itinerary": 8,
+      "title": "Manali-Spiti Valley Adventure - High Altitude Himalayan Expedition",
+      "id": "6D_manali_spiti",
+      "sheet_name": "6D_manali_spiti"
+    },
+    {
+      "detailed_itinerary": 9,
+      "title": "From Earth's Peak to Cosmic Skies: The Hanle Expedition",
+      "id": "7D_leh_turtuk_hanle",
+      "sheet_name": "7D_leh_turtuk_hanle"
+    },
+    {
+      "detailed_itinerary": 10,
+      "title": "Alpine Lakes & Dark Skies: Morari Meets Hanle",
+      "id": "7D_leh_lakes",
+      "sheet_name": "7D_leh_lakes"
+    },
+    {
+      "detailed_itinerary": 11,
+      "title": "From Earth's Peak to Cosmic Skies: The Hanle Expedition",
+      "id": "7D_leh_nubra_hanle",
+      "sheet_name": "7D_leh_nubra_hanle"
+    },
+    {
+      "detailed_itinerary": 12,
+      "title": "Tso Moriri to Manali: Alpine Lakes & Himalayan Crossing",
+      "id": "8D_leh_tso_moriri_manali",
+      "sheet_name": "8D_leh_tso_moriri_manali"
+    },
+    {
+      "detailed_itinerary": 13,
+      "title": "Umlingla & Beyond: The Ultimate High-Altitude Challenge",
+      "id": "8D_leh_umlingla",
+      "sheet_name": "8D_leh_umlingla"
+    },
+    {
+      "detailed_itinerary": 14,
+      "title": "Manali to Leh: Epic High-Altitude Adventure",
+      "id": "8D_manali_leh",
+      "sheet_name": "8D_manali_leh"
+    },
+    {
+      "detailed_itinerary": 15,
+      "title": "XXX from AI",
+      "id": "8D_srinagar_leh",
+      "sheet_name": "8D_srinagar_leh"
+    },
+    {
+      "detailed_itinerary": 16,
+      "title": "Leh to Srinagar - Ultimate Ladakh Triangle with Nubra, Pangong & Kashmir",
+      "id": "9D_leh_srinagar",
+      "sheet_name": "9D_leh_srinagar"
+    },
+    {
+      "detailed_itinerary": 17,
+      "title": "Srinagar to Manali via Tso Moriri: Kashmir-Ladakh-Himachal Symphony",
+      "id": "9D_srinagar_leh_manali",
+      "sheet_name": "9D_srinagar_leh_manali"
+    },
+    {
+      "detailed_itinerary": 18,
+      "title": "Zanskar Deep Wilderness: From Sacred Valleys to Cosmic Peaks",
+      "id": "10D_zanskar_leh",
+      "sheet_name": "10D_zanskar_leh"
+    }
+  ],
+  "4D_leh_kardungla": {
+    "itinerary_name": "4D_ultimate_ladakh_triangle",
+    "duration": "5D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 16000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 13000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 11500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 10000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 9000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 8000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 16000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 13000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 11500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 10000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 9000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 8000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 18000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 15000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 13900,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 12500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 11000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 10000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 18000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 15000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 13900,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 12500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 11000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 10000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 21000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 18000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 16000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 14500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 13000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 12000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 21000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 18000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 16000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 14500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 13000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 12000,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "4D_manali": {
+    "itinerary_name": "4D_manali",
+    "duration": "4D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 12500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 11500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 10500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 10000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 9000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 8000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 12500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 11500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 10500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 10000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 9000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 8000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 14500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 13000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 12000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 11000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 10500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 9500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 14500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 13000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 12000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 11000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 10500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 9500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 13000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 16500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 15000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 14000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 13000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 12000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 13000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 16500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 15000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 14000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 13000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 12000,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "5D_nubra_pangong": {
+    "itinerary_name": "5D_nubra_pangong",
+    "duration": "5D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 16000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 12000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 10000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 9000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 8000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 7500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 16000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 12000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 10000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 9000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 8000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 7500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 19500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 14000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 13000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 12000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 11000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 10500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 19500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 14000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 13000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 12000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 11000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 10500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 21000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 17500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 16000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 14500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 14000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 13000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 21000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 17500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 16000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 14500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 14000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 13000,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "6D_kashmir_srinagar": {
+    "itinerary_name": "6D_kashmir_srinagar",
+    "duration": "6D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 23000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 19000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 17500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 16000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 14500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 12500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 23000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 19000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 17500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 16000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 14500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 12500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 28000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 24500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 22500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 21000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 19999,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 18000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 28000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 24500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 22500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 21000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 19999,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 18000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 32000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 29000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 27500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 25500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 23000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 32000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 29000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 27500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 25500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 23000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 22000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "1 Person",
+        "price_per_person": 37000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 74000,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "6D_leh_nubra_hanle": {
+    "itinerary_name": "6D_leh_hanle_nubra",
+    "duration": "6D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 19999,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 15999,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 12999,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 12000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 11000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 9500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 19999,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 15999,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 12999,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 12000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 11000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 9500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 24500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 22000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 20500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 18000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 16000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 15000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 24500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 22000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 20500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 18000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 16000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 15000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 28000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 25500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 23000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 21500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 20000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 19000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 28000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 25500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 23000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 21500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 20000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 19000,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "6D_leh_sham_pangong": {
+    "itinerary_name": "6D_ultimate_ladakh_triangle.json",
+    "duration": "6D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 18500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 13500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 12500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 11500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 10500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 9999,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 18500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 13500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 12500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 11500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 10500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 9999,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 23000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 16800,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 14500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 14200,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 13000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 12800,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 23000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 16800,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 14500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "7 Person",
+        "price_per_person": 13700,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 14200,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "9 Person",
+        "price_per_person": 13600,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 13000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 12800,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 26500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 19800,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 17999,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 16500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 15900,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 15300,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 26500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 19800,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 17999,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 16500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 15900,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 15300,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "6D_leh_turtuk": {
+    "itinerary_name": "6D_ultimate_ladakh_triangle.json",
+    "duration": "6D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 18500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 13500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 12500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 11500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 10500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 9999,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 18500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 13500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 12500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 11500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 10500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 9999,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 23000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 16800,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 14500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 14200,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 13000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 12800,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 23000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 16800,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 14500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "7 Person",
+        "price_per_person": 13700,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 14200,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "9 Person",
+        "price_per_person": 13600,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 13000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 12800,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 26500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 19800,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 17999,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 16500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 15900,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 15300,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 26500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 19800,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 17999,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 16500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 15900,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 15300,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "6D_spiti_manali": {
+    "itinerary_name": "6D_spiti_manali",
+    "duration": "6D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 23000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 21000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 20000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 19500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 17000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 16000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 23000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 21000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 20000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 19500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 17000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 16000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 28000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 26000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 24000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 22500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 21000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 19500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 28000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 26000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 24000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 22500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 21000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 19500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 32000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 28000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 26500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 25000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 23000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 21500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 32000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 28000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 26500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 25000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 23000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 21500,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "7D_leh_turtuk_hanle": {
+    "itinerary_name": "7D_leh_turtuk_hanle",
+    "duration": "7D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 22000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 14999,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 12500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 10999,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 10000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 9000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 22000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 14999,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 12500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 10999,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 10000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 9000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 25000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 18000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 16900,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 14500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 14000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 13500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 25000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 18000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 16900,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 14500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 14000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 13500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 30000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 24500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 22500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 20500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 19000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 18000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 30000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 24500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 22500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 20500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 19000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 18000,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "7D_leh_lakes": {
+    "itinerary_name": "7D_leh_lakes",
+    "duration": "7D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 24000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 18000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 15000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 13000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 12000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 11000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 24000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 18000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 15000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 13000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 12000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 11000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 28000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 24000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 21000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 19999,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 18000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 17000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 28000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 24000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 21000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 19999,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 18000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 17000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 32000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 28000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 25000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 24000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 22500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 19999,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 32000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 28000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 25000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 24000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 22500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 19999,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "7D_leh_nubra_hanle": {
+    "itinerary_name": "7D_leh_nubra_hanle",
+    "duration": "7D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 22000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 16000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 13000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 11000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 10000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 9000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 22000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 16000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 13000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 11000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 10000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 9000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 25000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 22000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 19999,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 17500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 15000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 13800,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 25000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 22000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 19999,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 17500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 15000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 13800,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 30000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 24500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 22500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 20500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 19000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 18000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 30000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 24500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 22500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 20500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 19000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 18000,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "8D_leh_umlingla": {
+    "itinerary_name": "8D_leh_umlingla",
+    "duration": "8D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 27000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 19999,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 15000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 13000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 12500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 12000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 27000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 19999,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 15000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 13000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 12500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 12000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 33250,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 23750,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 21200,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 19500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 18500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 17800,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 33250,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 23750,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 21200,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 19500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 18500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 17800,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 36750,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 27000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 24500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 23000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 21500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 21100,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 36750,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 27000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 24500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 23000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 21500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 21100,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "8D_leh_tso_moriri_manali8D_leh_": {
+    "itinerary_name": "8D_leh_tsomoriri_manali",
+    "duration": "8D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 32000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 25000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 24000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 23000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 22000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 21500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 32000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 25000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 24000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 23000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 22000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 21500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 34500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 27500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 25000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 24000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 23500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 23000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 34500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 27500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 25000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 24000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 23500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 23000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 38000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 32000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 29500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 26000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 25000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 24000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 38000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 32000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 29500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 26000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 25000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 24000,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "8D_manali_leh": {
+    "itinerary_name": "8D_ultimate_ladakh_triangle.json",
+    "duration": "8D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 32000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 25000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 24000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 23000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 22000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 21500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 32000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 25000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 24000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 23000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 22000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 21500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 34500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 27500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 25000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 24000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 23500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 23000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 34500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 27500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 25000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 24000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 23500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 23000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 38000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 32000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 29500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 26000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 25000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 24000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 38000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 32000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 29500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 26000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 25000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 24000,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "8D_srinagar_leh": {
+    "itinerary_name": "8D_srinagar_leh",
+    "duration": "8D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 22500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 21000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 19000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 18500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 18000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 22500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 21000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 19000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 18500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 18000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 32000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 26500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 24500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 23000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 22000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 20999,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 32000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 26500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 24500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 23000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "9 Person",
+        "price_per_person": 22000,
+        "room_split": "three double room and one triple room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 22000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 20999,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 116000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 162000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 208000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 250000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 288000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 116000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 162000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 208000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 250000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 288000,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "8D_leh_turtuk_hanle": {
+    "itinerary_name": "8D_leh_turtuk_hanle",
+    "duration": "8D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 25000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 21000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 18000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 15000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 13000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 12000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 25000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 21000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 18000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 15000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 13000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 12000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 28000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 24000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 22000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 19999,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 18500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 17000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 28000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 24000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 22000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 19999,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 18500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 17000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 30000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 27000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 25000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 23000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 21500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 19999,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 30000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 27000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 25000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 23000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 21500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 19999,
+        "room_split": "six double room"
+      }
+    ]
+  },
+  "9D_leh_to_srinagar": {
+    "itinerary_name": "9D_leh_to_srinagar",
+    "duration": "9D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 39500,
+        "room_split": "one single room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 26500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 23000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 20500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 18500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 17500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 39500,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 26500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 23000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 20500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 18500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 17500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 45000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 29500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 27000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 25000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 23500,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 19999,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 45000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 29500,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 27000,
+        "room_split": "one triple room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 25000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 23500,
+        "room_split": "one double room and one triple room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 19999,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 47000,
+        "room_split": "three double room and one triple room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 33000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 29000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 27500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 25000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 23000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 47000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 33000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 29000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 27500,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 25000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 23000,
+        "room_split": "five double room"
+      }
+    ]
+  },
+  "9D_srinagar_leh_manali": {
+    "itinerary_name": "9D_srinagar_leh_manali",
+    "duration": "9D",
+    "pricing": [
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 44000,
+        "room_split": "one single room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 34000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 25500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 23000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 19999,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 18500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "2 Person",
+        "price_per_person": 44000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "4 Person",
+        "price_per_person": 34000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Ertiga + Scorpio",
+        "hotels": "Standard",
+        "persons": "6 Person",
+        "price_per_person": 25500,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "8 Person",
+        "price_per_person": 23000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "10 Person",
+        "price_per_person": 19999,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Standard",
+        "car_model": "Tempo Traveller",
+        "hotels": "Standard",
+        "persons": "12 Person",
+        "price_per_person": 18500,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 49000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 40000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 33000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 28000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 25000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 23000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 49000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "4 Person",
+        "price_per_person": 40000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Xylo + Innova",
+        "hotels": "Deluxe",
+        "persons": "6 Person",
+        "price_per_person": 33000,
+        "room_split": "one triple room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "8 Person",
+        "price_per_person": 28000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "10 Person",
+        "price_per_person": 25000,
+        "room_split": "one double room and one triple room"
+      },
+      {
+        "category": "Deluxe",
+        "car_model": "Tempo Traveller",
+        "hotels": "Deluxe",
+        "persons": "12 Person",
+        "price_per_person": 23000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Deluxe",
+        "persons": "2 Person",
+        "price_per_person": 56000,
+        "room_split": "three double room and one triple room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 48000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 38000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 32000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 28000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 26000,
+        "room_split": "five double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "2 Person",
+        "price_per_person": 56000,
+        "room_split": "six double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "4 Person",
+        "price_per_person": 48000,
+        "room_split": "one double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Crysta",
+        "hotels": "Premium",
+        "persons": "6 Person",
+        "price_per_person": 38000,
+        "room_split": "two double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "8 Person",
+        "price_per_person": 32000,
+        "room_split": "three double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "10 Person",
+        "price_per_person": 28000,
+        "room_split": "four double room"
+      },
+      {
+        "category": "Premium",
+        "car_model": "Tempo Traveller",
+        "hotels": "Premium",
+        "persons": "12 Person",
+        "price_per_person": 26000,
+        "room_split": "five double room"
+      }
+    ]
+  }
+}

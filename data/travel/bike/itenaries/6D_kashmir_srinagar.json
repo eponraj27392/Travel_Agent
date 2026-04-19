@@ -1,0 +1,676 @@
+{
+  "itinerary": {
+    "id": "6D_kashmir_srinagar",
+    "title": "Kashmir Paradise - Srinagar, Sonamarg, Gulmarg & Pahalgam Complete Tour",
+    "state": [
+      "Jammu & Kashmir"
+    ],
+    "packageDuration": "6D/5N",
+    "totalDistance": "312 km",
+    "description": "Experience the breathtaking beauty of Kashmir across five iconic destinations. Explore the serene Dal Lake with traditional Shikara rides and floating gardens. Visit the snow-capped peaks at Sonamarg's Thajiwas Glacier and the world's highest golf course at Gulmarg. Trek through alpine meadows in Pahalgam's Betaab and Baisaran valleys. Experience authentic Kashmiri hospitality through houseboat stays and local cuisine. This 6-day package perfectly balances adventure, culture, and natural beauty in India's crown jewel.",
+    "highlights": [
+      "Dal Lake - serene alpine freshwater lake with floating gardens (rad)",
+      "Shikara ride - traditional wooden boats gliding past lotus blooms",
+      "Shalimar Bagh & Nishat Bagh - magnificent 16th-century Mughal gardens",
+      "Sonamarg - 'Meadow of Gold' with Thajiwas Glacier trek",
+      "Thajiwas Glacier - 4.5 km pony trek through pine forests to 3,700m altitude",
+      "Gulmarg - world's highest golf course at 2,680m with gondola ride to Apharwat Peak",
+      "Gulmarg Gondola - two-phase aerial ropeway with panoramic Himalayan views",
+      "Pahalgam - picturesque valley with apple orchards and alpine meadows",
+      "Betaab Valley - pristine stream-fed valley with dramatic rock formations",
+      "Houseboat experience - traditional Kashmiri wooden architecture on Dal Lake"
+    ],
+    "overviewSections": [
+      {
+        "title": "Day 1: Arrival in Srinagar | Dal Lake Sightseeing & Houseboat Check-in",
+        "dayNumbers": [
+          1
+        ],
+        "tourType": "city + lake tour + cultural experience",
+        "shortDescription": "Arrive at Srinagar airport (1,730m). Transfer to hotel for rest. Afternoon: Shikara ride on Dal Lake past floating gardens and lotus blooms. Evening: Check-in at traditional houseboat with Kashmiri hospitality and kahwa (saffron tea) experience."
+      },
+      {
+        "title": "Day 2: Srinagar Mughal Gardens & Spiritual Sites",
+        "dayNumbers": [
+          2
+        ],
+        "tourType": "heritage garden tour + temple visit",
+        "shortDescription": "Full-day tour of iconic Mughal gardens: Shalimar Bagh (16th century, 12 hectares), Nishat Bagh (9-hectare terraced garden with 12 levels), Pari Mahal (14th-century terraced garden). Visit Shankaracharya Temple on hilltop (1,100m above Srinagar). Return to houseboat by evening."
+      },
+      {
+        "title": "Day 3: Sonamarg - 'Meadow of Gold' & Thajiwas Glacier Trek",
+        "dayNumbers": [
+          3
+        ],
+        "tourType": "alpine meadow + glacier trek",
+        "shortDescription": "Full-day excursion to Sonamarg (2,730m, 87 km northeast). Trek via pony ride through pine forests to Thajiwas Glacier (3,700m). Explore pristine alpine scenery and Zero Point. Return to Srinagar evening. Moderate altitude, pony-assisted trek."
+      },
+      {
+        "title": "Day 4: Gulmarg - World's Highest Golf Course & Gondola Ride",
+        "dayNumbers": [
+          4
+        ],
+        "tourType": "adventure + sightseeing",
+        "shortDescription": "Full-day adventure to Gulmarg (2,680m, 52 km from Srinagar). Visit world's highest golf course. Experience Gulmarg Gondola (Phase 1 & Phase 2) to Apharwat Peak (3,971m) with 360° Himalayan panorama. Optional skiing (winter) or meadow walks (summer)."
+      },
+      {
+        "title": "Day 5: Pahalgam - Alpine Meadows & Valley Exploration",
+        "dayNumbers": [
+          5
+        ],
+        "tourType": "valley scenic tour + nature walk",
+        "shortDescription": "Transfer to Pahalgam (2,440m, 90 km scenic route). Explore Betaab Valley (pristine meadows, stream-fed), Baisaran Valley ('Shepherd's Prairie'), Aru Valley (alpine flowers). Visit Chandanwari (willow-lined valley start point). Overnight at Pahalgam hotel with river views."
+      },
+      {
+        "title": "Day 6: Pahalgam to Srinagar & Departure",
+        "dayNumbers": [
+          6
+        ],
+        "tourType": "scenic return + departure",
+        "shortDescription": "Morning leisurely exploration of Pahalgam valleys (optional). Transfer back to Srinagar (90 km, 3.5 hours). Visit last-minute shopping at local markets. Evening departure to airport or evening flight (schedule-dependent)."
+      }
+    ],
+    "detailedItinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Srinagar | Dal Lake Sightseeing & Houseboat Check-in",
+        "route": "Sheikh ul-Alam International Airport (1,730m) → Hotel Srinagar (15 km) → Dal Lake → Houseboat Srinagar",
+        "overnight": "Houseboat (Dal Lake)",
+        "description": "Welcome to Kashmir, the 'Paradise on Earth'! You arrive at Sheikh ul-Alam International Airport at 1,730 meters elevation. Upon arrival, transfer to your hotel for check-in and rest after your journey. Spend the early afternoon resting and acclimatizing to Kashmir's temperate mountain climate. Late afternoon, embark on your first magical experience: a traditional Shikara (wooden boat) ride on Dal Lake. Glide past floating gardens (rad), lotus blooms, and mirror-like reflections of surrounding mountains. Visit Shalimar Bagh gardens from water perspective. As evening approaches, transfer to your houseboat and check in to this iconic Kashmiri accommodation. Experience the gentle sway of water beneath you as you sip kahwa (saffron-flavored tea) on the wooden deck while watching sunset over the lake. Dinner is typically served on the houseboat - a taste of authentic Kashmiri wazwan cuisine.",
+        "activities": [
+          "{'name': 'Airport Transfer & Hotel Check-in', 'time': 'On arrival (typically 11:00 AM - 12:00 PM)', 'duration': '1 hour', 'distance': '15 km', 'description': 'Pick-up from Sheikh ul-Alam Airport, transfer to hotel in Srinagar city center, check-in to room.'}",
+          "{'name': 'Rest & Acclimatization Period', 'time': '12:30 PM - 3:00 PM', 'duration': '2.5 hours', 'description': \"Rest in hotel room, lunch at hotel restaurant, acclimatize to Srinagar's pleasant temperate climate (1,730m, mild altitude effects).\"}",
+          "{'name': 'Shikara Ride on Dal Lake', 'time': '3:30 PM - 5:30 PM', 'duration': '2 hours', 'altitude': '1,730m', 'distance': '6-8 km on water', 'description': 'Traditional wooden Shikara boat experience on Dal Lake. Glide past floating gardens (rad), lotus blooms (seasonal May-July), water plants. Visit Shalimar Bagh viewpoint from water. Experience mirror-like reflections of Zabaruwan mountains. Learn about floating garden cultivation (unique to Kashmir). Photography opportunities: golden hour light on water, mountains reflections.', 'photography': 'Best: 4:00-5:00 PM for golden hour light', 'cost': '₹300-500 per Shikara (2-4 persons)'}",
+          "{'name': 'Transfer to Houseboat & Check-in', 'time': '5:45 PM - 6:15 PM', 'duration': '30 minutes', 'description': 'Transfer from hotel to houseboat location on Dal Lake. Check-in process, room orientation, amenities explanation.'}",
+          "{'name': 'Houseboat Orientation & Kahwa Experience', 'time': '6:30 PM - 7:15 PM', 'duration': '45 minutes', 'description': 'Meet houseboat proprietor and staff. Tour houseboat compartments: living area, bedroom, traditional carved wooden interiors. Sip authentic kahwa (Kashmiri saffron tea) on wooden deck while watching sunset over water. Learn about houseboat history and architecture (typically 50-80 years old, traditional cedar wood construction).', 'culturalNote': 'Houseboats are symbolic of Kashmir - each has unique name and personality. Many are family-owned for generations.'}",
+          "{'name': 'Dinner at Houseboat', 'time': '7:30 PM - 8:30 PM', 'duration': '1 hour', 'description': 'Traditional Kashmiri wazwan meal served on houseboat. Typical menu: Ristan (meat curry in aromatic gravy), Yakhni (yogurt-based meat preparation), Gushtaba (meatballs), Dum Aloo (potatoes), Dal Makhani, Naan bread, Bakerkhani (sweet bread). Finish with Phirni (rice pudding) or Kheer. Kahwa again after dinner.'}"
+        ],
+        "altitude": {
+          "current": "1,730m",
+          "healthNote": "Pleasant altitude, minimal acclimatization needed. Temperate climate."
+        },
+        "meals": {
+          "breakfast": "Not included (Day 1 arrival)",
+          "lunch": "Included (hotel)",
+          "dinner": "Included (houseboat wazwan)"
+        },
+        "accommodation": {
+          "type": "Houseboat (Traditional Kashmiri)",
+          "nights": 1,
+          "checkIn": "6:00 PM",
+          "checkOut": "10:00 AM (Day 2)",
+          "amenities": "Private bedroom, wooden carved interiors, attached bathroom with hot water, deck seating, traditional furnishings",
+          "priceRange": "₹4,000-8,000 per night (depending on houseboat category)"
+        },
+        "transfers": [
+          {
+            "from": "Sheikh ul-Alam Airport",
+            "to": "Hotel Srinagar",
+            "mode": "Shared Force Urbania or private cab",
+            "duration": "45 minutes",
+            "cost": "Included in package (shared), ₹500-800 (private)"
+          },
+          {
+            "from": "Hotel",
+            "to": "Houseboat Dal Lake",
+            "mode": "Hotel transport or private cab",
+            "duration": "20 minutes",
+            "cost": "Included"
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Srinagar Mughal Gardens & Spiritual Temple Sites",
+        "route": "Houseboat → Shalimar Bagh (2 km) → Nishat Bagh (4 km) → Pari Mahal (3 km) → Shankaracharya Temple (5 km) → Houseboat",
+        "overnight": "Houseboat (Dal Lake)",
+        "description": "Dedicated to exploring Srinagar's architectural and spiritual heritage. Visit three magnificent Mughal gardens built between 14th-16th centuries. Each garden represents unique landscape design philosophy. Climb 300 steps to Shankaracharya Temple perched 1,100m above Srinagar for panoramic city and valley views. Day emphasizes Kashmir's cultural synthesis of Hindu, Islamic, and Buddhist traditions through architectural legacy.",
+        "activities": [
+          "{'name': 'Breakfast at Houseboat & Morning Preparation', 'time': '8:00 AM - 8:45 AM', 'duration': '45 minutes', 'description': 'Traditional Kashmiri breakfast: parathas, local honey, cheese, fresh fruits, kahwa/chai, eggs.'}",
+          "{'name': 'Transfer to Shalimar Bagh', 'time': '9:00 AM - 9:15 AM', 'distance': '2 km', 'duration': '15 minutes'}",
+          "{'name': \"Shalimar Bagh - 'Abode of Love' Mughal Garden\", 'time': '9:30 AM - 11:00 AM', 'duration': '1.5 hours', 'altitude': '1,735m', 'description': 'Iconic 16th-century Mughal garden built by Emperor Jahangir for his wife Nur Jahan. 12 hectares of symmetrical layout with four terraces representing four elements (earth, water, air, fire). Features: cascading fountains (chahars), flowering shrubs (roses, iris, tulips seasonal), shaded pathways, reflecting pools. Ancient stone pavilions. Central water channel (nahar) runs through center. Marble platform with thrones overlooks main fountain.', 'photography': 'Stunning reflections in water (morning light), flower gardens (May-June best), architectural symmetry from elevated points.', 'entry': '₹50-100 (Indian), ₹200-300 (foreign)', 'timings': '9:00 AM - 7:00 PM'}",
+          "{'name': 'Drive to Nishat Bagh', 'time': '11:15 AM - 11:30 AM', 'distance': '4 km', 'duration': '15 minutes'}",
+          "{'name': \"Nishat Bagh - 'Garden of Bliss'\", 'time': '11:45 AM - 1:00 PM', 'duration': '1.25 hours', 'altitude': '1,745m', 'description': \"Larger than Shalimar Bagh (9 hectares), Nishat features 12 terraced levels representing 12 zodiac signs. Built by Asaf Khan (Nur Jahan's brother) in 1633. Unique features: higher elevation overlooking Dal Lake valley, grand staircase connecting terraces, century-old chinar trees (some 250+ years old), flowering trees (apricot, almond, cherry in spring). Each terrace level has distinct design character. Top terrace offers panoramic views of lake and surrounding mountains.\", 'photography': 'Terraced landscape (best from top terrace looking down), Chinar trees (golden autumn leaves in October), lake views from elevation.', 'entry': '₹50-100 (Indian), ₹200-300 (foreign)', 'timings': '9:00 AM - 7:00 PM'}",
+          "{'name': 'Lunch Stop', 'time': '1:15 PM - 2:15 PM', 'duration': '1 hour', 'description': 'Lunch at garden-side restaurant or hotel. Kashmiri rice dishes, kebabs, salads, breads. Budget: ₹300-500 per person.'}",
+          "{'name': 'Transfer to Pari Mahal', 'time': '2:30 PM - 2:50 PM', 'distance': '3 km', 'duration': '20 minutes'}",
+          "{'name': \"Pari Mahal - 'Palace of Fairies' & Zabaruwan Garden\", 'time': '3:00 PM - 4:15 PM', 'duration': '1.25 hours', 'altitude': '1,850m (120m elevation gain from garden entry)', 'description': '14th-century terraced garden on Zabaruwan Hill overlooking Old Srinagar. Built on ancient Buddhist cave monastery site (3-4 stories of caves). Multi-level terraced garden with seven levels (representing Persian design principle). Each level has fountains, gardens, stone pavilions. Staircase climbs through terraces (light climbing, no major exertion). Summit offers 360° views of Srinagar city, Dal Lake, mountains, Old City. Sunset views exceptional.', 'photography': 'Sunset light on Old City (best 4:00-5:00 PM), terraced landscape levels, valley perspectives, distant mountain silhouettes.', 'entry': '₹50-100 (Indian), ₹200-300 (foreign)', 'elevation': '120m elevation gain from base (manageable stairs)'}",
+          "{'name': 'Transfer to Shankaracharya Temple', 'time': '4:30 PM - 5:00 PM', 'distance': '5 km', 'duration': '30 minutes'}",
+          "{'name': 'Shankaracharya Temple - Hindu Spiritual Site', 'time': '5:15 PM - 6:30 PM', 'duration': '1.25 hours', 'altitude': '2,100m (370m elevation gain from city center)', 'description': 'Ancient Hindu temple dedicated to sage Shankaracharya (philosopher 8th century). Perched on Shankaracharya Hill, 1,100m directly above Srinagar city. Reached via 300+ stone steps (steep but manageable in 15-20 minutes). Temple is small but architecturally significant - central sanctum with golden dome. At summit: panoramic views of entire Srinagar valley, Dal Lake in miniature, surrounding mountains, Old City winding streets below. Sacred pilgrimage site for Hindu devotees.', 'photography': 'Aerial perspective of entire Srinagar valley (breath-taking), city lights at dusk (golden hour exceptional), temple silhouette against sunset.', 'entry': 'Free (donations appreciated ₹50-100)', 'climbing': '300+ stone steps, steep gradient but well-maintained. 15-20 minutes climb. Physical fitness: moderate.'}",
+          "{'name': 'Return to Houseboat', 'time': '6:45 PM - 7:15 PM', 'distance': '5 km', 'duration': '30 minutes'}",
+          "{'name': 'Dinner at Houseboat', 'time': '7:30 PM - 8:30 PM', 'description': 'Another evening of Kashmiri wazwan cuisine on houseboat. Different menu from Day 1: possibly Ristan variant, Paneer Chaman (paneer in vegetable gravy), Fish Curry (fresh Kashmir trout), Dal Makhani, rotis/naan. Dessert: Kheer or Firni.'}"
+        ],
+        "meals": {
+          "breakfast": "Included (houseboat)",
+          "lunch": "Included (restaurant en route)",
+          "dinner": "Included (houseboat)"
+        },
+        "accommodation": {
+          "type": "Houseboat (same as Day 1)",
+          "nights": 1,
+          "checkIn": "6:00 PM (Day 1)",
+          "checkOut": "10:00 AM (Day 3)"
+        },
+        "transfers": [
+          {
+            "from": "Houseboat",
+            "to": "Shalimar Bagh-Nishat Bagh-Pari Mahal circuit",
+            "mode": "Shared Force Urbania",
+            "duration": "Full day with stops",
+            "cost": "Included"
+          },
+          {
+            "from": "Houseboat",
+            "to": "Shankaracharya Temple",
+            "mode": "Shared Force Urbania",
+            "duration": "30 minutes"
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Sonamarg - 'Meadow of Gold' & Thajiwas Glacier Trek",
+        "route": "Houseboat Srinagar → Sonamarg (87 km, 3-4 hours) → Thajiwas Glacier (4.5 km pony trek) → Sonamarg → Srinagar",
+        "overnight": "Houseboat (Dal Lake)",
+        "description": "Full-day alpine adventure to Sonamarg, gateway to Kashmir's high mountain region. 'Sonamarg' means 'Meadow of Gold' - high-altitude meadow at 2,730m filled with alpine flowers in summer. Trek via pony ride through pine and spruce forests to Thajiwas Glacier (3,700m). Experience pristine high-altitude wilderness, glacier views, and Zero Point (border area with India-Pakistan boundary at a distance). This is a moderate-difficulty day involving 8-10 hours total drive + trek activity. Pony-assisted trek eliminates need for trekking experience.",
+        "activities": [
+          "{'name': 'Very Early Breakfast & Departure', 'time': '5:30 AM - 6:15 AM', 'duration': '45 minutes', 'description': 'Early breakfast at houseboat (packed option available for drive). Tea, bread, cheese, eggs. Prepare for full-day mountain adventure.'}",
+          "{'name': 'Drive from Srinagar to Sonamarg', 'time': '6:30 AM - 10:00 AM', 'distance': '87 km', 'duration': '3-3.5 hours', 'description': 'Scenic drive north-northeast from Srinagar through valleys, gradually increasing altitude. Pass through villages, pine forests, cultivated areas. Road winds through mountain passes. Stop for chai/snacks at roadside (₹50-100).'}",
+          "{'name': 'Arrival at Sonamarg & Lunch', 'time': '10:15 AM - 11:30 AM', 'altitude': '2,730m', 'duration': '1.25 hours', 'description': 'Arrive at Sonamarg meadow area. Check into base camp or guesthouse. Lunch at local restaurant: noodles, momos, thukpa, or rice-based meals. Budget: ₹250-400.'}",
+          "{'name': 'Thajiwas Glacier Pony Trek Preparation', 'time': '12:00 PM - 12:30 PM', 'duration': '30 minutes', 'description': 'Walk to Thajiwas Pony Stand (parking area). Register for pony hire. Ponies assigned (₹500-800 per pony for 3-4 hour round trip). Brief orientation on pony handling (gentle animals, but follow guide instructions). Wear comfortable shoes, carry water bottle.'}",
+          "{'name': 'Thajiwas Glacier Pony Trek', 'time': '1:00 PM - 4:30 PM', 'altitude': '2,730m → 3,700m', 'distance': '4.5 km each way (9 km total)', 'duration': '3.5 hours round trip', 'elevation gain': '970m', 'description': 'Guided pony trek through pristine high-altitude environment. Path winds through pine and spruce forests, alpine meadows, rocky terrain. Altitude gain is gradual but noticeable - breathing becomes slightly heavier above 3,500m. Ponies navigate narrow trails comfortably despite steep sections. Trek features: forest canopy provides shade (summer), wildflowers (June-August: alpine primrose, fritillary, gentian), mountain streams crossing, rocky outcrops revealing stratified geology. Glacier itself is visible from 3,400m onward - white ice patches surrounded by rock moraines. At 3,700m (glacier terminus), experience glacial landscape: exposed ice, meltwater streams, alpine silence. Return trek same route downhill (easier on ponies).', 'photography': 'Wildflowers (June-August, early morning light), forest canopy textures, glacier close-up (afternoon light), valley views from elevation.', 'healthNote': 'Altitude effects start above 3,000m - mild breathlessness is normal. Drink plenty of water (3+ liters). No exertion required - ponies do the work.', 'cost': '₹500-800 per pony (₹2,000-3,200 for group of 4)'}",
+          "{'name': 'Rest & Tea at Base', 'time': '4:45 PM - 5:15 PM', 'duration': '30 minutes', 'description': 'Rest after trek. Chai and snacks at Thajiwas cafe. Rehydrate, recover from altitude effects.'}",
+          "{'name': 'Optional: Zero Point Exploration', 'time': '5:30 PM - 6:30 PM', 'distance': '8 km from Thajiwas Pony Stand', 'duration': '1 hour drive (if time permits)', 'description': 'Optional visit to Zero Point - high-altitude location near India-Pakistan border road. Extremely remote, minimal vegetation, barren high-altitude desert landscape. Photography point: mountain panoramas, border region views. Only accessible by vehicle (no trekking). Return to Sonamarg by 6:45 PM.'}",
+          "{'name': 'Drive Return to Srinagar', 'time': '7:00 PM - 10:30 PM', 'distance': '87 km', 'duration': '3.5 hours', 'description': 'Evening drive back to Srinagar. Descend gradually - altitude effects ease. Arrive houseboat late evening.'}",
+          "{'name': 'Dinner at Houseboat (Late)', 'time': '10:45 PM onwards', 'description': 'Late dinner at houseboat - light meal (rice, curry, bread) to ease altitude-fatigued stomach. Early sleep recommended.'}"
+        ],
+        "altitude": {
+          "current": "2,730m (Sonamarg) - 3,700m (Glacier)",
+          "healthWarning": "Altitude effects beginning - mild breathlessness normal above 3,500m. Drink 4-5 liters water daily. No major AMS risk at this altitude for acclimatized travelers."
+        },
+        "meals": {
+          "breakfast": "Included (houseboat, early)",
+          "lunch": "Included (Sonamarg restaurant)",
+          "dinner": "Included (houseboat, late evening)"
+        },
+        "accommodation": {
+          "type": "Houseboat (same, return evening)",
+          "nights": 1
+        },
+        "transfers": [
+          {
+            "from": "Houseboat",
+            "to": "Sonamarg",
+            "mode": "Shared Force Urbania",
+            "distance": "87 km",
+            "duration": "3-3.5 hours"
+          },
+          {
+            "from": "Thajiwas Glacier Pony Stand",
+            "to": "Glacier & back",
+            "mode": "Pony trek (4-4.5 hours)",
+            "cost": "₹500-800 per pony"
+          },
+          {
+            "from": "Sonamarg",
+            "to": "Houseboat Srinagar",
+            "mode": "Shared Force Urbania",
+            "distance": "87 km",
+            "duration": "3.5 hours",
+            "time": "Evening"
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Gulmarg - World's Highest Golf Course & Gondola Adventure",
+        "route": "Houseboat Srinagar → Gulmarg Union Cab Stand (52 km, 2-2.5 hours) → Gulmarg Golf Course → Gulmarg Gondola Phase 1 & 2 → Apharwat Peak (3,971m) → Gulmarg → Srinagar",
+        "overnight": "Houseboat (Dal Lake)",
+        "description": "Adventure day at Gulmarg - 'Meadow of Flowers' - famous for world's highest golf course and thrilling gondola ride. Located at 2,680m, Gulmarg offers diverse activities: golf, gondola rides, alpine meadow walks, optional skiing (winter). The main attraction is Gulmarg Gondola - a two-phase aerial ropeway taking you to Apharwat Peak (3,971m) with breathtaking 360° Himalayan panorama. On clear days, visibility extends 100+ km. Day involves moderate altitude gain (well-tolerated after previous day's 3,700m Glacier trek). Full-day adventure requiring early start and return for evening houseboat experience.",
+        "activities": [
+          "{'name': 'Breakfast & Early Departure', 'time': '6:00 AM - 6:45 AM', 'duration': '45 minutes', 'description': 'Early breakfast at houseboat. Pack light snacks, camera, warm layers for altitude.'}",
+          "{'name': 'Drive to Gulmarg', 'time': '7:00 AM - 9:15 AM', 'distance': '52 km', 'duration': '2.25 hours', 'description': 'Scenic drive west from Srinagar through lush valleys. Road winds uphill gradually. Pass through villages, forests, cultivated areas. Altitude increases gradually from 1,730m (Srinagar) to 2,680m (Gulmarg).'}",
+          "{'name': 'Arrival at Gulmarg Union Cab Stand & Breakfast', 'time': '9:30 AM - 10:30 AM', 'altitude': '2,680m', 'duration': '1 hour', 'description': 'Arrive at Gulmarg Union Cab Stand (starting point for sightseeing). Light breakfast/snack at local cafe. Organize local transport for day (either walk or hire local cab for sightseeing circuit).'}",
+          "{'name': \"Gulmarg Golf Course - World's Highest\", 'time': '10:45 AM - 11:45 AM', 'duration': '1 hour', 'altitude': '2,530m - 2,580m (varies by hole)', 'description': 'Visit world-famous Gulmarg Golf Course - 18 holes spread across alpine meadow. First hole: 2,530m elevation (fairway views down valley). 18th hole: 2,580m. Unique feature: playing golf at extreme altitude with panoramic Himalayan backdrop. Course operates May-November (summer golf). Winter season (Dec-Feb): golf course converts to ski slopes. Course is fully functional with clubhouse, restaurant, caddy services. Photography allowed (non-golfers can walk course and take photos). Even if not golfing, walking the course offers stunning meadow and mountain views.', 'photography': 'Panoramic course layout, fairways against mountain backdrops, valley vistas, alpine flowers (June-August).', 'entry': '₹200-300 per person (sightseeing), ₹5,000-10,000 per person (golfing)', 'timings': '9:00 AM - 5:00 PM'}",
+          "{'name': 'Transfer to Gulmarg Gondola Base', 'time': '12:00 PM - 12:15 PM', 'duration': '15 minutes', 'description': 'Walk or short drive to Gulmarg Gondola base station (same area as golf course).'}",
+          "{'name': 'Gulmarg Gondola - Phase 1 Ride', 'time': '12:30 PM - 1:00 PM', 'altitude': '2,680m → 3,250m', 'elevation gain': '570m', 'duration': '20 minutes (round trip)', 'description': \"First phase of Asia's highest aerial ropeway. Glass-floored gondola cabin holds 6-8 passengers. Experience aerial perspective of alpine meadow, forests, distant valleys. At intermediate station (3,250m): changing landscape visible - fewer trees, more alpine grass and rocks. Clear views of surrounding peaks. Temperature noticeably cooler (5-10°C colder than Srinagar). On clear days: panoramic Himalayan views extending to distant snow peaks.\", 'photography': 'Aerial landscape perspective, meadow patterns from altitude, mountain silhouettes, valley geography.', 'cost': '₹400-600 return (both phases), ₹250-350 Phase 1 only'}",
+          "{'name': 'Gulmarg Gondola - Phase 2 Ride', 'time': '1:15 PM - 2:00 PM', 'altitude': '3,250m → 3,971m', 'elevation gain': '721m', 'duration': '15 minutes (round trip)', 'description': 'Second phase of gondola continues from intermediate station to Apharwat Peak summit (3,971m). This is the dramatic segment - cabin climbs steeply over barren rocky terrain. At 3,971m: spectacular 360° panoramic views. On clear days (May-June, Sep-Oct best): visibility 100+ km. Visible peaks: snow-capped Himalayas in multiple directions, valleys far below. Temperature: 5-15°C depending on season (thin air, wind effects). Altitude effects may be noticeable - mild breathlessness, slight headache (normal at 3,971m).', 'photography': 'Panoramic landscape (best: 1:30-2:30 PM for light), snow peaks in distance, valley topography from extreme altitude, weather patterns visible.', 'healthNote': 'Altitude 3,971m is high - breathing becomes slightly harder. Stay 30-45 minutes at summit maximum. Drink water frequently.', 'cost': 'Included in round-trip ticket (₹400-600)'}",
+          "{'name': 'Apharwat Peak Summit Exploration & Photography', 'time': '2:00 PM - 2:45 PM', 'altitude': '3,971m', 'duration': '45 minutes', 'description': 'Walk around summit area (small plateau, well-established paths). Experience extreme altitude without trekking effort - gondola does all the work. Photography: capture panoramic views, self-portraits against mountain backdrop, weather formations. Picnic spot available (bring snacks). WiFi coverage unreliable at altitude. Bathroom facilities at station. Rest on benches and absorb the majesty of Himalayan panorama.'}",
+          "{'name': 'Return via Phase 2 & Phase 1 Gondola', 'time': '2:45 PM - 3:45 PM', 'duration': '1 hour', 'description': 'Descend via same gondola route. Return to base station by 3:45 PM.'}",
+          "{'name': 'Lunch at Gulmarg', 'time': '4:00 PM - 4:45 PM', 'duration': '45 minutes', 'description': 'Lunch at Gulmarg restaurant/cafe. Options: noodles, rice, kebabs, local Himachali dishes. Budget: ₹300-500.'}",
+          "{'name': 'Optional: Gulmarg Meadow Walk', 'time': '5:00 PM - 5:30 PM', 'duration': '30 minutes', 'description': 'Walk through alpine meadows surrounding Gulmarg. Best during June-August when wildflowers bloom (tulips, iris, fritillary, primrose). Gentle walks, scenic vistas, photography opportunities. Meadow elevation: 2,680m (comfortable for walking after gondola experience).'}",
+          "{'name': 'Drive Return to Srinagar', 'time': '6:00 PM - 8:30 PM', 'distance': '52 km', 'duration': '2.5 hours'}",
+          "{'name': 'Dinner at Houseboat', 'time': '9:00 PM onwards', 'description': \"Evening Kashmiri dinner on houseboat. Relax after full-day adventure. Kahwa and evening conversation about day's experiences.\"}"
+        ],
+        "altitude": {
+          "current": "2,680m (Gulmarg) - 3,971m (Apharwat Peak)",
+          "healthWarning": "Summit altitude 3,971m - mild altitude effects normal (breathlessness, mild headache). Limit summit stay to 45 minutes max. Descent relieves symptoms immediately."
+        },
+        "meals": {
+          "breakfast": "Included (houseboat)",
+          "lunch": "Included (Gulmarg restaurant)",
+          "dinner": "Included (houseboat)"
+        },
+        "accommodation": {
+          "type": "Houseboat (same, return evening)",
+          "nights": 1
+        },
+        "transfers": [
+          {
+            "from": "Houseboat",
+            "to": "Gulmarg Union Cab Stand",
+            "mode": "Shared Force Urbania",
+            "distance": "52 km",
+            "duration": "2.25 hours",
+            "cost": "Included"
+          },
+          {
+            "from": "Gulmarg",
+            "to": "Gondola ride (Phase 1 & 2)",
+            "mode": "Aerial ropeway",
+            "cost": "₹400-600"
+          },
+          {
+            "from": "Gulmarg Union Cab Stand",
+            "to": "Houseboat Srinagar",
+            "mode": "Shared Force Urbania",
+            "distance": "52 km",
+            "duration": "2.5 hours",
+            "cost": "Included"
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Pahalgam - Alpine Meadows, Valleys & Nature Walks",
+        "route": "Houseboat Srinagar → Pahalgam (90 km, 3-3.5 hours scenic route) → Aru Valley, Baisaran Valley, Betaab Valley, Chandanwari exploration",
+        "overnight": "Pahalgam Hotel",
+        "description": "Transfer to picturesque Pahalgam valley (2,440m), nestled among apple orchards and lush meadows. Explore four distinct valleys surrounding Pahalgam, each offering unique alpine scenery and walking opportunities. Betaab Valley - pristine stream-fed meadow with dramatic rock formations. Baisaran Valley - 'Shepherd's Prairie' with premium photography vistas. Aru Valley - alpine flowers and forest canopy. Chandanwari - willow-lined valley starting point for high-altitude treks. Day features moderate nature walks, scenic drives, and cultural immersion in rural Kashmir. Overnight shift to hotel from houseboat (last houseboat night was Day 4). This is relaxation day after three consecutive high-altitude adventures.",
+        "activities": [
+          "{'name': 'Houseboat Check-out & Transfer Preparation', 'time': '8:00 AM - 8:45 AM', 'duration': '45 minutes', 'description': 'Breakfast at houseboat. Pack belongings. Final photographs on houseboat deck with morning light. Check-out by 10:00 AM.'}",
+          "{'name': 'Transfer from Srinagar to Pahalgam', 'time': '9:00 AM - 12:15 PM', 'distance': '90 km', 'duration': '3.25 hours', 'route': 'Scenic route through Srinagar-Anantnag-Pahalgam', 'description': 'Scenic descent southward from Srinagar. Road winds through cultivated valleys, saffron fields (November-December, when saffron harvesting occurs), fruit orchards (apples, walnuts, cherries), traditional villages. Altitude gradually increases from 1,730m (Srinagar) to 2,440m (Pahalgam). Gradual 700m elevation gain. Road quality: good mountain highway with scenic viewpoints. Stop for chai/snacks (₹50-100) en route if desired.'}",
+          "{'name': 'Pahalgam Hotel Check-in & Lunch', 'time': '12:30 PM - 1:30 PM', 'altitude': '2,440m', 'duration': '1 hour', 'description': 'Arrive at Pahalgam. Check-in to hotel. Lunch at hotel restaurant or local eatery. Options: rice dishes, noodles, kebabs, salads. Budget: ₹250-400.'}",
+          "{'name': 'Betaab Valley Sightseeing', 'time': '2:00 PM - 3:30 PM', 'distance': '15 km from Pahalgam', 'duration': '1.5 hours including drive and walk', 'altitude': '2,280m', 'description': 'Drive to Betaab Valley (4x4 vehicles recommended, but regular taxis possible). Valley is pristine stream-fed meadow with sparkling Lidder River running through. Dramatic rock formations frame the valley. Stream crossings create picturesque water scenes. Valley is sparsely populated - nature walk through meadows is peaceful. Wildflowers (June-August): primrose, iris, geranium. Rock formations: layered sedimentary outcrops creating rainbow-colored geology.', 'photography': 'Stream reflections (morning/late afternoon light), rock formations, meadow textures, wildflowers, valley frame vistas.', 'walking': 'Easy 1-2 km walk through meadow (self-paced), no trekking experience needed.'}",
+          "{'name': \"Baisaran Valley - 'Shepherd's Prairie'\", 'time': '4:00 PM - 5:15 PM', 'distance': '14 km from Pahalgam', 'duration': '1.25 hours including drive and walk', 'altitude': '2,400m', 'description': \"Visit Baisaran Valley, premium photography location. High alpine meadow surrounded by forest. Shepherd grazing areas (hence name 'Shepherd's Prairie'). Gentle rolling terrain with few trees creates open meadow character. Best photography location in Pahalgam area - panoramic views, minimal human intrusion, pristine landscape. Summer season: alpine flowers scattered across meadow. Autumn: golden grass and tree colors. Winter: meadow becomes snow-covered (typically closed Nov-March).\", 'photography': 'Panoramic meadow vistas (best: 4:30-5:00 PM golden hour), shepherd communities (respectful distance), distant mountain silhouettes, pastoral landscape.', 'walking': 'Easy 1-2 km walk through meadow.'}",
+          "{'name': 'Return to Pahalgam & Dinner', 'time': '5:30 PM - 7:00 PM', 'duration': '1.5 hours', 'description': 'Return drive to Pahalgam town. Visit local market for souvenir shopping (pashmina, woolen items, local crafts). Dinner at hotel restaurant: Kashmiri rice dishes, trout (if available - fresh from Pahalgam rivers), vegetable curries, breads. Budget: ₹300-500.'}",
+          "{'name': 'Evening at Leisure', 'time': '7:30 PM onwards', 'description': \"Relax at hotel. Enjoy Pahalgam's cool evening air. Optional: river-side walk along Lidder River. Early sleep for Day 6 early departure (if connecting flights/trains required).\"}"
+        ],
+        "altitude": {
+          "current": "2,440m (Pahalgam)",
+          "healthNote": "Pleasant altitude after higher passes. No altitude effects expected. Comfortable for most travelers."
+        },
+        "meals": {
+          "breakfast": "Included (houseboat)",
+          "lunch": "Included (Pahalgam hotel/restaurant)",
+          "dinner": "Included (Pahalgam hotel)"
+        },
+        "accommodation": {
+          "type": "Hotel (Pahalgam, moderate category)",
+          "nights": 1,
+          "checkIn": "12:30 PM",
+          "checkOut": "10:00 AM (Day 6)",
+          "priceRange": "₹2,500-4,500 per night",
+          "amenities": "Private room with attached bathroom, hot water, room heater (evenings cold), restaurant, valley views"
+        },
+        "transfers": [
+          {
+            "from": "Houseboat",
+            "to": "Pahalgam Hotel",
+            "mode": "Shared Force Urbania",
+            "distance": "90 km",
+            "duration": "3.25 hours",
+            "cost": "Included"
+          },
+          {
+            "from": "Pahalgam Hotel",
+            "to": "Betaab Valley",
+            "mode": "Local cab (4x4 recommended)",
+            "distance": "15 km",
+            "duration": "45 minutes each way",
+            "cost": "₹800-1,200 per cab"
+          },
+          {
+            "from": "Pahalgam Hotel",
+            "to": "Baisaran Valley",
+            "mode": "Local cab",
+            "distance": "14 km",
+            "duration": "45 minutes each way",
+            "cost": "₹800-1,200 per cab"
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Pahalgam to Srinagar & Departure",
+        "route": "Pahalgam Hotel → Aru Valley (optional) → Srinagar → Sheikh ul-Alam International Airport",
+        "overnight": null,
+        "description": "Final morning in Kashmir. Optional early exploration of Aru Valley or leisurely Pahalgam market visit. Mid-morning transfer back to Srinagar (90 km, 3-3.5 hours). Afternoon arrival allows shopping at Srinagar markets (pashmina, handicrafts, traditional Kashmiri items). Evening departure to Sheikh ul-Alam International Airport (flight-dependent timing). Depending on flight schedule, may involve airport hotel stay or direct airport departure.",
+        "activities": [
+          "{'name': 'Breakfast at Pahalgam Hotel', 'time': '7:00 AM - 7:45 AM', 'duration': '45 minutes', 'description': 'Hotel breakfast. Pack belongings. Check-out by 10:00 AM.'}",
+          "{'name': 'Optional: Aru Valley Morning Visit', 'time': '8:00 AM - 9:30 AM', 'distance': '12 km from Pahalgam', 'duration': '1.5 hours including drive and walk', 'altitude': '2,300m', 'description': 'Optional morning visit to Aru Valley if time permits before transfer. Alpine valley with forest canopy, stream, gentle walking paths. Early morning light ideal for photography. Spring season (May-June): alpine flowers in bloom. Alternatively: skip and rest at hotel.'}",
+          "{'name': 'Hotel Check-out & Transfer to Srinagar', 'time': '10:00 AM - 1:15 PM', 'distance': '90 km', 'duration': '3.25 hours', 'description': 'Check-out from Pahalgam hotel. Drive northward to Srinagar. Gradual descent from 2,440m to 1,730m. Same scenic route as Day 5 inbound (reverse direction). Arrive Srinagar early afternoon.'}",
+          "{'name': 'Srinagar Shopping & Market Visit', 'time': '1:30 PM - 3:30 PM', 'duration': '2 hours', 'description': 'Visit Srinagar markets for last-minute souvenir shopping. Lal Chwk (Red Square) - main bazaar with pashmina shawls, Kashmir carpets, handicrafts, traditional items. Bargaining typical. Popular items: Pashmina shawls (₹1,000-5,000+), Kashmir carpets (₹5,000-50,000+), wooden items, copperware, saffron (pure Kashmir saffron premium quality). Lunch: street food or restaurant (biryani, kebabs, breads).'}",
+          "{'name': 'Transfer to Sheikh ul-Alam International Airport', 'time': '3:45 PM - 4:30 PM', 'distance': '15 km', 'duration': '45 minutes', 'description': 'Transfer to airport based on flight schedule. Check-in 2-3 hours before flight. Security clearance and boarding procedures.'}",
+          "{'name': 'Departure from Srinagar', 'time': 'Evening (schedule-dependent)', 'description': 'Flight departure from Sheikh ul-Alam International Airport. Carry Kashmir memories home!'}"
+        ],
+        "altitude": {
+          "current": "1,730m (Srinagar)"
+        },
+        "meals": {
+          "breakfast": "Included (Pahalgam hotel)",
+          "lunch": "Not included (shopping break, self-arranged)",
+          "dinner": "Not included (likely airport/flight meal)"
+        },
+        "accommodation": {
+          "type": "None (departure day)",
+          "nights": 0
+        },
+        "transfers": [
+          {
+            "from": "Pahalgam Hotel",
+            "to": "Srinagar city center",
+            "mode": "Shared Force Urbania",
+            "distance": "90 km",
+            "duration": "3.25 hours",
+            "cost": "Included"
+          },
+          {
+            "from": "Srinagar city",
+            "to": "Sheikh ul-Alam International Airport",
+            "mode": "Shared Force Urbania",
+            "distance": "15 km",
+            "duration": "45 minutes",
+            "cost": "Included"
+          }
+        ]
+      }
+    ],
+    "pricing": {
+      "description": "6D/5N Kashmir package includes accommodation (houseboat + hotel), all transfers, meals (breakfast/lunch/dinner), sightseeing activities, and guided tours. Prices vary by accommodation category and vehicle type.",
+      "carCategories": [
+        {
+          "category": "A - Premium SUV (Shared)",
+          "vehicles": [
+            "Innova",
+            "Aria",
+            "XUV",
+            "6-seater shared"
+          ],
+          "basePrice": "₹42,000-52,000",
+          "pricePerKm": "₹75-90",
+          "description": "Comfortable shared SUV with experienced Kashmiri driver. Seats 6 passengers. Climate control, good road performance."
+        },
+        {
+          "category": "B - Mid-range SUV (Shared)",
+          "vehicles": [
+            "Xylo",
+            "Scorpio",
+            "Ertiga",
+            "6-seater shared"
+          ],
+          "basePrice": "₹38,000-46,000",
+          "pricePerKm": "₹65-75",
+          "description": "Moderate comfort shared SUV. Good for groups of 4-6 travelers. Fuel efficient, reliable mountain navigation."
+        },
+        {
+          "category": "C - Budget Option (Shared Cab)",
+          "vehicles": [
+            "Sumo",
+            "Eeco Van",
+            "Force Urbania",
+            "8-seater shared"
+          ],
+          "basePrice": "₹32,000-40,000",
+          "pricePerKm": "₹55-65",
+          "description": "Budget-friendly shared transport. Basic comfort, reliable. Seating capacity 8 passengers. Most economical option."
+        }
+      ],
+      "includes": [
+        "Houseboat stay (1 night, standard category) - includes kahwa, meals, traditional wooden interiors",
+        "Hotel stay (Pahalgam, 1 night, standard category)",
+        "Transportation throughout (all transfers per itinerary)",
+        "Experienced Kashmiri driver familiar with all routes and altitude effects",
+        "Fuel, tolls, parking fees",
+        "Daily breakfast and dinner (5 meals total)",
+        "Lunch on Days 2-5 (4 meals)",
+        "Shikara ride on Dal Lake (2 hours)",
+        "Gondola ride (Phase 1 & Phase 2 to Apharwat Peak)",
+        "Sightseeing tour (Shalimar Bagh, Nishat Bagh, Pari Mahal, Shankaracharya Temple)",
+        "Pony trek guide (Thajiwas Glacier trek)",
+        "Local guide assistance for valleys (Betaab, Baisaran, Aru)",
+        "Bottled water during travel",
+        "Basic first-aid kit",
+        "Driver meals and accommodation"
+      ],
+      "excludes": [
+        "Flights to/from Srinagar",
+        "Travel insurance",
+        "Pony hire costs (₹500-800 per pony for Thajiwas trek)",
+        "Gondola tickets (₹400-600 return for both phases)",
+        "Meals not mentioned in itinerary",
+        "Shopping and souvenirs",
+        "Optional activities (skiing at Gulmarg in winter, rafting, etc.)",
+        "Entry fees to monuments (typically ₹50-300 per site)",
+        "Personal medical expenses",
+        "Tips and gratuities"
+      ],
+      "estimatedBudgetPerPerson": {
+        "packageCost": "₹32,000-52,000 (depending on category)",
+        "additionalExpenses": "₹5,000-12,000 (pony trek ₹800, gondola ₹600, temples ₹500-800, lunch/snacks ₹3,000, shopping ₹1,000-5,000, tips ₹500-1,000)",
+        "totalEstimatedCost": "₹37,000-64,000 per person",
+        "costBreakdown": {
+          "houseboat": "₹5,000-8,000",
+          "hotel": "₹3,000-4,500",
+          "transport": "₹12,000-18,000",
+          "meals": "₹4,000-6,000",
+          "activities": "₹4,000-8,000",
+          "miscellaneous": "₹3,000-8,000"
+        }
+      }
+    },
+    "permits": {
+      "required": false,
+      "description": "No permits required for Indian citizens or foreign tourists to visit Kashmir or any locations on this itinerary.",
+      "photography": "Allowed in all locations except military installations and restricted border areas. Photography permitted in temples with basic etiquette (remove shoes, cover head)."
+    },
+    "bestTimeToVisit": {
+      "primarySeason": "May to October",
+      "seasonalBreakdown": {
+        "may_june": {
+          "weather": "Pleasant 20-25°C, flowers in bloom",
+          "advantages": "Alpine flowers at peak, all passes accessible, fewer crowds than summer",
+          "disadvantages": "Some high passes may still have snow",
+          "recommendation": "Excellent - ideal shoulder season"
+        },
+        "july_august": {
+          "weather": "Warm 22-28°C, frequent afternoon showers",
+          "advantages": "All activities fully accessible, water sports available",
+          "disadvantages": "Peak season, crowded, higher prices",
+          "recommendation": "Good but crowded and expensive"
+        },
+        "september": {
+          "weather": "Cool 18-22°C, clear skies",
+          "advantages": "Excellent visibility, fewer crowds, pleasant temperatures",
+          "disadvantages": "Shorter season, limited accommodation in some areas",
+          "recommendation": "Excellent - best season for photography"
+        },
+        "october": {
+          "weather": "Cool 10-18°C, beginning to get chilly",
+          "advantages": "Very clear skies, golden autumn colors, minimal crowds",
+          "disadvantages": "Some passes may close late month, colder temperatures",
+          "recommendation": "Good until mid-October"
+        },
+        "november_april": {
+          "weather": "Winter snow, -5 to 5°C",
+          "accessibility": "Limited - many passes closed, only Srinagar accessible",
+          "recommendation": "Avoid for this itinerary (winter sports destination instead)"
+        }
+      },
+      "recommendation": "BEST: May-June and September. GOOD: July-August (crowds). AVOID: November-April for this package."
+    },
+    "healthTips": [
+      "⚠️ ALTITUDE EXPOSURE: This itinerary reaches 3,971m (Apharwat Peak). Mild altitude effects normal above 3,500m.",
+      "💧 HYDRATION: Drink 4-5 liters water daily. Higher altitude increases dehydration risk.",
+      "🌞 SUN PROTECTION: SPF 50+ sunscreen required (reapply every 2 hours). UV intense even in cool weather.",
+      "😴 ACCLIMATIZATION: Day 1 is rest day - important for altitude adjustment. Avoid exertion Day 1.",
+      "⚠️ ALTITUDE SICKNESS WATCH: Mild headache, nausea, insomnia common at 3,000m+. Usually resolve with rest/descent.",
+      "🚫 AVOID FIRST DAY: Alcohol, heavy meals, smoking. These worsen altitude effects.",
+      "💊 MEDICATION: If prone to altitude sickness, consult doctor about Diamox (Acetazolamide) before travel.",
+      "🍽️ EAT LIGHT: Stomach issues common at altitude. Eat frequent small meals rather than heavy meals.",
+      "🏃 AVOID EXERTION: No strenuous exercise Days 1-2. Normal activity fine from Day 3 onward.",
+      "⛔ NOT RECOMMENDED: Pregnant women, severe heart disease, uncontrolled hypertension, severe respiratory issues.",
+      "🏥 MEDICAL: Good hospitals in Srinagar. Limited facilities beyond city - travel insurance recommended.",
+      "❄️ TEMPERATURE SWINGS: Bring layers - 25°C day, 0-5°C night even in summer.",
+      "💪 PHYSICAL FITNESS: This itinerary does NOT require trekking fitness. Mostly vehicle-based + light walks.",
+      "🚫 ALTITUDE MEDICATION CAUTION: Diamox can cause tingling, taste alteration. Consult doctor before use.",
+      "📱 COMMUNICATION: Mobile coverage good in major areas (Srinagar, Pahalgam), patchy in remote valleys."
+    ],
+    "localCuisine": [
+      {
+        "dishName": "Wazwan (Multi-course Kashmiri meal)",
+        "description": "Traditional ceremonial Kashmiri feast with 15-30 dishes, typically served during weddings and special occasions. Includes meat curries, rice dishes, breads, chutneys.",
+        "mainComponents": "Ristan (meat in aromatic gravy), Yakhni (yogurt-based meat), Gushtaba (meatballs), Dum Aloo (potatoes), Phirni (rice pudding)",
+        "healthValue": "Rich and flavorful but heavy - eat in moderation at altitude",
+        "vegetarianOptions": "Vegetable curries, paneer dishes available",
+        "whereToTry": "Houseboat dinners, local restaurants in Srinagar",
+        "price": "₹300-1,000 per person"
+      },
+      {
+        "dishName": "Kahwa (Kashmiri Saffron Tea)",
+        "description": "Traditional green tea infused with saffron strands, cardamom, cinnamon, and crushed almonds. Served hot in traditional samovar.",
+        "healthValue": "Antioxidant-rich, aids digestion, warming at altitude",
+        "experience": "MUST-TRY authentic Kashmiri experience - served on houseboat at sunset",
+        "price": "₹50-100 per cup"
+      },
+      {
+        "dishName": "Phirni & Kheer (Rice Puddings)",
+        "description": "Creamy rice-based desserts flavored with cardamom, saffron, nuts. Phirni uses rice flour (thinner consistency), Kheer uses whole rice.",
+        "healthValue": "Comfort food, calories for high-altitude",
+        "whereToTry": "Houseboat dinners, restaurants",
+        "price": "₹80-150"
+      },
+      {
+        "dishName": "Tujj Gaad (Traditional Noodle Soup)",
+        "description": "Handmade noodle soup in aromatic broth, often with meat or vegetables. Warming and filling.",
+        "healthValue": "RECOMMENDED at altitude - light on stomach, hydrating",
+        "whereToTry": "Local dhabas (roadside restaurants) especially in Sonamarg",
+        "price": "₹100-200"
+      },
+      {
+        "dishName": "Rogan Josh",
+        "description": "Tender meat (usually lamb/goat) in aromatic tomato-based curry with aromatic spices.",
+        "healthValue": "Protein-rich, traditional Kashmiri staple",
+        "whereToTry": "Restaurants throughout Kashmir",
+        "price": "₹300-500"
+      },
+      {
+        "dishName": "Momos (Dumplings)",
+        "description": "Tibetan-influenced dumpling filled with meat or vegetables, served with spicy sauce. Popular throughout Himalayas.",
+        "healthValue": "Light, easily digestible at altitude",
+        "whereToTry": "Local markets, roadside stalls",
+        "price": "₹100-150 per serving"
+      },
+      {
+        "dishName": "Bakerkhani (Sweet Bread)",
+        "description": "Traditional Kashmiri sweetbread infused with nuts and dried fruits. Dense, rich texture.",
+        "healthValue": "High-calorie, good for energy at altitude",
+        "whereToTry": "Bakeries, breakfast spreads",
+        "price": "₹50-100"
+      },
+      {
+        "dishName": "Fresh Kashmiri Trout",
+        "description": "Fresh river trout from Kashmir's pristine mountain streams. Grilled or curried.",
+        "healthValue": "Omega-3 rich, light protein, excellent quality",
+        "whereToTry": "Pahalgam (river-adjacent restaurants), premium restaurants",
+        "price": "₹400-800 per serving"
+      }
+    ],
+    "interestingFacts": [
+      "Dal Lake is the world's second largest freshwater lake in a city (after Lake Biwa in Japan). It's 18.5 km long and covers 23 square km.",
+      "Kashmiri houseboats originated in 18th century when Mughal rulers couldn't own land but allowed to live on water - leading to floating palaces on Dal Lake.",
+      "Shalimar Bagh's name translates to 'Abode of Love' - built by Emperor Jahangir for his wife Nur Jahan in 1619.",
+      "Nishat Bagh's 12 terraces represent the 12 zodiac signs - unique symbolic garden design in Kashmir.",
+      "Gulmarg's name means 'Meadow of Flowers' - the golf course here is the world's highest golf course (some claim).",
+      "The Gulmarg Gondola is Asia's highest aerial ropeway, reaching 3,971m elevation.",
+      "Sonamarg translates to 'Meadow of Gold' - the name refers to golden-colored alpine flowers and grasses in summer.",
+      "Thajiwas Glacier is one of Kashmir's most accessible glaciers - pony trek eliminates need for mountaineering experience.",
+      "Pahalgam's Lidder River is sacred to Hindu pilgrims - Chandanwari is starting point for annual Amarnath pilgrimage trek.",
+      "Kashmir is one of only two places in world where saffron is commercially cultivated (other is Iran). Kashmiri saffron is considered world's best quality.",
+      "Floating gardens (rad) on Dal Lake are unique ecosystem - vegetables, flowers grown on reed platforms.",
+      "Traditional Kashmiri shawls (pashmina) from Kashmir goat wool are extremely rare and expensive - 100% authentic shawls cost ₹50,000+.",
+      "The Shankaracharya Temple is among India's oldest temple structures - exact age debated, possibly 200+ years old.",
+      "Betaab Valley name means 'without worry' - references peace and tranquility of location."
+    ],
+    "transportationNotes": {
+      "roadConditions": "Generally good mountain highways May-October. Winding roads but well-maintained. Some gravel sections near valleys.",
+      "bestDrivingTimes": "Early morning starts recommended for all days - avoid afternoon traffic in Srinagar",
+      "fuelAvailability": "Regular petrol stations in major towns (Srinagar, Pahalgam). Limited fuel near remote areas - top up in cities.",
+      "emergencyServices": "Good hospitals in Srinagar (Shri Maharaja Hari Singh Hospital). Limited beyond city - carry basic medical supplies.",
+      "mobileNetwork": "Good coverage (Airtel, Jio) in major towns. Patchy in remote valleys. Keep offline maps downloaded.",
+      "roadSafety": "Mountain roads are safe but winding. Average speed 40-50 km/h on mountain sections. Journey times longer than expected due to terrain.",
+      "vehicleRecommendation": "SUV preferred for comfort on mountain roads. Sedan possible but less comfortable.",
+      "driverQualifications": "Certified Kashmiri drivers with 10+ years mountain driving experience. Familiar with altitude effects and local culture.",
+      "passportsCheck": "Carry passport for inner areas. Some military checkpoints exist (routine security checks)."
+    },
+    "importantNotes": [
+      "🔔 HOUSEBOAT EXPERIENCE: This itinerary includes authentic houseboat stays - must-have Kashmir experience. Expect rustic but charming wooden interiors.",
+      "🔔 PONY TREK: Thajiwas Glacier pony trek is moderate difficulty - suitable for most ages/fitness levels. Children (6+) can ride ponies.",
+      "🔔 GONDOLA SAFETY: Gulmarg Gondola operates in all weather but may close for 1-2 hours in high wind. Time spent at summit limited to 45 minutes due to altitude.",
+      "🔔 WATER SAFETY: All water for drinking is bottled. Houseboat water is safe for washing. Avoid drinking unboiled tap water.",
+      "🔔 ALTITUDE EFFECTS: Mild altitude effects normal above 3,000m. If severe symptoms develop (severe headache, vomiting), descent is immediate treatment.",
+      "🔔 SEASONAL WEATHER: Afternoon thunderstorms possible June-August. Not dangerous but reduce visibility. Early morning activities preferred.",
+      "🔔 PHYSICAL ACTIVITY: This is NOT a trekking itinerary. Mostly vehicle-based with light walking. Suitable for ages 5-80.",
+      "🔔 SHOPPING STRATEGY: Pashmina shawls from roadside vendors often fake. Buy from certified shops (more expensive but authentic).",
+      "🔔 PHOTOGRAPHY: Some military areas restrict photography (typically marked). Ask permission before photographing local people.",
+      "🔔 GUIDES OPTIONAL: Tour guides available for ₹500-1,000/day if additional cultural information desired."
+    ],
+    "customizationOptions": [
+      {
+        "option": "Extend Houseboat Stay",
+        "description": "Add 1-2 extra nights on Dal Lake houseboat instead of hotel",
+        "additionalCost": "₹4,000-8,000 per night (houseboat accommodation + meals)"
+      },
+      {
+        "option": "Add Luxury Hotel Nights",
+        "description": "Upgrade from standard hotels to luxury 4-star accommodations",
+        "additionalCost": "₹5,000-10,000 per night additional"
+      },
+      {
+        "option": "Rafting on Beas River",
+        "description": "Add white-water rafting experience (Grade II-III rapids)",
+        "additionalCost": "₹1,500-3,000 per person"
+      },
+      {
+        "option": "Photography Tour Guide",
+        "description": "Hire professional photography guide for composition tips and location scouting",
+        "additionalCost": "₹1,000-2,000 per day"
+      },
+      {
+        "option": "Private Vehicle Upgrade",
+        "description": "Switch from shared vehicle to private SUV for entire package",
+        "additionalCost": "₹8,000-15,000 additional"
+      },
+      {
+        "option": "Winter Skiing Package",
+        "description": "Visit Gulmarg December-February for skiing and snow activities instead of summer activities",
+        "additionalCost": "Skiing lessons ₹2,000-4,000, equipment rental ₹500-1,000 per day"
+      },
+      {
+        "option": "Culinary Kashmiri Cooking Class",
+        "description": "Learn to prepare traditional Kashmiri wazwan dishes with local chef",
+        "additionalCost": "₹2,000-3,500 for 2-3 hour class"
+      },
+      {
+        "option": "Extended 7D/6N Package",
+        "description": "Add Day 6 exploring Dachigam National Park or Aharbal Valley waterfalls",
+        "additionalCost": "₹6,000-10,000 additional"
+      }
+    ],
+    "tour_type": "bike",
+    "cardImage": "bike_itinerary_images/6D_kashmir_srinagar.jpg",
+    "pricePerPerson": {
+      "standard": "₹23,000",
+      "deluxe": "₹28,000",
+      "premium": "₹32,000"
+    }
+  }
+}

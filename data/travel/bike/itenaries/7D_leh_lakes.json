@@ -1,0 +1,205 @@
+{
+  "itinerary": {
+    "id": "7D_leh_lakes",
+    "title": "Alpine Lakes & Dark Skies: Morari Meets Hanle",
+    "state": [
+      "Ladakh"
+    ],
+    "packageDuration": "7D/6N",
+    "totalDistance": "950 km",
+    "description": "Experience the most diverse adventure Ladakh has to offer on this 7-day journey. From the world's highest motorable road at Khardung La to the culturally rich Balti village of Turtuk near the Line of Control, the mesmerizing blue waters of Pangong Lake, and the remote high-altitude village of Hanle with India's first dark-sky reserve and astronomical observatory. This itinerary combines high-altitude passes, ancient monasteries, pristine lakes, unique cultural encounters, and stargazing opportunities in one unforgettable trip.",
+    "highlights": [
+      "Khardung La pass (5,602m) - world's highest motorable road",
+      "Turtuk village - India's northernmost Balti village near Line of Control with rich cultural heritage",
+      "Diskit Monastery and 32m Maitreya Buddha statue overlooking Nubra Valley",
+      "Hunder sand dunes - ATV ride through stunning cold desert terrain",
+      "Pangong Lake (4,250m) - pristine blue waters of the world's highest saltwater lake",
+      "Hanle village (4,500m) - ancient monastery and India's first dark-sky reserve",
+      "Indian Astronomical Observatory - one of the world's highest optical telescope sites",
+      "Chumathang hot springs - therapeutic mineral-rich thermal waters",
+      "Sham Valley - Sangam, Magnetic Hill, Gurudwara Pathar Sahib, SECMOL (3 Idiots location)"
+    ],
+    "overviewSections": [
+      {
+        "title": "Day 1: Arrival in Leh | Leisure Time",
+        "dayNumbers": [
+          1
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Welcome to Leh! Upon arrival at the airport, get transferred to your hotel and complete check-in. Spend your day at leisure to acclimatize to the high altitude. Visit the magnificent Leh Palace, a 17th-century royal residence offering stunning panoramic views of the city and surrounding Himalayan peaks. Alternatively, head to Shanti Stupa, a serene white-domed Buddhist stupa for breathtaking vistas of Leh and the majestic mountains. Explore the vibrant Leh Market, where you can browse authentic Tibetan handicrafts, traditional souvenirs, and enjoy local cafes. Return to your hotel in the evening for rest and acclimatization."
+      },
+      {
+        "title": "Day 2: Sham Valley Day Tour | The Mysterious Paths of Ladakh",
+        "dayNumbers": [
+          2
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Begin your Sham Valley adventure with a scenic drive to Sangam, where the mystical Zanskar and Indus rivers meet. Experience the famous Magnetic Hill phenomenon, where vehicles appear to move uphill on their own due to the unique optical illusion created by the landscape. Visit the sacred Gurudwara Pathar Sahib, a stunning white-marble Sikh shrine set against rocky cliffs. Explore the SECMOL campus, the actual filming location from the blockbuster movie '3 Idiots'. Conclude your day at the Hall of Fame War Memorial, honoring Indian soldiers. For adventure enthusiasts, enjoy optional thrilling White Water Rafting at Sangam before returning to your hotel for an overnight stay."
+      },
+      {
+        "title": "Day 3: Transfer from Leh to Turtuk and Turtuk to Hunder via Nubra and Khardung La Pass ",
+        "dayNumbers": [
+          3
+        ],
+        "tourType": "Scenic tour",
+        "shortDescription": "Experience the legendary Khardung La Pass (5,602m), the world's highest motorable road, and descend into the pristine Nubra Valley through spectacular high-altitude scenery. Visit the ancient Diskit Monastery with its magnificent 32-meter golden Maitreya Buddha statue overlooking the valley, then engage in thrilling ATV adventures through the stunning Hunder Sand Dunes. Experience this scenic route that showcases the raw beauty of Ladakh's high-altitude landscape and unique cold-desert terrain."
+      },
+      {
+        "title": "Day 4: Transfer from Hunder to Pangong | Via Namshang La Pass",
+        "dayNumbers": [
+          4
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Explore the charming lanes of Turtuk, India's northernmost Balti village near the Line of Control, with unique cultural heritage shaped by Silk Route history and distinctive Balti traditions. Visit the fascinating Turtuk Royal House heritage museum and walk through fragrant apricot orchards while enjoying breathtaking views of the snow-capped Karakoram Range. Experience authentic Balti hospitality and cuisine in this remarkable border settlement before returning to Hunder in the evening."
+      },
+      {
+        "title": "Day 5: Transfer from Pangong to Hanle | XXX from AI",
+        "dayNumbers": [
+          5
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Embark on one of Ladakh's most remote journeys across the legendary Namshang La Pass (5,170m) through the pristine Changthang plateau towards Pangong Lake. This challenging high-altitude route traverses the Changthang Wildlife Sanctuary where you may spot rare Tibetan wild ass (kiang) and Himalayan marmots in their natural habitat. Arrive at Pangong Lake (4,250m), one of the world's highest saltwater lakes with mesmerizing turquoise waters stretching 134 km across the India-China border."
+      },
+      {
+        "title": "Day 6: Transfer from Hanle to Leh | XXX from AI",
+        "dayNumbers": [
+          6
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Journey from Pangong Lake to the remote high-altitude village of Hanle (4,500m), one of the world's highest inhabited settlements situated in extreme altitude conditions. Visit the ancient 17th-century Hanle Monastery perched on a hilltop overlooking the vast plateau and belonging to the Drukpa Kagyu school of Tibetan Buddhism. Experience the extraordinary stargazing opportunities at India's first dark-sky reserve located near the Indian Astronomical Observatory, one of the world's highest optical telescope sites."
+      },
+      {
+        "title": "Day 7: Deaprture Day | Return Journey",
+        "dayNumbers": [
+          7
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Begin your return journey from the remote Hanle village towards Leh through the stunning Changthang region with therapeutic stops at Chumathang hot springs along the Indus River banks. Pass through Nyoma village to experience authentic Changpa nomadic culture in this gateway between eastern Ladakh and the Indus Valley. Explore culturally rich monasteries including the Druk Padma Karpo School (3 Idiots filming location) and the magnificent 12-story Thiksey Monastery perched majestically on a hilltop overlooking the Indus Valley."
+      }
+    ],
+    "detailedItinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Leh | Leisure Time",
+        "route": "Leh Airport - Hotel",
+        "overnight": "Leh",
+        "description": "Welcome to Leh! Upon arrival at the airport, get transferred to your hotel and complete check-in. Spend your day at leisure to acclimatize to the high altitude. Visit the magnificent Leh Palace, a 17th-century royal residence that offers stunning panoramic views of the city and surrounding Himalayan peaks. Alternatively, head to Shanti Stupa, a serene white-domed Buddhist stupa for breathtaking vistas of Leh and the majestic mountains. Explore the vibrant Leh Market, where you can browse authentic Tibetan handicrafts, traditional souvenirs, and enjoy local cafes. Return to your hotel in the evening for rest and acclimatization.",
+        "activities": [
+          "Airport transfer to hotel",
+          "Acclimatization and rest",
+          "Visit Leh Palace (optional)",
+          "Visit Shanti Stupa (optional)",
+          "Explore Leh Market (optional)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Sham Valley Day Tour | The Mysterious Paths of Ladakh",
+        "route": "Leh - Sangam - Magnetic Hill - Gurudwara Pathar Sahib - SECMOL - Hall of Fame - Leh",
+        "overnight": "Leh",
+        "description": "Begin your Sham Valley adventure with a scenic drive to Sangam, where the mystical Zanskar and Indus rivers meet. Experience the famous Magnetic Hill phenomenon, where vehicles appear to move uphill on their own due to the unique optical illusion created by the landscape. Visit the sacred Gurudwara Pathar Sahib, a stunning white-marble Sikh shrine set against rocky cliffs. Explore the SECMOL campus, the actual filming location from the blockbuster movie '3 Idiots'. Conclude your day at the Hall of Fame War Memorial, honoring Indian soldiers. For adventure enthusiasts, enjoy optional thrilling White Water Rafting at Sangam before returning to your hotel for an overnight stay.",
+        "activities": [
+          "Visit Sangam (confluence of Zanskar & Indus)",
+          "Experience Magnetic Hill phenomenon",
+          "Visit Gurudwara Pathar Sahib",
+          "Explore SECMOL campus (3 Idiots location)",
+          "Visit Hall of Fame War Memorial",
+          "Optional White Water Rafting"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Transfer from Leh to Turtuk via Khardung La Pass | Gateway to Silk Route and Balti Heritage",
+        "route": "Leh - Khardung La - Diskit - Hunder - Turtuk",
+        "overnight": "Turtuk",
+        "description": "After checkout, embark on an epic journey towards the northernmost reaches of India through the legendary Khardung La Pass (5,602m), the world's highest motorable road. Stop at the iconic Rinchen Cafe situated near the pass to enjoy steaming hot maggi with unparalleled mountain views. Descend into the stunning Nubra Valley and visit the ancient Diskit Monastery, home to the magnificent 32-meter tall golden statue of Maitreya Buddha overlooking the valley. Experience the surreal landscape of Hunder Sand Dunes with the option to enjoy an adventurous ATV ride (extra cost) through the striking cold desert terrain. Continue your journey northward along the scenic Shyok River to reach Turtuk, India's northernmost Balti village situated near the Line of Control. This remarkable village was under Pakistani control until 1971 and retains its unique Balti culture, language, and traditions. Explore the charming village lanes, visit the Turtuk Royal House heritage museum, walk through fragrant apricot orchards, and enjoy stunning views of the Karakoram Range. Settle into your guesthouse for an overnight stay in this fascinating border village.",
+        "activities": [
+          "Cross Khardung La Pass (5,602m)",
+          "Stop at Rinchen Cafe for hot refreshments",
+          "Visit Diskit Monastery and 32m Maitreya Buddha statue",
+          "Explore Hunder Sand Dunes",
+          "Optional ATV ride in sand dunes",
+          "Scenic drive along Shyok River to Turtuk",
+          "Visit Turtuk Royal House and heritage museum",
+          "Walk through apricot orchards and village lanes",
+          "Experience authentic Balti culture and hospitality",
+          "Enjoy Karakoram Range views"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Transfer from Turtuk to Pangong Tso | Camping at the Pangong Lake",
+        "route": "Turtuk - Hunder - Shyok Valley - Tangtse - Pangong Lake",
+        "overnight": "Pangong Lake (Camp)",
+        "description": "Begin your day with an early morning walk through the charming lanes of Turtuk, soaking in the last views of this remarkable Balti village and the Karakoram peaks bathed in golden sunrise light. After breakfast, bid farewell to Turtuk and drive back along the Shyok River to Hunder. From Hunder, continue along the spectacular Shyok Valley route towards Pangong Lake. The drive offers breathtaking views of dramatic Ladakh peaks, deep river gorges, and pristine mountain terrain. Pass through the small settlement of Tangtse, the last village before Pangong. Upon arrival at Pangong Lake (4,250m), one of the world's highest saltwater lakes stretching 134 km across India and China, settle into your lakeside campsite. Take a leisurely stroll along the pristine shores and witness the mesmerizing, ever-changing hues of the crystalline blue waters reflecting the majestic snow-capped Himalayas. Experience the magical sunset painting the lake in shades of gold, orange, and deep blue.",
+        "activities": [
+          "Early morning walk through Turtuk village",
+          "Sunrise views over Karakoram Range",
+          "Drive back along Shyok River to Hunder",
+          "Scenic drive through Shyok Valley",
+          "Pass through Tangtse village",
+          "Reach Pangong Lake (4,250m)",
+          "Check into lakeside campsite",
+          "Walk along pristine lake shore",
+          "Watch magical sunset over turquoise waters",
+          "Photography of mountain reflections in the lake"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Transfer from Pangong Tso to Hanle | Via Namshang La Pass",
+        "route": "Pangong Lake - Namshang La - Hanle",
+        "overnight": "Hanle (Guesthouse)",
+        "description": "Check-out from your campsite at Pangong Lake and embark on a scenic high-altitude mountain journey towards Hanle, one of the world's highest inhabited villages at approximately 4,500m. The drive takes you through some of the most remote and untouched landscapes in all of Ladakh. Cross the spectacular Namshang La Pass, offering breathtaking panoramic views of the vast Changthang plateau stretching endlessly in every direction. The route passes through pristine alpine terrain where you may spot Tibetan wild ass (kiang), marmots, and other high-altitude wildlife in the Changthang Wildlife Sanctuary. Arrive at Hanle, a place steeped in history and spirituality. Visit the ancient 17th-century Hanle Monastery, built under the patronage of Ladakhi King Sengge Namgyal and belonging to the Drukpa Kagyu school of Tibetan Buddhism. The monastery is perched majestically on a hilltop overlooking the village and the vast plateau. In the evening, experience the extraordinary stargazing opportunities at India's first dark-sky reserve, located near the Indian Astronomical Observatory, one of the world's highest optical telescope sites at 4,500m. Settle into your guesthouse surrounded by stunning high-altitude scenery.",
+        "activities": [
+          "Cross Namshang La Pass",
+          "Panoramic views of Changthang plateau",
+          "Spot high-altitude wildlife (kiang, marmots)",
+          "Arrive at Hanle village (4,500m)",
+          "Visit 17th-century Hanle Monastery",
+          "Explore Drukpa Kagyu Buddhist heritage",
+          "View Indian Astronomical Observatory",
+          "Stargazing at India's first dark-sky reserve",
+          "Experience remote high-altitude village life"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Transfer from Hanle to Leh | Via Chumathang Hot Springs and Thiksey Monastery",
+        "route": "Hanle - Nyoma - Chumathang Hot Springs - Thiksey - Leh",
+        "overnight": "Leh",
+        "description": "Check-out from Hanle and begin your scenic return journey towards Leh through stunning high-altitude terrain with panoramic Himalayan views on all sides. The drive takes you through the remote and beautiful Changthang region. Pass through Nyoma village, a small settlement that serves as a gateway between the remote eastern Ladakh and the Indus Valley, where you can experience authentic Changpa nomadic culture. Visit the therapeutic Chumathang hot springs (also known as Yurutse), situated along the banks of the Indus River and known for their mineral-rich thermal waters with reputed healing properties. Take a relaxing dip in the natural hot pools surrounded by barren mountain landscapes. Continue the drive along the Indus River valley towards Leh. Stop by the Druk Padma Karpo School, the actual filming location from the blockbuster movie '3 Idiots'. Afterwards, explore Thiksey Monastery, a magnificent 12-story complex perched majestically on a hilltop overlooking the Indus Valley, housing numerous stupas, statues, and thangkas depicting Buddhist art and philosophy. Upon arrival in Leh in the evening, check into your hotel for an overnight stay.",
+        "activities": [
+          "Scenic drive through Changthang region",
+          "Pass through Nyoma village",
+          "Visit Chumathang hot springs (Yurutse)",
+          "Optional therapeutic dip in mineral hot springs",
+          "Drive along Indus River valley",
+          "Visit Druk Padma Karpo School (3 Idiots location)",
+          "Explore Thiksey Monastery",
+          "Learn about Buddhist art and heritage",
+          "Return to Leh in evening"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Departure from Leh",
+        "route": "Leh Hotel - Leh Airport",
+        "overnight": "",
+        "description": "In the morning, check-out from your hotel and get transferred to Leh Airport. With one last look of the towering peaks and a heart full of unforgettable memories, bid farewell to Ladakh. Board your flight home, carrying with you the incredible experiences of Turtuk's warm Balti hospitality, Nubra Valley's cold desert landscapes, the pristine waters of Pangong Lake, the starlit skies of Hanle, therapeutic Chumathang hot springs, and the rich Buddhist heritage of Ladakh's monasteries. This marks the end of your 7-day Ultimate Ladakh Turtuk and Hanle adventure.",
+        "activities": [
+          "Hotel check-out",
+          "Transfer to Leh Airport",
+          "Departure flight"
+        ]
+      }
+    ],
+    "tour_type": "bike",
+    "cardImage": "bike_itinerary_images/7D_leh_lakes.jpg",
+    "pricePerPerson": {
+      "standard": "₹24,000",
+      "deluxe": "₹28,000",
+      "premium": "₹32,000"
+    }
+  }
+}

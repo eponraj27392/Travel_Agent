@@ -206,7 +206,12 @@
         ]
       }
     ],
-    "tour_type": "car",
-    "cardImage": "data_source/images/itinerary_images/8D_manali_leh_ultimate_ladakh_triangle.jpg"
+    "tour_type": "bike",
+    "cardImage": "bike_itinerary_images/8D_manali_leh.jpg",
+    "pricePerPerson": {
+      "standard": "₹32,000",
+      "deluxe": "₹34,500",
+      "premium": "₹38,000"
+    }
   }
 }

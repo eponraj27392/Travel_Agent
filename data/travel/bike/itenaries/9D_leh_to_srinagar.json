@@ -1,0 +1,252 @@
+{
+  "itinerary": {
+    "id": "9D_leh_to_srinagar",
+    "title": "Leh to Srinagar - Ultimate Ladakh Triangle with Nubra, Pangong & Kashmir",
+    "state": [
+      "Ladakh",
+      "Jammu & Kashmir"
+    ],
+    "packageDuration": "9D/8N",
+    "totalDistance": "1,000 km",
+    "description": "This grand 9-day journey connects Ladakh's high-altitude wonders with the paradise of Kashmir. Explore Sham Valley's magnetic mysteries, cross Khardung La to the cold deserts of Nubra, and camp beside the mesmerizing Pangong Lake. Return via Chang La Pass and then drive the legendary Leh-Srinagar Highway through ancient monasteries at Lamayuru and Alchi, past the 9-meter Mulbek Maitreya Buddha, over Fotu La and Namika La passes to Kargil. Continue through the historic Drass sector and Zoji La Pass to the golden meadows of Sonamarg, before arriving in Srinagar for Dal Lake's Shikara rides, Mughal Gardens, and Kashmiri hospitality. A complete cross-region adventure spanning desert valleys, alpine lakes, ancient monasteries, war memorials, and the lush beauty of Kashmir.",
+    "highlights": [
+      "Khardung La Pass (5,602m) - world's highest motorable road",
+      "Nubra Valley - 'Valley of Flowers' with Diskit Monastery and 32m Maitreya Buddha statue",
+      "Hunder Sand Dunes - ATV ride through stunning cold desert terrain",
+      "Pangong Lake - pristine blue waters at 4,250m, world's highest saltwater lake",
+      "Chang La Pass (5,360m) - scenic high altitude pass with Chang La Baba Temple",
+      "Lamayuru Monastery - oldest monastery in Ladakh set in surreal 'Moonland' landscape",
+      "Mulbek Chamba - 9-meter rock-carved Maitreya Buddha dating to Kushan period",
+      "Fotu La (4,108m) & Namika La (3,720m) - twin high passes on Leh-Srinagar Highway",
+      "Kargil War Memorial at Drass - tribute to 1999 war heroes near world's second coldest inhabited place",
+      "Zoji La Pass (3,528m) - dramatic gateway between Ladakh and Kashmir",
+      "Sonamarg - 'Meadow of Gold' with Thajiwas Glacier views",
+      "Dal Lake - serene alpine freshwater lake with Shikara ride and floating gardens",
+      "Shalimar Bagh & Nishat Bagh - magnificent Mughal-era gardens overlooking Dal Lake",
+      "Sham Valley - Sangam, Magnetic Hill, Gurudwara Pathar Sahib, SECMOL (3 Idiots location)"
+    ],
+    "overviewSections": [
+      {
+        "title": "Day 1: Arrival in Leh | Leisure Time",
+        "dayNumbers": [
+          1
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Welcome to Leh! Upon arrival at the airport, get transferred to your hotel and complete check-in. Spend your day at leisure to acclimatize to the high altitude. Visit the magnificent Leh Palace, a 17th-century royal residence that offers stunning panoramic views of the city and surrounding Himalayan peaks. Alternatively, head to Shanti Stupa, a serene white-domed Buddhist stupa for breathtaking vistas of Leh and the majestic mountains. Explore the vibrant Leh Market, where you can browse authentic Tibetan handicrafts, traditional souvenirs, and enjoy local cafes. Return to your hotel in the evening for rest and acclimatization."
+      },
+      {
+        "title": "Day 2: Sham Valley Day Tour | The Mysterious Paths of Ladakh",
+        "dayNumbers": [
+          2
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Begin your Sham Valley adventure with a scenic drive to Sangam, where the mystical Zanskar and Indus rivers meet. Experience the famous Magnetic Hill phenomenon, where vehicles appear to move uphill on their own due to the unique optical illusion created by the landscape. Visit the sacred Gurudwara Pathar Sahib, a stunning white-marble Sikh shrine set against rocky cliffs. Explore the SECMOL campus, the actual filming location from the blockbuster movie '3 Idiots'. Conclude your day at the Hall of Fame War Memorial, honoring Indian soldiers. For adventure enthusiasts, enjoy optional thrilling White Water Rafting at Sangam before returning to your hotel for an overnight stay."
+      },
+      {
+        "title": "Day 3: Transfer from Leh to Nubra Valley via Khardung La Pass | Gateway to Silk Route",
+        "dayNumbers": [
+          3
+        ],
+        "tourType": "Scenic tour",
+        "shortDescription": "After checkout, embark on a spectacular journey towards the cold deserts of Nubra Valley through the legendary Khardung La Pass (5,602m), the world's highest motorable road. Stop at the iconic Rinchen Cafe to enjoy steaming hot maggi with unparalleled mountain views. Visit the ancient Diskit Monastery, home to the magnificent 32-meter tall golden statue of Maitreya Buddha overlooking the valley. Experience the unique landscape of Hunder Sand Dunes with the option to enjoy an adventurous ATV ride (extra cost) through the striking desert terrain. Arrive at your campsite in Nubra Valley surrounded by breathtaking mountain scenery for an overnight stay."
+      },
+      {
+        "title": "Day 4: Transfer from Nubra Valley to Pangong Tso | Camping at the Pangong Lake",
+        "dayNumbers": [
+          4
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Check-out from your Nubra campsite and begin your scenic journey towards the world-famous Pangong Tso (Pangong Lake). The drive offers spectacular views of dramatic Ladakh peaks and pristine mountain terrain. Pass through charming Shyok Village nestled along the banks of the Shyok River, experiencing local culture and mountain hospitality. Upon arrival at Pangong Lake (4,250m), one of the world's highest saltwater lakes, settle into your lakeside campsite. Take a leisurely stroll along the pristine shores and witness the mesmerizing, ever-changing hues of the crystalline blue waters reflecting the majestic snow-capped Himalayas. Experience the tranquility and natural beauty of this iconic destination."
+      },
+      {
+        "title": "Day 5: Pangong Tso to Leh via Chang La Pass | Driving Through the Majestic Chang La Pass",
+        "dayNumbers": [
+          5
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Check-out from your campsite at Pangong Tso and begin your scenic return journey towards Leh. Cross the stunning Chang La Pass (5,360m), one of Ladakh's most spectacular high altitude passes, offering breathtaking panoramic views of towering peaks and pristine mountain terrain. Take a moment to enjoy the peace and spiritual solace at Chang La Baba Temple. Stop by the Druk Padma Karpo School, known for being the filming location from the blockbuster movie '3 Idiots'. Afterwards, explore Thiksey Monastery, perched majestically on a hilltop overlooking the Indus Valley, to learn about the cultural heritage of Buddhism in Ladakh. Upon arrival in Leh in the evening, check into your hotel for an overnight stay."
+      },
+      {
+        "title": "Day 6: Transfer from Leh to Kargil | Basgo Castle, Lamayuru Moonland & Mulbek Chamba",
+        "dayNumbers": [
+          6
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Embark on a spectacular drive along the legendary Leh-Srinagar Highway towards Kargil. Stop at the ancient Basgo Castle, a 15th-century fortress with remarkable Buddhist murals and commanding hilltop views. Continue to Alchi Monastery, home to some of the finest 10th-century Indo-Tibetan Buddhist art. Drive through the surreal 'Moonland' landscape near Lamayuru, one of the oldest and most dramatic monasteries in Ladakh, perched on eroded lunar-like terrain. Cross the Fotu La Pass (4,108m), the highest point on the Leh-Srinagar Highway, and the atmospheric Namika La Pass (3,720m). Pause at the iconic Mulbek Chamba, a 9-meter Maitreya Buddha carved into the cliff face dating back to the Kushan period. Arrive in Kargil by evening for an overnight stay."
+      },
+      {
+        "title": "Day 7: Transfer from Kargil to Srinagar | Drass War Memorial, Zoji La Pass & Sonamarg",
+        "dayNumbers": [
+          7
+        ],
+        "tourType": "ROAD tour",
+        "shortDescription": "Depart Kargil for the scenic drive to Srinagar along the historic Leh-Srinagar Highway. Pass through Drass, the second coldest inhabited place on Earth, and pay tribute at the Kargil War Memorial honoring the heroes of the 1999 conflict. Navigate the dramatic Zoji La Pass (3,528m), a narrow mountain pass that serves as the gateway between the arid landscapes of Ladakh and the lush green valleys of Kashmir. Stop at Sonamarg, the 'Meadow of Gold', where alpine meadows, glacial streams, and views of the Thajiwas Glacier create a stunning landscape. Continue through the pine-clad valleys of Kashmir before arriving in Srinagar. Check into your hotel or houseboat on Dal Lake for an overnight stay."
+      },
+      {
+        "title": "Day 8: Srinagar Heritage & Dal Lake | Mughal Gardens, Shikara Ride & Shankaracharya Temple",
+        "dayNumbers": [
+          8
+        ],
+        "tourType": "city + lake tour + cultural experience",
+        "shortDescription": "Full-day exploration of Srinagar's iconic treasures. Begin with a serene Shikara ride on Dal Lake, gliding past floating gardens, lotus blooms, and mirror-like reflections of the Zabarwan mountains. Visit the magnificent Mughal Gardens: Shalimar Bagh (16th-century, 12-hectare garden of love with cascading fountains), Nishat Bagh (9-hectare terraced garden with 12 levels symbolizing the zodiac signs), and Chashme Shahi (royal spring). Ascend to the Shankaracharya Temple perched on a hilltop for panoramic views of the city, Dal Lake, and the surrounding valley. Explore the charming old city lanes and local markets for pashmina shawls, walnut wood crafts, and saffron. Return to hotel for an overnight stay."
+      },
+      {
+        "title": "Day 9: Departure from Srinagar",
+        "dayNumbers": [
+          9
+        ],
+        "tourType": "departure",
+        "shortDescription": "In the morning, enjoy a final leisurely breakfast with views of Dal Lake and the surrounding mountains. Check-out from your hotel and get transferred to Sheikh ul-Alam International Airport. With a heart full of memories spanning Ladakh's high-altitude deserts, pristine lakes, ancient monasteries, and Kashmir's lush paradise, bid farewell to this incredible journey. Board your flight home, carrying with you the unforgettable experiences of the Nubra Valley, the mesmerizing Pangong Lake, the sacred monasteries along the Leh-Srinagar Highway, the heroic Kargil War Memorial, and the timeless beauty of Dal Lake and Srinagar's Mughal Gardens."
+      }
+    ],
+    "detailedItinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Leh | Leisure Time",
+        "route": "Leh Airport - Hotel",
+        "overnight": "Leh",
+        "description": "Welcome to Leh! Upon arrival at the airport, get transferred to your hotel and complete check-in. Spend your day at leisure to acclimatize to the high altitude. Visit the magnificent Leh Palace, a 17th-century royal residence that offers stunning panoramic views of the city and surrounding Himalayan peaks. Alternatively, head to Shanti Stupa, a serene white-domed Buddhist stupa for breathtaking vistas of Leh and the majestic mountains. Explore the vibrant Leh Market, where you can browse authentic Tibetan handicrafts, traditional souvenirs, and enjoy local cafes. Return to your hotel in the evening for rest and acclimatization.",
+        "activities": [
+          "Airport transfer to hotel",
+          "Acclimatization and rest",
+          "Visit Leh Palace (optional)",
+          "Visit Shanti Stupa (optional)",
+          "Explore Leh Market (optional)"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Sham Valley Day Tour | The Mysterious Paths of Ladakh",
+        "route": "Leh - Sangam - Magnetic Hill - Gurudwara Pathar Sahib - SECMOL - Hall of Fame - Leh",
+        "overnight": "Leh",
+        "description": "Begin your Sham Valley adventure with a scenic drive to Sangam, where the mystical Zanskar and Indus rivers meet. Experience the famous Magnetic Hill phenomenon, where vehicles appear to move uphill on their own due to the unique optical illusion created by the landscape. Visit the sacred Gurudwara Pathar Sahib, a stunning white-marble Sikh shrine set against rocky cliffs. Explore the SECMOL campus, the actual filming location from the blockbuster movie '3 Idiots'. Conclude your day at the Hall of Fame War Memorial, honoring Indian soldiers. For adventure enthusiasts, enjoy optional thrilling White Water Rafting at Sangam before returning to your hotel for an overnight stay.",
+        "activities": [
+          "Visit Sangam (confluence of Zanskar & Indus)",
+          "Experience Magnetic Hill phenomenon",
+          "Visit Gurudwara Pathar Sahib",
+          "Explore SECMOL campus (3 Idiots location)",
+          "Visit Hall of Fame War Memorial",
+          "Optional White Water Rafting"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Transfer from Leh to Nubra Valley via Khardung La Pass | Gateway to Silk Route",
+        "route": "Leh - Khardung La - Diskit - Hunder",
+        "overnight": "Nubra Valley",
+        "description": "After checkout, embark on a spectacular journey towards the cold deserts of Nubra Valley through the legendary Khardung La Pass (5,602m), the world's highest motorable road. Stop at the iconic Rinchen Cafe to enjoy steaming hot maggi with unparalleled mountain views. Visit the ancient Diskit Monastery, home to the magnificent 32-meter tall golden statue of Maitreya Buddha overlooking the valley. Experience the unique landscape of Hunder Sand Dunes with the option to enjoy an adventurous ATV ride (extra cost) through the striking desert terrain. Arrive at your campsite in Nubra Valley surrounded by breathtaking mountain scenery for an overnight stay.",
+        "activities": [
+          "Cross Khardung La Pass (5,602m)",
+          "Stop at Rinchen Cafe",
+          "Visit Diskit Monastery",
+          "See giant Maitreya Buddha statue",
+          "Explore Hunder Sand Dunes",
+          "Optional ATV ride"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Transfer from Nubra Valley to Pangong Tso | Camping at the Pangong Lake",
+        "route": "Hunder - Shyok - Tangtse - Pangong Lake",
+        "overnight": "Pangong Lake",
+        "description": "Check-out from your Nubra campsite and begin your scenic journey towards the world-famous Pangong Tso (Pangong Lake). The drive offers spectacular views of dramatic Ladakh peaks and pristine mountain terrain. Pass through charming Shyok Village nestled along the banks of the Shyok River, experiencing local culture and mountain hospitality. Upon arrival at Pangong Lake (4,250m), one of the world's highest saltwater lakes, settle into your lakeside campsite. Take a leisurely stroll along the pristine shores and witness the mesmerizing, ever-changing hues of the crystalline blue waters reflecting the majestic snow-capped Himalayas. Experience the tranquility and natural beauty of this iconic destination.",
+        "activities": [
+          "Scenic drive along Shyok river",
+          "Stop at Shyok Village",
+          "Reach Pangong Lake (4,250m)",
+          "Walk along the lake shore",
+          "Watch sunset over turquoise waters"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Pangong Tso to Leh via Chang La Pass | Driving Through the Majestic Chang La Pass",
+        "route": "Pangong Lake - Chang La - Druk Padma Karpo School - Thiksey - Leh",
+        "overnight": "Leh",
+        "description": "Check-out from your campsite at Pangong Tso and begin your scenic return journey towards Leh. Cross the stunning Chang La Pass (5,360m), one of Ladakh's most spectacular high altitude passes, offering breathtaking panoramic views of towering peaks and pristine mountain terrain. Take a moment to enjoy the peace and spiritual solace at Chang La Baba Temple, a small shrine maintained by the Indian Army honoring a holy man believed to protect travelers crossing the pass. Stop by the Druk Padma Karpo School, known for being the filming location from the blockbuster movie '3 Idiots'. Afterwards, explore Thiksey Monastery, perched majestically on a hilltop overlooking the Indus Valley, housing a stunning 15-meter tall Maitreya Buddha statue and offering panoramic views of the entire valley. Upon arrival in Leh in the evening, check into your hotel for an overnight stay and rest before tomorrow's journey westward.",
+        "activities": [
+          "Cross Chang La Pass (5,360m)",
+          "Visit Chang La Baba Temple",
+          "Visit Druk Padma Karpo School (3 Idiots filming location)",
+          "Explore Thiksey Monastery and 15m Maitreya Buddha",
+          "Return to Leh for overnight stay"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Transfer from Leh to Kargil | Basgo Castle, Lamayuru Moonland & Mulbek Chamba",
+        "route": "Leh - Basgo - Likir - Alchi - Lamayuru - Fotu La - Namika La - Mulbek - Kargil",
+        "overnight": "Kargil",
+        "description": "Today begins the spectacular westward journey along the legendary Leh-Srinagar Highway towards Kargil, covering approximately 210 km through some of Ladakh's most remarkable cultural and geological landscapes. Your first stop is Basgo Castle, a 15th-century fortress perched dramatically on eroded clay hills, once the capital of Lower Ladakh and home to remarkable Buddhist murals of Maitreya within its two ancient temples. Continue past Likir Monastery with its towering golden Buddha statue before reaching Alchi Monastery, a rare 10th-century complex featuring some of the finest surviving examples of Indo-Tibetan Buddhist art, with its uniquely ground-level temples (unlike most hilltop monasteries). Drive through the surreal 'Moonland' landscape near Lamayuru, where deeply eroded terrain resembles a lunar surface, and visit Lamayuru Monastery (Yungdrung), considered the oldest monastery in Ladakh, founded in the 10th century by the great translator Rinchen Zangpo. Cross Fotu La Pass (4,108m), the highest point on the entire Leh-Srinagar Highway, followed by Namika La Pass (3,720m), known as the 'Pillar of Strength'. Pause at the iconic Mulbek Chamba, a magnificent 9-meter tall Maitreya Buddha carved directly into the cliff face, dating back to the Kushan period (1st century BCE to 6th century CE) and predating the now-destroyed Buddhas of Bamiyan in Afghanistan. Nearby, find ancient rock inscriptions in Kharosthi script from King Bhum Ide (c. 1400 CE) ordering the abolition of animal sacrifice. Arrive in Kargil by evening, the second largest town in Ladakh, situated at the confluence of the Suru and Drass rivers at 2,676m.",
+        "activities": [
+          "Visit Basgo Castle (15th-century fortress with Buddhist murals)",
+          "See Likir Monastery and golden Buddha statue",
+          "Explore Alchi Monastery (10th-century Indo-Tibetan Buddhist art)",
+          "Drive through Moonland landscape near Lamayuru",
+          "Visit Lamayuru Monastery (oldest in Ladakh, founded 10th century)",
+          "Cross Fotu La Pass (4,108m) - highest point on Leh-Srinagar Highway",
+          "Cross Namika La Pass (3,720m) - 'Pillar of Strength'",
+          "See Mulbek Chamba (9m rock-carved Maitreya Buddha, Kushan period)",
+          "View ancient Kharosthi script rock inscriptions",
+          "Arrive in Kargil for overnight stay"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Transfer from Kargil to Srinagar | Drass War Memorial, Zoji La Pass & Sonamarg",
+        "route": "Kargil - Drass - Kargil War Memorial - Zoji La - Sonamarg - Srinagar",
+        "overnight": "Srinagar (Hotel / Houseboat on Dal Lake)",
+        "description": "Depart Kargil early morning for the historic and scenic 205 km drive to Srinagar. The journey begins with a drive to Drass, officially recognized as the second coldest inhabited place on Earth after Siberia, where winter temperatures plunge to minus 60 degrees Celsius. Pay a solemn tribute at the Kargil War Memorial (Vijaypath), a moving memorial honoring the brave Indian soldiers who laid down their lives during Operation Vijay in the 1999 Kargil War. The memorial features the Sandstone Wall with names of all 527 soldiers who made the supreme sacrifice, along with captured Pakistani weapons and equipment on display. Continue to the dramatic Zoji La Pass (3,528m), a narrow, winding mountain pass that serves as the natural gateway between the arid, barren landscapes of Ladakh and the lush, green valleys of Kashmir. The transformation in the landscape as you cross Zoji La is one of the most dramatic in all of India - from stark brown desert terrain to verdant pine forests and meadows within just a few kilometers. Stop at Sonamarg, meaning 'Meadow of Gold' in Kashmiri, a stunning alpine valley at 2,730m surrounded by snow-capped peaks, glacial streams, and vast flower-filled meadows. Enjoy views of the distant Thajiwas Glacier (optional short trek or pony ride available). Continue through pine-clad Kashmir valleys, passing through Gagangeer and Kangan before arriving in Srinagar. Check into your hotel or traditional houseboat on Dal Lake for an evening of relaxation and Kashmiri hospitality with kahwa (saffron tea).",
+        "activities": [
+          "Drive through Drass (second coldest inhabited place on Earth)",
+          "Visit Kargil War Memorial (Vijaypath) and Sandstone Wall of Heroes",
+          "Cross Zoji La Pass (3,528m) - gateway between Ladakh and Kashmir",
+          "Witness dramatic landscape transformation from arid desert to lush valleys",
+          "Stop at Sonamarg - 'Meadow of Gold' (2,730m)",
+          "Optional Thajiwas Glacier trek or pony ride",
+          "Drive through pine-clad Kashmir valleys",
+          "Arrive in Srinagar and check into hotel or Dal Lake houseboat",
+          "Evening kahwa (saffron tea) experience"
+        ]
+      },
+      {
+        "day": 8,
+        "title": "Srinagar Heritage & Dal Lake | Mughal Gardens, Shikara Ride & Shankaracharya Temple",
+        "route": "Hotel/Houseboat - Dal Lake - Shalimar Bagh - Nishat Bagh - Chashme Shahi - Shankaracharya Temple - Old City - Hotel",
+        "overnight": "Srinagar",
+        "description": "Dedicate your full day to exploring the timeless beauty and rich heritage of Srinagar, the summer capital of Jammu and Kashmir. Begin your morning with a serene Shikara ride on Dal Lake, gliding past floating gardens (known as 'rad'), lotus blooms (seasonal May-July), and clusters of houseboats reflecting the Zabarwan mountain range on the lake's calm surface. Visit the iconic Mughal Gardens, a collection of magnificent historic gardens built during the Mughal era: Shalimar Bagh (16th-century, 12-hectare 'Abode of Love' with cascading fountains, four terraces representing four elements, and stone pavilions built by Emperor Jahangir for Empress Nur Jahan); Nishat Bagh (9-hectare 'Garden of Bliss' with 12 terraced levels symbolizing the zodiac signs, ancient chinar trees over 250 years old, and panoramic Dal Lake views from the upper terraces); and Chashme Shahi (the smallest but most charming of the Mughal Gardens, built around a natural spring believed to have medicinal properties). Ascend to the Shankaracharya Temple, an ancient Hindu temple perched on a hilltop 1,100m above Srinagar, reached by climbing approximately 300 stone steps and offering breathtaking 360-degree panoramic views of Dal Lake, the city, and the surrounding valley. Spend the afternoon exploring Srinagar's charming old city with its network of narrow lanes, wooden-balconied houses, and local markets. Shop for authentic Kashmiri pashmina shawls, intricately carved walnut wood crafts, papier-mache art, and saffron from the world-famous Pampore saffron fields nearby. Return to your hotel for a final evening in this paradise. For travelers with extra time, optional day trips to Gulmarg (52 km, world's highest golf course and gondola ride) or Pahalgam (90 km, alpine meadows and Betaab Valley) can be arranged.",
+        "activities": [
+          "Shikara ride on Dal Lake with floating gardens and mountain reflections",
+          "Visit Shalimar Bagh (Mughal Garden - 16th century, 12 hectares)",
+          "Explore Nishat Bagh (12 terraced levels, 250-year-old chinar trees)",
+          "Visit Chashme Shahi (Mughal garden with natural medicinal spring)",
+          "Climb to Shankaracharya Temple (300 steps, panoramic 360-degree views)",
+          "Walk through Srinagar old city lanes and wooden-balconied houses",
+          "Shop for pashmina shawls, walnut wood crafts, saffron, and papier-mache",
+          "Optional: Day trip to Gulmarg (52 km) or Pahalgam (90 km)"
+        ]
+      },
+      {
+        "day": 9,
+        "title": "Departure from Srinagar",
+        "route": "Hotel/Houseboat - Sheikh ul-Alam International Airport",
+        "overnight": "",
+        "description": "In the morning, enjoy a final leisurely breakfast with views of Dal Lake and the surrounding mountains. Take a last stroll along the lake's edge or through the nearby gardens if time permits. Check-out from your hotel or houseboat and get transferred to Sheikh ul-Alam International Airport for your departure flight. With a heart full of memories spanning Ladakh's high-altitude deserts, pristine turquoise lakes, ancient Buddhist monasteries, and Kashmir's lush paradise, bid farewell to this incredible cross-region journey. From the world's highest motorable road at Khardung La to the serene Shikara rides on Dal Lake, from the lunar landscape of Lamayuru to the golden meadows of Sonamarg, from the towering Mulbek Chamba carved centuries ago to the heroic Kargil War Memorial - this 9-day adventure has woven together the very best of Ladakh and Kashmir into one unforgettable experience.",
+        "activities": [
+          "Leisurely breakfast with Dal Lake views",
+          "Optional morning stroll along the lake",
+          "Hotel/houseboat check-out",
+          "Transfer to Sheikh ul-Alam International Airport",
+          "Departure flight"
+        ]
+      }
+    ],
+    "tour_type": "bike",
+    "cardImage": "bike_itinerary_images/9D_leh_to_srinagar.jpg",
+    "pricePerPerson": {
+      "standard": "\u20b939,500",
+      "deluxe": "\u20b945,000",
+      "premium": "\u20b947,000"
+    }
+  }
+}

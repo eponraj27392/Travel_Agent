@@ -1,0 +1,447 @@
+{
+  "itinerary": {
+    "id": "4D_manali",
+    "state": [
+      "Himachal Pradesh"
+    ],
+    "title": "Manali & Rohtang Pass Adventure - Himalayan Gateway Experience",
+    "packageDuration": "4D/3N",
+    "totalDistance": "180-200 km",
+    "description": "Experience the stunning Manali valley with the iconic Rohtang Pass, combining adventure activities, cultural heritage, natural hot springs, and breathtaking Himalayan views. This package features the gateway to Ladakh, ancient temples, paragliding opportunities, and rejuvenating geothermal springs. Perfect for families, couples, and adventure enthusiasts seeking authentic mountain experiences.",
+    "highlights": [
+      "Hadimba Temple - 1553 ancient shrine with exquisite pagoda architecture and carved doorway",
+      "Rohtang Pass (13,050 ft) - world-famous mountain pass with panoramic Himalayan views",
+      "Solang Valley - adventure hub featuring paragliding, hang-gliding, and quad biking",
+      "Vashist Hot Springs - natural thermal springs with ancient temples dedicated to sage Vashisth",
+      "Manikaran Hot Springs - geothermal springs in scenic Kullu Valley with spiritual significance",
+      "Tibetan Monastery - Buddhist cultural heritage and mountain spirituality",
+      "Kullu Valley scenic drive - pristine river valleys and mountain photography",
+      "Club House & local markets - recreation and authentic Himachali shopping",
+      "Optional: Naggar Castle heritage, Kasol nature village, river rafting on Beas River"
+    ],
+    "overviewSections": [
+      {
+        "title": "Day 1: Arrival in Manali - Welcome to the Himalayas",
+        "dayNumbers": [
+          1
+        ],
+        "tourType": "arrival + acclimatization + city tour",
+        "shortDescription": "Overnight volvo bus from Delhi, explore Hadimba Temple, monasteries, hot springs with acclimatization emphasis"
+      },
+      {
+        "title": "Day 2: Rohtang Pass High-Altitude Adventure",
+        "dayNumbers": [
+          2
+        ],
+        "tourType": "high-altitude motorable tour + adventure",
+        "shortDescription": "Early morning drive to 13,050 ft Rohtang Pass with Solang Valley adventure options (weather dependent)"
+      },
+      {
+        "title": "Day 3: Kullu Valley & Manikaran Thermal Springs",
+        "dayNumbers": [
+          3
+        ],
+        "tourType": "scenic + wellness tour",
+        "shortDescription": "Explore Kullu Valley, Manikaran hot springs, local villages, cultural immersion"
+      },
+      {
+        "title": "Day 4: Departure - Last Minute Shopping & Overnight Return",
+        "dayNumbers": [
+          4
+        ],
+        "tourType": "shopping + departure",
+        "shortDescription": "Morning shopping at Manali Mall, evening volvo bus departure to Delhi"
+      }
+    ],
+    "detailedItinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Manali - Welcome to the Himalayas & Acclimatization Day",
+        "route": "Delhi Bus Stand (4:30 PM) → Manali (10-12 hours overnight volvo bus, 500 km via Chandigarh-Mandi-Kullu)",
+        "overnight": "Manali",
+        "description": "Begin your Himalayan adventure by boarding the overnight AC volvo bus from Delhi at 4:30 PM. Travel through the night, passing through Chandigarh, Mandi, and Kullu, arriving in Manali around 6-7 AM. Check-in to your hotel and prioritize rest for acclimatization. Manali sits at 6,270 feet altitude - a significant elevation from sea level. Spend the day exploring local attractions at a leisurely pace without strenuous activity. This rest day is crucial before the high-altitude Rohtang Pass journey on Day 2.",
+        "activities": [
+          "6:30 PM: Assemble at Delhi Volvo bus stand",
+          "4:30 PM: Board AC volvo bus with light dinner/refreshments onboard",
+          "Overnight journey through scenic routes (sleep in reclining seats)",
+          "6-7 AM: Arrival in Manali, breakfast at hotel",
+          "Hotel check-in and 2-3 hour rest period (crucial for acclimatization)",
+          "10:30 AM-12 PM: Visit Hadimba Temple (Devi Temple), built in 1553 with four-tiered pagoda roof and exquisitely carved wooden doorway",
+          "12:30-1 PM: Lunch at hotel or local restaurant",
+          "1-2:30 PM: Explore Manali Club House - recreational facilities including roller skating rink, billiards, auditorium, bar and restaurant",
+          "3-4 PM: Visit Tibetan Monastery and learn about Buddhist culture and philosophy",
+          "4:30-5:30 PM: Walk through Van Vihar (forest sanctuary) surrounded by deodar and pine trees",
+          "5:30-6:30 PM: Visit Vashist Hot Springs - natural thermal springs with temple dedicated to sage Vashisth and Lord Rama",
+          "Evening: Relax in natural hot spring pools (bring swimwear)",
+          "7 PM: Explore local Manali Mall and market - handicrafts, woolens, souvenirs",
+          "8 PM: Dinner at hotel",
+          "Bedtime by 9 PM for rest before early morning Rohtang departure"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Rohtang Pass High-Altitude Adventure - Gateway to Ladakh",
+        "route": "Manali (6,270 ft) → Solang Valley (8,465 ft) → Rohtang Pass (13,050 ft) → Return to Manali",
+        "overnight": "Manali",
+        "description": "Today is your high-altitude adventure day. Depart early at 6:00 AM to reach Rohtang Pass before afternoon clouds reduce visibility. The drive covers 51 km in approximately 2-2.5 hours. Rohtang Pass, at 13,050 feet, is the world-famous mountain pass serving as the gateway to Ladakh and the Spiti Valley. The pass offers panoramic views of snow-capped peaks, including Pir Panjal ranges. NOTE: Rohtang Pass is typically open mid-May to mid-November depending on snowfall. If closed, alternative locations like Gulaba (10,725 ft), Kothi, Marhi (11,475 ft), or Solang Valley (8,465 ft) will be visited instead. This itinerary assumes pass is open; your guide will confirm on the morning of Day 2.",
+        "activities": [
+          "5:30 AM: Early breakfast (light meal - porridge, toast, tea) at hotel",
+          "6:00 AM: Depart for Rohtang Pass with guide and driver",
+          "En-route stops: Photography at scenic viewpoints along Manali-Solang road",
+          "7:30-8:00 AM: Arrive at Solang Valley (8,465 ft) - adventure sports hub",
+          "8:00-8:45 AM: OPTIONAL ADVENTURE ACTIVITIES AT SOLANG (Extra Cost):",
+          "• Paragliding - Experience flight with certified pilots (₹3,500-5,000 per person)",
+          "• Hang-gliding - Advanced aerial sports (₹5,000-6,000 per person)",
+          "• Quad biking - ATV rides on mountain trails (₹1,500-2,000 per person)",
+          "• Zorbing - Rolling downhill in inflated balls (₹1,000-1,500 per person)",
+          "• Skiing - Winter sport (Dec-Feb only, ₹2,500-3,500 per person)",
+          "8:45-9:15 AM: Drive from Solang to Rohtang Pass (final 13 km)",
+          "9:15-12:30 PM: Exploration at Rohtang Pass (3+ hours - before clouds)",
+          "• Walk around the pass and absorb panoramic 360° views",
+          "• Photography of Dhauladhar, Pir Panjal, and Himachal ranges",
+          "• Visit small temples and shops at the pass",
+          "• Enjoy snacks at cafes (hot tea, maggi, local specialties)",
+          "• Acclimatize and hydrate - drink 1-2 liters of water",
+          "• Experience thin air at 13,050 ft altitude",
+          "12:30-1:00 PM: Begin descent from Rohtang Pass before afternoon clouds",
+          "1:00-2:30 PM: Drive back to Manali",
+          "2:30-3:00 PM: Lunch at hotel or local dhaba",
+          "3:00-5:00 PM: REST PERIOD - Critical recovery from high altitude (sleep/rest recommended)",
+          "5:00-6:30 PM: Visit Vashist Hot Springs for relaxation and muscle recovery",
+          "Evening: Relax at hotel or explore Old Manali village",
+          "8:00 PM: Dinner at hotel",
+          "Bedtime by 9 PM"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Kullu Valley & Manikaran Thermal Springs - Wellness & Culture",
+        "route": "Manali → Kasol (40 km, 1.5 hours) → Manikaran (45 km total, 2 hours) → Return to Manali (90 km total, 3 hours)",
+        "overnight": "Manali",
+        "description": "Today, explore the picturesque Kullu Valley and experience the therapeutic Manikaran hot springs. The Kullu Valley, nestled along the Beas River, is known for its natural beauty, fruit orchards, and traditional weaving. Manikaran, located at the confluence of the Parvati and Beas rivers, is famous for its geothermal hot springs with temperatures reaching 90°C. The springs have spiritual significance with ancient temples dedicated to sage Manikaran and Shiva. Relax in the natural thermal pools and experience the healing properties of these naturally heated waters.",
+        "activities": [
+          "8:00 AM: Breakfast at hotel",
+          "8:30 AM: Depart for Kullu Valley drive",
+          "En-route: Drive along scenic Beas River with multiple photography stops",
+          "9:00-10:00 AM: Optional stop at Kasol village (scenic hamlet, local cafes, adventure sports base)",
+          "• Walk through Kasol bazaar and interact with local communities",
+          "• Photography of river valley and pine forests",
+          "• Optional refreshments at mountain cafes",
+          "10:15-11:15 AM: Continue drive to Manikaran (passing through Kasol to Manikaran)",
+          "11:15 AM-1:30 PM: Exploration at Manikaran Hot Springs",
+          "• Visit ancient temples dedicated to sage Manikaran",
+          "• Explore naturally heated rock formations (90°C springs)",
+          "• Relax in natural hot spring pools (bring swimwear)",
+          "• Experience rejuvenation in therapeutic geothermal waters",
+          "• Photography of steam rising from springs in valley setting",
+          "• Visit local shops selling regional handicrafts",
+          "1:30-2:30 PM: Lunch at hotel or local restaurant near hot springs",
+          "2:30-4:00 PM: Return drive to Manali with scenic stops along Beas River",
+          "4:00-5:30 PM: Rest period at hotel (afternoon relaxation)",
+          "5:30-6:30 PM: Optional activities:",
+          "• Visit local markets for last-minute souvenir shopping",
+          "• Explore Old Manali village and local cafes",
+          "• Photography at sunset from viewpoint",
+          "8:00 PM: Farewell dinner at hotel (optional cultural program or local cuisine)",
+          "Bedtime by 9:30 PM"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Departure - Last Minute Shopping & Overnight Return to Delhi",
+        "route": "Manali (shopping) → Manali Volvo Bus Stand → Delhi (500 km, 10-12 hours overnight volvo bus)",
+        "overnight": null,
+        "description": "Complete your Manali adventure with last-minute shopping for souvenirs and handicrafts before evening departure. Manali Mall and local markets offer traditional Himachali woolens, shawls, pashmina, local honey, pine nuts, and handcrafted items. Board the return AC volvo bus at 4:00 PM for the overnight journey back to Delhi. You will arrive in Delhi around 6-7 AM the next morning.",
+        "activities": [
+          "8:00 AM: Breakfast at hotel",
+          "8:30-9:00 AM: Hotel checkout (keep luggage for mid-day departure)",
+          "9:00 AM-12:00 PM: Shopping at Manali - Explore local markets",
+          "• Manali Mall - handicrafts, woolens, souvenirs",
+          "• The Mall (main bazaar) - traditional items, local shops",
+          "• Local stores - Himachali shawls, pashmina, handwoven textiles",
+          "• Honey and spice shops - pure local honey, dry fruits, pine nuts",
+          "• Souvenir shops - miniatures, local art, religious items",
+          "12:00-1:30 PM: Lunch at hotel or restaurant of choice",
+          "1:30-3:30 PM: Rest or additional leisure activities",
+          "3:30 PM: Hotel final checkout and luggage collection",
+          "4:00 PM: Drop to Manali Volvo Bus Stand (arranged by hotel)",
+          "4:30 PM: Board AC volvo bus to Delhi",
+          "Overnight journey with reclining seats and onboard refreshments",
+          "6-7 AM (Next Day): Arrival at Delhi Bus Stand",
+          "End of Manali tour package"
+        ]
+      }
+    ],
+    "seasonalAlternatives": {
+      "rohtangPassStatus": "CRITICAL - Weather & Season Dependent",
+      "description": "Rohtang Pass accessibility varies by season. The pass is typically open mid-May to mid-November, but exact dates depend on snowfall and weather conditions. If Rohtang Pass is closed due to snow, alternative high-altitude locations are visited.",
+      "scenarios": [
+        {
+          "season": "December to April (Winter)",
+          "rohtangStatus": "CLOSED - Heavy snowfall",
+          "alternativeLocations": [
+            {
+              "name": "Gulaba",
+              "altitude": "10,725 ft",
+              "distance": "30 km from Manali",
+              "duration": "1.5 hours",
+              "description": "Gateway point before Rohtang, offers snow views (Dec-Feb) and clear skies",
+              "activities": [
+                "Photography",
+                "Snow play (if available)",
+                "Scenic views",
+                "Tea at cafes"
+              ]
+            },
+            {
+              "name": "Marhi",
+              "altitude": "11,475 ft",
+              "distance": "35 km from Manali",
+              "duration": "2 hours",
+              "description": "Between Solang and Rohtang, offers panoramic views and snow experiences",
+              "activities": [
+                "Snow trekking",
+                "Photography",
+                "Hot beverages",
+                "Mountain walks"
+              ]
+            },
+            {
+              "name": "Solang Valley",
+              "altitude": "8,465 ft",
+              "distance": "13 km from Manali",
+              "duration": "30 minutes",
+              "description": "Adventure hub - lower altitude, safer alternative with activity options",
+              "activities": [
+                "Paragliding",
+                "Hang-gliding",
+                "Skiing (Dec-Feb)",
+                "Quad biking",
+                "Photography"
+              ]
+            }
+          ],
+          "guideDecision": "Your guide will decide on the morning of Day 2 based on weather conditions. Safety is paramount."
+        },
+        {
+          "season": "May to November (Open Season)",
+          "rohtangStatus": "TYPICALLY OPEN - Clear routes expected",
+          "alternativeLocations": [
+            {
+              "name": "Rohtang Pass",
+              "altitude": "13,050 ft",
+              "status": "PRIMARY - Full itinerary",
+              "notes": "Standard itinerary as described. Verify opening status 1 day before travel."
+            },
+            {
+              "name": "Solang Valley",
+              "altitude": "8,465 ft",
+              "status": "BACKUP - If weather deteriorates",
+              "notes": "Adventure activities available; safer alternative in bad weather"
+            }
+          ],
+          "guideDecision": "Guide will confirm morning status and proceed to primary or backup location"
+        }
+      ]
+    },
+    "pricing": {
+      "description": "This is a budget-friendly package with volvo AC bus transportation, 3-star hotel accommodation, and all meals included. Adventure activities are optional and charged separately.",
+      "basePackagePrice": 6500,
+      "currency": "INR",
+      "pricePerPerson": true,
+      "inclusions": {
+        "transportation": "Overnight AC volvo bus (Delhi ↔ Manali, both ways)",
+        "accommodation": "3 nights 3-star hotel rooms",
+        "meals": "Breakfast and dinner daily (5 meals total)",
+        "sightseeing": "All attractions and sites as per itinerary",
+        "guide": "Local guide for sightseeing",
+        "transfers": "Hotel to volvo stand transfers",
+        "others": "Basic information booklet"
+      },
+      "exclusions": {
+        "adventure": "Adventure activities (paragliding ₹3,500-5,000, hang-gliding ₹5,000-6,000, quad biking ₹1,500-2,000, skiing ₹2,500-3,500)",
+        "meals": "Lunch during the tour",
+        "personal": "Personal expenses, shopping",
+        "insurance": "Travel insurance (optional, recommended)",
+        "activities": "Entry fees for any additional paid activities"
+      },
+      "optionalActivities": [
+        {
+          "activity": "Paragliding at Solang Valley",
+          "price": 4000,
+          "duration": "20-30 minutes flight",
+          "notes": "Weather dependent, minimum age 12 years"
+        },
+        {
+          "activity": "Hang-gliding at Solang Valley",
+          "price": 5500,
+          "duration": "30-45 minutes flight",
+          "notes": "Advanced sport, weather and experience dependent"
+        },
+        {
+          "activity": "Quad Biking (ATV)",
+          "price": 1800,
+          "duration": "30-45 minutes ride",
+          "notes": "Trail rides through Solang Valley, minimum age 12 years"
+        },
+        {
+          "activity": "Skiing at Solang Valley",
+          "price": 3000,
+          "duration": "1-2 hours session",
+          "notes": "December-February only, requires snow conditions"
+        },
+        {
+          "activity": "River Rafting on Beas River",
+          "price": 1500,
+          "duration": "1-2 hours",
+          "notes": "May-September, exciting experience (optional during Day 3)"
+        }
+      ]
+    },
+    "permits": {
+      "required": false,
+      "indianNationals": "No special permits required for Rohtang Pass",
+      "foreigners": "Valid passport and visa required. Some restricted border areas may need permits (guide will inform)",
+      "documentation": "Carry valid ID (Aadhaar/Passport/PAN) for security checkpoints",
+      "innerLinePermit": "Not required for Manali region"
+    },
+    "bestTimeToVisit": {
+      "primarySeason": "June to September",
+      "description": "Afternoon clouds, possible rain/landslides, visibility reduced for photography",
+      "secondarySeason": "May and October-November",
+      "shoulder": "April and December",
+      "avoidSeason": "July-August"
+    },
+    "temperature": {
+      "manali": "Daytime 15-25°C, Nighttime 5-10°C",
+      "rohtangPass": "Daytime 5-10°C, Nighttime -5 to 0°C",
+      "generalAdvice": "Bring layers for variable mountain weather"
+    },
+    "packing": [
+      "Warm layers - thermal wear, fleece jackets, sweaters (essential for Rohtang Pass)",
+      "Waterproof and windproof jacket - critical for high altitude weather changes",
+      "Comfortable trekking shoes with good grip - worn-in shoes recommended",
+      "Snow boots (optional) - if visiting Dec-Feb for snow activities",
+      "Swimwear - essential for hot springs (Vashist and Manikaran)",
+      "Sunscreen SPF 50+ - high altitude intensifies UV rays, reapply every 2 hours",
+      "Sunglasses and polarized lenses - protect from intense mountain sun",
+      "Wide-brimmed hat or cap - protect face and head from UV",
+      "Scarf or neck gaiter - cover face at high altitude, retain warmth",
+      "Gloves - for Rohtang Pass early morning (optional but recommended)",
+      "Comfortable casual wear - for evening in Manali",
+      "Camera and extra batteries/power bank - essential for photography",
+      "Water bottle 3-4 liters - stay hydrated at altitude",
+      "Basic medications - paracetamol, antacid, anti-diarrhea, cough syrup",
+      "Altitude sickness medication - Acetazolamide (Diamox) if prone (consult doctor)",
+      "Moisturizer with SPF - mountain air is dry, protects skin",
+      "Lip balm with SPF - prevent dry, chapped lips",
+      "Insect repellent - for forest areas and evening in valleys",
+      "Personal hygiene items and deodorant",
+      "Light backpack (20-25 liters) - for day exploration",
+      "Portable phone charger - for emergency and photography",
+      "Headache relief medication - some experience altitude headaches"
+    ],
+    "healthTips": [
+      "⚠️ CRITICAL - ALTITUDE SICKNESS RISK: Rohtang Pass is 13,050 ft. Rapid ascent from Manali (6,270 ft) equals 6,780 ft gain in ONE DAY - this is significant altitude gain.",
+      "⚠️ Day 1 Acclimatization: Rest on Day 1 evening is CRUCIAL. Avoid strenuous activity. Let body adjust to 6,270 ft altitude before Day 2 high-altitude ascent.",
+      "⚠️ Altitude Sickness Symptoms to Monitor: Headache, nausea, insomnia, shortness of breath, dizziness, fatigue. Inform guide immediately if symptoms develop.",
+      "💧 Hydration: Drink 4-5 liters of water daily. Thin air at altitude increases dehydration rapidly. Urine color is indicator - pale yellow is good, dark yellow means more water needed.",
+      "🚫 Avoid: Alcohol, heavy meals, smoking on arrival day. These worsen altitude sickness symptoms.",
+      "💊 Medication: Take Acetazolamide (Diamox) pill if prone to altitude sickness. Consult doctor BEFORE travel. Typical dose: 250 mg twice daily, starting 1-2 days before ascent.",
+      "🧘 First Day Activities: Light walking only. Avoid running, strenuous exercise. Spend time in hotel/local walks.",
+      "😴 Sleep: Mountain air aids deep sleep. Rest is essential for body acclimatization. Sleep by 9 PM on Day 1.",
+      "🌞 Sun Protection: UV exposure is intense at high altitude. Reapply sunscreen every 2 hours. Wear sunglasses constantly.",
+      "⛔ Not Recommended For: Pregnant women, severe heart conditions, uncontrolled high blood pressure, severe respiratory diseases, recent surgery (within 6 months).",
+      "🏥 Medical Support: Nearest hospital is in Manali town (30-45 minutes from Rohtang Pass). In emergencies, guide will arrange evacuation via helicopter (expensive, ₹1-5 lakh).",
+      "🏥 Get Travel Insurance: Comprehensive insurance covering altitude-related issues, emergency evacuation, and medical expenses is HIGHLY RECOMMENDED.",
+      "⏰ Rohtang Pass Timing: Early morning start (6 AM) is mandatory. Afternoon clouds reduce visibility drastically. No exceptions - weather waits for no one.",
+      "🍽️ Eat Light: Local cuisine is rich and spicy. Start gradually with local food. Carry light snacks for high-altitude days.",
+      "🚴 Activity Level: This tour is MODERATE with one high-altitude day (Day 2). Not recommended for people with limited fitness.",
+      "📱 Emergency Contact: Keep guide's phone number saved. Inform your emergency contact back home about your schedule."
+    ],
+    "localCuisine": [
+      "Himachali Dham - traditional multi-course meal with rice, pulses, meat, chutneys",
+      "Tudkiya Bhath - rice preparation with meat and mountain spices",
+      "Chha Gosht - mutton cooked in yogurt-based gravy",
+      "Pahari Dhal - lentil curry made with local ingredients",
+      "Momos - Tibetan dumplings (popular in Manali due to Tibetan presence)",
+      "Tibetan Noodles - local preparation available at monasteries and cafes",
+      "Papadum and Achar - local pickles and dried lentil crackers",
+      "Mushroom Dishes - wild mushrooms collected from forests, seasonal",
+      "Local Honey - pure mountain honey, famous throughout Himachal",
+      "Fresh Trout - mountain stream fish, local delicacy",
+      "Pahadi Bhaat - rice cooked in traditional mountain style",
+      "Black Kulth - lentil curry, high protein and altitude-friendly"
+    ],
+    "interestingFacts": [
+      "Hadimba Temple was built in 1553 by Raja Bahadur Singh's wife to honor goddess Hadimba, character from Mahabharata",
+      "Rohtang Pass name comes from 'Roht' (dead bodies) and 'Ang' (heap) due to historical avalanches",
+      "Rohtang Pass is one of the oldest mountain passes in the Himalayas, used for centuries by traders on the Silk Route",
+      "Solang Valley is named after a local deity and is home to Asia's best paragliding sites",
+      "Manali was established as a hill station by the British and named after Manu, who is considered the progenitor of humanity in Hindu mythology",
+      "The Beas River flowing through Manali valley has spiritual significance and multiple legends associated with it",
+      "Vashist sage is believed to have lived in the mountains and created the hot springs through his spiritual powers",
+      "Manikaran hot springs are geothermal springs with water temperature reaching 90°C naturally",
+      "Tibetan Monastery in Manali was established in the 1960s and houses Buddhist monks from Tibet",
+      "Manali Pine forests are home to diverse flora and fauna including Himalayan black bears, musk deer, and various bird species",
+      "The region is home to traditional Himachali weaving, producing famous Chamba Rumal textile art",
+      "Club House in Manali is a colonial-era structure dating back to British rule, still functioning as a recreational hub"
+    ],
+    "transportationNotes": {
+      "accessPoint": "Delhi - starting/ending point for volvo bus",
+      "volvoDetails": "AC reclining seats, overnight journey, onboard refreshments",
+      "busStand": "Delhi Bus Stand (ISBT, Kashmeri Gate) - central location with good metro connectivity",
+      "alternatives": "Can board from Chandigarh or Shimla if preferred (additional fee)",
+      "drivingRoute": "Delhi → Chandigarh (250 km, 4-5 hrs) → Mandi (180 km, 4 hrs) → Kullu (40 km, 1 hr) → Manali (40 km, 1 hr) = Total 500 km, 10-12 hours",
+      "manaliTransport": "Car available for local sightseeing with hotel arrangement",
+      "driveNotes": "Mountain roads are safe but winding. Early starts necessary for visibility. Night driving avoided."
+    },
+    "importantNotes": [
+      "Rohtang Pass Status: Verify 1-2 days before your tour. Check latest weather and road conditions.",
+      "Early Start Mandatory: Day 2 departure at 6:00 AM is MANDATORY for Rohtang visibility. No exceptions.",
+      "Afternoon Clouds: Rohtang Pass clouds increase from 1 PM onwards. Photography quality drops dramatically after noon.",
+      "Safety Priority: If weather is dangerous, your guide has full authority to cancel/reschedule Rohtang visit. Your safety is paramount.",
+      "Adventure Activities: All optional activities are weather-dependent. Paragliding/hang-gliding only in clear skies.",
+      "Hot Springs: Bring swimwear for both Vashist (Day 1) and Manikaran (Day 3). Natural thermal pools are therapeutic.",
+      "Altitude Sickness: Even young, fit travelers can experience mild altitude sickness. Do not ignore symptoms.",
+      "Volvo Bus Quality: Volvo buses are comfortable but expect 10-12 hour journey. Bring eye mask, neck pillow for comfort.",
+      "Group Tours: This package works for individual travelers or small groups. Large groups may have separate arrangements.",
+      "Cancellation Policy: Cancellations due to weather/pass closure are non-refundable. Weather is unpredictable in mountains.",
+      "Extension Possible: Package can be extended to 5D/4N to include Naggar Castle, Kasol, or Pangi Valley trek (negotiate separately)"
+    ],
+    "customizationOptions": [
+      {
+        "option": "Adventure Package",
+        "description": "Add paragliding, hang-gliding, or river rafting",
+        "additionalCost": "₹5,000-8,000 depending on activities"
+      },
+      {
+        "option": "Luxury Upgrade",
+        "description": "5-star hotel accommodation instead of 3-star",
+        "additionalCost": "₹3,000-5,000 per night"
+      },
+      {
+        "option": "Extension to Kasol",
+        "description": "Extend by 1-2 days to explore Kasol village (Parvati Valley base)",
+        "additionalCost": "₹2,500-4,000 per day"
+      },
+      {
+        "option": "Private Car Alternative",
+        "description": "Replace volvo bus with private car (more flexible timing, comfort)",
+        "additionalCost": "₹8,000-15,000 for private car (1-4 persons)"
+      },
+      {
+        "option": "Yoga & Wellness Focus",
+        "description": "Add yoga sessions at hotels and wellness treatments",
+        "additionalCost": "₹1,500-2,500 per session"
+      }
+    ],
+    "tour_type": "bike",
+    "cardImage": "bike_itinerary_images/4D_manali.jpg",
+    "pricePerPerson": {
+      "standard": "₹12,500",
+      "deluxe": "₹14,500",
+      "premium": "₹13,000"
+    }
+  }
+}

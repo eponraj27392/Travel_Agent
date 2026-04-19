@@ -62,3 +62,21 @@ def get_booking(booking_id: str) -> dict | None:
             "SELECT * FROM bookings WHERE booking_id = ?", (booking_id,)
         ).fetchone()
     return dict(row) if row else None
+
+
+def cancel_booking(booking_id: str) -> str:
+    init_db()
+    with _get_conn() as conn:
+        row = conn.execute(
+            "SELECT status FROM bookings WHERE booking_id = ?", (booking_id,)
+        ).fetchone()
+        if not row:
+            return f"Booking '{booking_id}' not found."
+        if row["status"] == "CANCELLED":
+            return f"Booking '{booking_id}' is already cancelled."
+        conn.execute(
+            "UPDATE bookings SET status = 'CANCELLED' WHERE booking_id = ?",
+            (booking_id,),
+        )
+        conn.commit()
+    return f"Booking '{booking_id}' has been successfully cancelled."
